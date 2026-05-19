@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>GuateFlow — Predictor de Tráfico</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{font-family:'Segoe UI',sans-serif;background:#0f1117;color:#e0e0e0;min-height:100vh;}
+  header{background:#111827;border-bottom:2px solid #22c55e;padding:16px 32px;display:flex;align-items:center;gap:12px;}
+  header h1{font-size:1.6rem;color:#22c55e;letter-spacing:1px;}
+  header span{font-size:.85rem;color:#9ca3af;}
+  .container{max-width:1100px;margin:0 auto;padding:32px 20px;}
+  .grid{display:grid;grid-template-columns:380px 1fr;gap:24px;align-items:start;}
+  .card{background:#1f2937;border-radius:12px;padding:24px;border:1px solid #374151;}
+  .card h2{font-size:1rem;color:#22c55e;margin-bottom:18px;text-transform:uppercase;letter-spacing:.5px;}
+  label{display:block;font-size:.8rem;color:#9ca3af;margin-bottom:4px;margin-top:14px;}
+  select,input{width:100%;background:#111827;border:1px solid #374151;color:#e0e0e0;
+    padding:9px 12px;border-radius:6px;font-size:.9rem;}
+  select:focus,input:focus{outline:none;border-color:#22c55e;}
+  .toggle-row{display:flex;gap:8px;margin-top:14px;}
+  .toggle-btn{flex:1;padding:9px;border-radius:6px;border:1px solid #374151;
+    background:#111827;color:#9ca3af;cursor:pointer;font-size:.85rem;transition:.2s;}
+  .toggle-btn.active{background:#22c55e;color:#000;font-weight:700;border-color:#22c55e;}
+  .btn-predict{width:100%;margin-top:22px;padding:14px;border-radius:8px;border:none;
+    background:#22c55e;color:#000;font-size:1rem;font-weight:700;cursor:pointer;transition:.2s;}
+  .btn-predict:hover{background:#16a34a;}
+  /* Result badge */
+  .result-box{text-align:center;padding:28px;border-radius:12px;margin-bottom:20px;}
+  .result-box.alto   {background:rgba(239,68,68,.15);border:2px solid #ef4444;}
+  .result-box.moderado{background:rgba(234,179,8,.12);border:2px solid #eab308;}
+  .result-box.bajo   {background:rgba(34,197,94,.12);border:2px solid #22c55e;}
+  .result-label{font-size:2.4rem;font-weight:800;letter-spacing:2px;}
+  .result-label.alto    {color:#ef4444;}
+  .result-label.moderado{color:#eab308;}
+  .result-label.bajo    {color:#22c55e;}
+  .result-sub{font-size:.85rem;color:#9ca3af;margin-top:6px;}
+  /* Probability bars */
+  .prob-row{display:flex;align-items:center;gap:10px;margin-bottom:10px;}
+  .prob-name{width:80px;font-size:.82rem;color:#9ca3af;}
+  .prob-bar-wrap{flex:1;background:#374151;border-radius:4px;height:10px;overflow:hidden;}
+  .prob-bar{height:100%;border-radius:4px;transition:width .6s;}
+  .prob-val{width:40px;text-align:right;font-size:.82rem;font-weight:600;}
+  /* 24h chart */
+  #chart24{width:100%;height:160px;}
+  /* Zone table */
+  .zone-table{width:100%;border-collapse:collapse;font-size:.82rem;}
+  .zone-table th{background:#111827;color:#9ca3af;padding:8px 10px;text-align:left;
+    border-bottom:1px solid #374151;}
+  .zone-table td{padding:8px 10px;border-bottom:1px solid #1f2937;}
+  .badge{display:inline-block;padding:2px 10px;border-radius:12px;font-size:.75rem;font-weight:700;}
+  .badge.alto    {background:#ef444422;color:#ef4444;border:1px solid #ef4444;}
+  .badge.moderado{background:#eab30822;color:#eab308;border:1px solid #eab308;}
+  .badge.bajo    {background:#22c55e22;color:#22c55e;border:1px solid #22c55e;}
+  /* Feature importance */
+  .fi-row{margin-bottom:10px;}
+  .fi-label{display:flex;justify-content:space-between;font-size:.8rem;color:#9ca3af;margin-bottom:3px;}
+  .fi-bar-wrap{background:#374151;border-radius:4px;height:8px;overflow:hidden;}
+  .fi-bar{height:100%;background:#22c55e;border-radius:4px;}
+  canvas{display:block;}
+</style>
+</head>
+<body>
+<header>
+  <div>🚦</div>
+  <div>
+    <h1>GuateFlow</h1>
+    <span>Predictor de Congestión Vial — Ciudad de Guatemala</span>
+  </div>
+</header>
+
+<div class="container">
+  <div class="grid">
+
+    <!-- FORM -->
+    <div class="card">
+      <h2>⚙ Parámetros de Predicción</h2>
+
+      <label>Zona</label>
+      <select id="zona">
+        <option>Zona 1</option><option>Zona 4</option>
+        <option selected>Zona 10</option><option>Zona 12</option>
+        <option>Calzada Roosevelt</option><option>Periférico</option>
+      </select>
+
+      <label>Hora del día</label>
+      <input type="range" id="hora" min="0" max="23" value="8"
+             oninput="document.getElementById('hora-val').textContent=this.value+':00'"/>
+      <div style="text-align:center;color:#22c55e;font-weight:700;margin-top:4px;"
+           id="hora-val">8:00</div>
+
+      <label>Día de la semana</label>
+      <select id="dia">
+        <option>Lunes</option><option>Martes</option><option>Miércoles</option>
+        <option>Jueves</option><option>Viernes</option>
+        <option>Sábado</option><option>Domingo</option>
+      </select>
+
+      <label>Condición climática</label>
+      <select id="clima">
+        <option>Soleado</option><option>Nublado</option><option>Lluvia</option>
+      </select>
+
+      <label>Evento especial</label>
+      <div class="toggle-row">
+        <button class="toggle-btn active" id="ev-no"  onclick="setEvento(0)">No</button>
+        <button class="toggle-btn"        id="ev-si"  onclick="setEvento(1)">Sí</button>
+      </div>
+      <input type="hidden" id="evento" value="0"/>
+
+      <button class="btn-predict" onclick="predecir()">🔍 Predecir Tráfico</button>
+    </div>
+
+    <!-- RESULTS -->
+    <div>
+      <!-- Badge -->
+      <div class="card" style="margin-bottom:20px;">
+        <h2>📊 Resultado</h2>
+        <div class="result-box bajo" id="result-box">
+          <div class="result-label bajo" id="result-label">—</div>
+          <div class="result-sub" id="result-sub">Ingresa los parámetros y presiona Predecir</div>
+        </div>
+        <!-- Probabilidades -->
+        <div id="probs">
+          <div class="prob-row">
+            <span class="prob-name">Alto</span>
+            <div class="prob-bar-wrap"><div class="prob-bar" id="bar-alto"
+              style="width:0%;background:#ef4444;"></div></div>
+            <span class="prob-val" id="val-alto">—</span>
+          </div>
+          <div class="prob-row">
+            <span class="prob-name">Moderado</span>
+            <div class="prob-bar-wrap"><div class="prob-bar" id="bar-mod"
+              style="width:0%;background:#eab308;"></div></div>
+            <span class="prob-val" id="val-mod">—</span>
+          </div>
+          <div class="prob-row">
+            <span class="prob-name">Bajo</span>
+            <div class="prob-bar-wrap"><div class="prob-bar" id="bar-bajo"
+              style="width:0%;background:#22c55e;"></div></div>
+            <span class="prob-val" id="val-bajo">—</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- 24h Profile -->
+      <div class="card" style="margin-bottom:20px;">
+        <h2>🕐 Perfil de Tráfico — 24 horas</h2>
+        <canvas id="chart24" height="140"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- Zone table + Feature importance -->
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:0;">
+    <div class="card">
+      <h2>🗺 Mapa de Zonas (hora actual)</h2>
+      <table class="zone-table" id="zone-table">
+        <tr><th>Zona</th><th>Nivel estimado</th></tr>
+      </table>
+    </div>
+    <div class="card">
+      <h2>📈 Importancia de Variables</h2>
+      <div id="fi-container"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── Modelo simulado ──────────────────────────────────────────────────────────
+const ZONAS_PESO = {"Zona 1":2,"Zona 4":1,"Zona 10":1,"Zona 12":1,
+                    "Calzada Roosevelt":2,"Periférico":2};
+const DIAS_PESO  = {"Lunes":2,"Martes":2,"Miércoles":2,"Jueves":2,
+                    "Viernes":2,"Sábado":1,"Domingo":0};
+
+function score(zona, hora, dia, clima, evento){
+  let s = 0;
+  if((hora>=6&&hora<10)||(hora>=16&&hora<20)) s+=3;
+  else if(hora>=10&&hora<16) s+=1;
+  else s-=1;
+  s += DIAS_PESO[dia]||0;
+  s += ZONAS_PESO[zona]||0;
+  if(clima==="Lluvia") s+=2;
+  else if(clima==="Nublado") s+=1;
+  if(evento==1) s+=2;
+  return s;
+}
+
+function nivel(s){
+  if(s<=3) return "Bajo";
+  if(s<=6) return "Moderado";
+  return "Alto";
+}
+
+function softmax(values){
+  const ex = values.map(v=>Math.exp(v));
+  const sum = ex.reduce((a,b)=>a+b,0);
+  return ex.map(v=>v/sum);
+}
+
+function getProbas(s){
+  // logits: [Alto, Moderado, Bajo]
+  const logits = [s-4, -(Math.abs(s-5)), 10-s];
+  return softmax(logits);
+}
+
+let eventoVal = 0;
+function setEvento(v){
+  eventoVal = v;
+  document.getElementById("ev-no").classList.toggle("active",v===0);
+  document.getElementById("ev-si").classList.toggle("active",v===1);
+}
+
+function predecir(){
+  const zona  = document.getElementById("zona").value;
+  const hora  = parseInt(document.getElementById("hora").value);
+  const dia   = document.getElementById("dia").value;
+  const clima = document.getElementById("clima").value;
+  const s     = score(zona,hora,dia,clima,eventoVal);
+  const niv   = nivel(s);
+  const cls   = niv.toLowerCase();
+  const probas = getProbas(s); // [Alto, Moderado, Bajo]
+
+  // Badge
+  const box = document.getElementById("result-box");
+  const lbl = document.getElementById("result-label");
+  box.className = "result-box "+cls;
+  lbl.className = "result-label "+cls;
+  lbl.textContent = niv.toUpperCase();
+  document.getElementById("result-sub").textContent =
+    `${zona} · ${hora}:00 · ${dia} · ${clima}${eventoVal?" · Evento especial":""}`;
+
+  // Bars
+  const labels = ["alto","mod","bajo"];
+  const vals   = [probas[0],probas[1],probas[2]];
+  const colors_map = {alto:"#ef4444",mod:"#eab308",bajo:"#22c55e"};
+  labels.forEach((k,i)=>{
+    const pct = (vals[i]*100).toFixed(1);
+    document.getElementById("bar-"+k).style.width = pct+"%";
+    document.getElementById("val-"+k).textContent = pct+"%";
+  });
+
+  draw24h(zona, dia, clima, eventoVal);
+  drawZones(hora, dia, clima, eventoVal);
+}
+
+// ── 24h Chart ────────────────────────────────────────────────────────────────
+function draw24h(zona, dia, clima, evento){
+  const canvas = document.getElementById("chart24");
+  const ctx    = canvas.getContext("2d");
+  canvas.width = canvas.offsetWidth; canvas.height = 140;
+  const W=canvas.width, H=canvas.height;
+  ctx.clearRect(0,0,W,H);
+
+  const scores = Array.from({length:24},(_,h)=>score(zona,h,dia,clima,evento));
+  const maxS = Math.max(...scores)+1;
+
+  // Grid
+  ctx.strokeStyle="#374151"; ctx.lineWidth=1;
+  [0,3,6,9].forEach(v=>{
+    const y = H-20-(v/maxS)*(H-30);
+    ctx.beginPath(); ctx.moveTo(40,y); ctx.lineTo(W-10,y); ctx.stroke();
+    ctx.fillStyle="#6b7280"; ctx.font="10px sans-serif";
+    ctx.fillText(["Bajo","","Mod","","Alto"][v]||"",4,y+4);
+  });
+
+  // Area
+  const pts = scores.map((s,i)=>{
+    const x = 40+(i/(23))*(W-50);
+    const y = H-20-(s/maxS)*(H-30);
+    return [x,y];
+  });
+  ctx.beginPath();
+  ctx.moveTo(pts[0][0],H-20);
+  pts.forEach(([x,y])=>ctx.lineTo(x,y));
+  ctx.lineTo(pts[pts.length-1][0],H-20);
+  ctx.closePath();
+  ctx.fillStyle="rgba(34,197,94,.15)"; ctx.fill();
+
+  ctx.beginPath();
+  pts.forEach(([x,y],i)=>i===0?ctx.moveTo(x,y):ctx.lineTo(x,y));
+  ctx.strokeStyle="#22c55e"; ctx.lineWidth=2; ctx.stroke();
+
+  // Hour labels
+  ctx.fillStyle="#6b7280"; ctx.font="9px sans-serif";
+  [0,6,12,18,23].forEach(h=>{
+    const x=40+(h/23)*(W-50);
+    ctx.fillText(h+"h",x-8,H-4);
+  });
+}
+
+// ── Zone table ───────────────────────────────────────────────────────────────
+const ZONAS_LIST = ["Zona 1","Zona 4","Zona 10","Zona 12","Calzada Roosevelt","Periférico"];
+function drawZones(hora, dia, clima, evento){
+  const tbody = document.getElementById("zone-table");
+  tbody.innerHTML = "<tr><th>Zona</th><th>Nivel estimado</th></tr>";
+  ZONAS_LIST.forEach(z=>{
+    const s = score(z,hora,dia,clima,evento);
+    const niv = nivel(s);
+    const cls = niv.toLowerCase();
+    const tr = document.createElement("tr");
+    tr.innerHTML = `<td>${z}</td><td><span class="badge ${cls}">${niv}</span></td>`;
+    tbody.appendChild(tr);
+  });
+}
+
+// ── Feature importance ───────────────────────────────────────────────────────
+const FI = [
+  {name:"Hora del día",    pct:39.2},
+  {name:"Zona geográfica", pct:28.7},
+  {name:"Día de la semana",pct:17.4},
+  {name:"Clima",           pct:9.1},
+  {name:"Evento especial", pct:5.6},
+];
+(function drawFI(){
+  const container = document.getElementById("fi-container");
+  FI.forEach(({name,pct})=>{
+    container.innerHTML += `
+      <div class="fi-row">
+        <div class="fi-label"><span>${name}</span><span>${pct}%</span></div>
+        <div class="fi-bar-wrap"><div class="fi-bar" style="width:${pct*2}%;"></div></div>
+      </div>`;
+  });
+})();
+
+// Init
+window.addEventListener("load",()=>{
+  draw24h("Zona 10","Lunes","Soleado",0);
+  drawZones(8,"Lunes","Soleado",0);
+});
+</script>
+</body>
+</html>

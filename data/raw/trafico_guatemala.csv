@@ -1,0 +1,5001 @@
+zona,hora,dia_semana,clima,evento_especial,nivel_trafico
+Zona 12,14,Miércoles,Nublado,0,Moderado
+Zona 10,22,Miércoles,Soleado,0,Bajo
+Periférico,20,Martes,Nublado,1,Moderado
+Zona 12,20,Lunes,Soleado,0,Bajo
+Zona 1,9,Jueves,Lluvia,0,Alto
+Periférico,18,Jueves,Soleado,0,Alto
+Calzada Roosevelt,18,Domingo,Soleado,0,Moderado
+Zona 12,13,Martes,Soleado,0,Moderado
+Zona 12,14,Jueves,Soleado,0,Moderado
+Zona 10,13,Lunes,Soleado,0,Moderado
+Periférico,5,Sábado,Soleado,0,Bajo
+Zona 4,11,Martes,Soleado,1,Moderado
+Periférico,22,Jueves,Soleado,0,Bajo
+Zona 4,14,Viernes,Nublado,1,Moderado
+Zona 1,14,Viernes,Soleado,1,Moderado
+Zona 12,7,Domingo,Nublado,0,Moderado
+Zona 10,0,Miércoles,Soleado,0,Bajo
+Zona 12,6,Lunes,Nublado,0,Alto
+Periférico,23,Viernes,Nublado,0,Moderado
+Zona 10,0,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,22,Domingo,Soleado,0,Bajo
+Zona 4,9,Jueves,Soleado,0,Moderado
+Zona 1,19,Viernes,Soleado,1,Alto
+Calzada Roosevelt,14,Miércoles,Soleado,1,Alto
+Zona 10,18,Sábado,Lluvia,0,Alto
+Zona 1,20,Sábado,Soleado,0,Bajo
+Periférico,10,Martes,Soleado,0,Moderado
+Zona 1,0,Lunes,Nublado,0,Bajo
+Zona 1,2,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,0,Miércoles,Soleado,0,Moderado
+Periférico,23,Lunes,Soleado,0,Bajo
+Zona 12,11,Sábado,Nublado,0,Bajo
+Zona 1,23,Lunes,Soleado,1,Moderado
+Calzada Roosevelt,0,Lunes,Soleado,0,Bajo
+Periférico,22,Jueves,Soleado,0,Bajo
+Periférico,23,Viernes,Nublado,0,Moderado
+Zona 1,8,Jueves,Soleado,0,Alto
+Zona 12,3,Miércoles,Nublado,0,Moderado
+Zona 12,8,Lunes,Soleado,0,Moderado
+Zona 10,17,Domingo,Soleado,0,Moderado
+Zona 12,15,Martes,Lluvia,0,Moderado
+Zona 4,0,Sábado,Lluvia,1,Moderado
+Zona 1,8,Miércoles,Nublado,0,Alto
+Zona 1,23,Jueves,Soleado,0,Bajo
+Zona 12,2,Sábado,Lluvia,1,Moderado
+Periférico,17,Martes,Nublado,0,Alto
+Zona 12,0,Jueves,Soleado,0,Bajo
+Zona 10,16,Lunes,Soleado,0,Moderado
+Periférico,13,Sábado,Lluvia,0,Moderado
+Zona 10,1,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,15,Miércoles,Nublado,0,Moderado
+Zona 12,13,Viernes,Lluvia,0,Moderado
+Calzada Roosevelt,16,Sábado,Lluvia,1,Alto
+Zona 12,20,Domingo,Soleado,0,Bajo
+Zona 1,9,Domingo,Nublado,1,Alto
+Zona 4,14,Sábado,Soleado,0,Bajo
+Zona 4,16,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,9,Domingo,Soleado,0,Moderado
+Zona 12,6,Lunes,Nublado,0,Alto
+Periférico,11,Miércoles,Soleado,0,Moderado
+Periférico,18,Lunes,Soleado,1,Alto
+Zona 4,21,Lunes,Soleado,0,Bajo
+Zona 10,4,Lunes,Nublado,0,Bajo
+Zona 12,5,Viernes,Soleado,0,Bajo
+Zona 12,15,Viernes,Lluvia,0,Alto
+Zona 1,23,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,20,Sábado,Nublado,0,Bajo
+Zona 1,0,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,20,Lunes,Lluvia,0,Moderado
+Calzada Roosevelt,21,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,21,Lunes,Soleado,0,Moderado
+Zona 1,13,Sábado,Nublado,0,Moderado
+Zona 4,15,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,22,Martes,Nublado,0,Moderado
+Zona 12,9,Martes,Lluvia,0,Alto
+Calzada Roosevelt,3,Domingo,Lluvia,0,Moderado
+Zona 12,23,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,18,Miércoles,Lluvia,0,Alto
+Zona 4,10,Jueves,Soleado,0,Bajo
+Zona 4,18,Martes,Nublado,0,Moderado
+Zona 4,9,Martes,Soleado,0,Moderado
+Zona 12,20,Martes,Nublado,0,Bajo
+Calzada Roosevelt,3,Martes,Soleado,0,Moderado
+Zona 1,2,Jueves,Soleado,0,Moderado
+Periférico,4,Jueves,Soleado,0,Bajo
+Zona 10,8,Sábado,Lluvia,0,Moderado
+Periférico,12,Miércoles,Soleado,0,Moderado
+Zona 1,18,Jueves,Soleado,1,Alto
+Zona 12,18,Martes,Nublado,0,Alto
+Zona 12,19,Miércoles,Soleado,1,Alto
+Calzada Roosevelt,20,Martes,Lluvia,1,Alto
+Calzada Roosevelt,2,Domingo,Soleado,0,Bajo
+Zona 12,8,Martes,Nublado,0,Alto
+Periférico,12,Martes,Soleado,0,Moderado
+Calzada Roosevelt,4,Sábado,Lluvia,0,Bajo
+Periférico,19,Lunes,Lluvia,1,Alto
+Zona 12,18,Viernes,Soleado,0,Moderado
+Zona 4,18,Domingo,Soleado,0,Bajo
+Zona 12,19,Jueves,Nublado,0,Alto
+Zona 1,2,Viernes,Soleado,0,Bajo
+Zona 1,23,Lunes,Soleado,1,Moderado
+Calzada Roosevelt,14,Viernes,Soleado,1,Moderado
+Zona 12,2,Miércoles,Lluvia,0,Bajo
+Zona 1,13,Domingo,Soleado,0,Bajo
+Zona 10,15,Domingo,Soleado,0,Bajo
+Zona 12,23,Jueves,Soleado,0,Bajo
+Zona 4,17,Jueves,Soleado,1,Alto
+Periférico,16,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,13,Miércoles,Nublado,1,Alto
+Zona 1,1,Martes,Lluvia,0,Moderado
+Calzada Roosevelt,22,Lunes,Nublado,0,Moderado
+Zona 1,10,Viernes,Nublado,0,Alto
+Zona 10,16,Viernes,Soleado,0,Alto
+Zona 1,20,Domingo,Lluvia,0,Moderado
+Calzada Roosevelt,5,Miércoles,Nublado,0,Bajo
+Zona 4,9,Miércoles,Soleado,0,Moderado
+Zona 1,18,Viernes,Nublado,0,Alto
+Zona 4,7,Domingo,Nublado,0,Moderado
+Zona 10,17,Jueves,Nublado,1,Alto
+Periférico,16,Domingo,Soleado,0,Moderado
+Periférico,1,Miércoles,Soleado,0,Bajo
+Periférico,17,Martes,Nublado,0,Alto
+Zona 4,19,Lunes,Soleado,0,Moderado
+Zona 4,18,Lunes,Lluvia,0,Moderado
+Zona 4,16,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,1,Viernes,Soleado,0,Moderado
+Zona 10,14,Lunes,Soleado,0,Moderado
+Periférico,15,Jueves,Soleado,0,Moderado
+Zona 10,17,Viernes,Soleado,0,Moderado
+Zona 4,9,Viernes,Soleado,0,Moderado
+Zona 1,11,Martes,Lluvia,0,Alto
+Calzada Roosevelt,8,Martes,Nublado,0,Alto
+Periférico,10,Domingo,Soleado,0,Bajo
+Zona 1,2,Viernes,Lluvia,0,Moderado
+Periférico,22,Sábado,Soleado,0,Bajo
+Zona 10,23,Miércoles,Nublado,0,Bajo
+Zona 10,14,Jueves,Soleado,0,Moderado
+Zona 10,14,Lunes,Nublado,0,Moderado
+Zona 1,16,Domingo,Soleado,0,Moderado
+Zona 1,12,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,17,Domingo,Nublado,0,Alto
+Zona 1,11,Miércoles,Soleado,0,Moderado
+Zona 4,23,Miércoles,Lluvia,0,Bajo
+Calzada Roosevelt,21,Viernes,Soleado,0,Bajo
+Zona 10,23,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,3,Domingo,Lluvia,0,Moderado
+Zona 12,14,Sábado,Lluvia,0,Moderado
+Zona 10,1,Domingo,Soleado,0,Bajo
+Zona 12,4,Sábado,Lluvia,0,Bajo
+Zona 12,16,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,10,Domingo,Soleado,0,Bajo
+Periférico,17,Martes,Soleado,0,Alto
+Calzada Roosevelt,7,Martes,Soleado,0,Moderado
+Zona 1,8,Miércoles,Soleado,0,Alto
+Periférico,16,Viernes,Nublado,1,Alto
+Calzada Roosevelt,23,Miércoles,Lluvia,0,Moderado
+Zona 1,7,Sábado,Soleado,0,Alto
+Zona 1,4,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,18,Miércoles,Nublado,1,Alto
+Calzada Roosevelt,9,Lunes,Nublado,0,Alto
+Zona 10,5,Lunes,Nublado,0,Bajo
+Zona 1,0,Domingo,Soleado,0,Bajo
+Zona 10,5,Sábado,Soleado,0,Bajo
+Zona 12,14,Domingo,Nublado,0,Moderado
+Zona 10,3,Viernes,Soleado,0,Bajo
+Zona 10,22,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,9,Lunes,Soleado,0,Alto
+Zona 12,12,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,14,Jueves,Nublado,0,Alto
+Zona 10,18,Jueves,Soleado,0,Moderado
+Zona 12,10,Sábado,Lluvia,0,Moderado
+Zona 4,13,Miércoles,Soleado,0,Bajo
+Zona 4,0,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,7,Domingo,Soleado,0,Moderado
+Zona 1,21,Miércoles,Nublado,1,Moderado
+Zona 10,22,Lunes,Soleado,1,Moderado
+Zona 12,21,Domingo,Lluvia,0,Bajo
+Zona 10,7,Domingo,Soleado,0,Bajo
+Zona 4,19,Lunes,Soleado,0,Moderado
+Zona 12,10,Sábado,Soleado,0,Bajo
+Zona 10,16,Miércoles,Soleado,1,Alto
+Zona 1,6,Jueves,Soleado,1,Alto
+Calzada Roosevelt,10,Sábado,Soleado,0,Bajo
+Zona 1,19,Lunes,Soleado,0,Alto
+Calzada Roosevelt,7,Lunes,Soleado,0,Alto
+Zona 10,23,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,15,Miércoles,Soleado,0,Moderado
+Zona 4,1,Sábado,Soleado,0,Bajo
+Zona 10,3,Lunes,Soleado,0,Bajo
+Zona 4,9,Miércoles,Nublado,0,Alto
+Zona 12,17,Domingo,Nublado,0,Moderado
+Zona 10,23,Domingo,Nublado,0,Bajo
+Zona 1,14,Viernes,Soleado,0,Moderado
+Zona 4,2,Sábado,Nublado,0,Bajo
+Periférico,20,Sábado,Soleado,0,Bajo
+Zona 4,6,Lunes,Soleado,0,Moderado
+Zona 10,3,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,19,Miércoles,Soleado,0,Alto
+Zona 12,19,Viernes,Soleado,0,Moderado
+Zona 4,20,Jueves,Soleado,1,Bajo
+Zona 4,23,Miércoles,Lluvia,0,Bajo
+Zona 4,18,Lunes,Soleado,0,Moderado
+Zona 1,6,Lunes,Soleado,0,Alto
+Zona 4,12,Martes,Soleado,0,Bajo
+Calzada Roosevelt,9,Jueves,Soleado,0,Moderado
+Zona 1,5,Martes,Nublado,0,Moderado
+Calzada Roosevelt,5,Miércoles,Nublado,0,Bajo
+Calzada Roosevelt,6,Martes,Lluvia,0,Alto
+Zona 4,13,Martes,Soleado,0,Moderado
+Calzada Roosevelt,3,Miércoles,Soleado,0,Moderado
+Zona 12,16,Miércoles,Soleado,0,Moderado
+Periférico,21,Viernes,Soleado,0,Moderado
+Zona 12,18,Miércoles,Nublado,0,Alto
+Calzada Roosevelt,10,Martes,Nublado,0,Moderado
+Zona 1,7,Lunes,Soleado,0,Alto
+Zona 1,6,Miércoles,Nublado,0,Alto
+Periférico,5,Martes,Soleado,0,Moderado
+Zona 10,16,Viernes,Nublado,0,Moderado
+Zona 12,15,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,21,Sábado,Lluvia,1,Alto
+Zona 10,8,Viernes,Nublado,0,Alto
+Zona 1,22,Martes,Nublado,1,Moderado
+Calzada Roosevelt,6,Lunes,Soleado,0,Alto
+Calzada Roosevelt,17,Domingo,Lluvia,0,Alto
+Zona 10,9,Domingo,Soleado,0,Moderado
+Zona 12,12,Martes,Lluvia,0,Moderado
+Zona 12,6,Domingo,Nublado,0,Moderado
+Zona 1,12,Martes,Soleado,0,Moderado
+Zona 4,22,Miércoles,Lluvia,0,Moderado
+Calzada Roosevelt,12,Martes,Lluvia,0,Alto
+Periférico,19,Viernes,Nublado,0,Alto
+Zona 12,15,Jueves,Lluvia,0,Moderado
+Zona 12,4,Lunes,Soleado,0,Bajo
+Periférico,17,Jueves,Nublado,0,Alto
+Calzada Roosevelt,13,Domingo,Soleado,0,Moderado
+Zona 4,4,Viernes,Soleado,0,Bajo
+Periférico,23,Miércoles,Lluvia,1,Alto
+Zona 12,3,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,18,Viernes,Soleado,0,Moderado
+Zona 4,8,Lunes,Lluvia,0,Moderado
+Calzada Roosevelt,21,Domingo,Soleado,0,Bajo
+Zona 1,9,Miércoles,Nublado,0,Alto
+Zona 10,5,Viernes,Soleado,0,Bajo
+Zona 12,13,Viernes,Soleado,0,Moderado
+Zona 10,8,Miércoles,Lluvia,0,Alto
+Zona 1,4,Miércoles,Soleado,0,Moderado
+Periférico,7,Miércoles,Nublado,0,Alto
+Calzada Roosevelt,15,Viernes,Lluvia,1,Alto
+Calzada Roosevelt,18,Martes,Nublado,0,Alto
+Calzada Roosevelt,12,Lunes,Lluvia,0,Moderado
+Zona 10,15,Lunes,Soleado,0,Bajo
+Zona 4,3,Domingo,Nublado,0,Bajo
+Zona 10,12,Martes,Soleado,0,Moderado
+Zona 4,10,Viernes,Nublado,0,Moderado
+Periférico,12,Viernes,Soleado,0,Moderado
+Periférico,16,Lunes,Nublado,0,Alto
+Zona 10,15,Sábado,Soleado,0,Bajo
+Zona 4,14,Sábado,Nublado,0,Bajo
+Zona 12,16,Jueves,Soleado,0,Moderado
+Periférico,23,Miércoles,Lluvia,1,Alto
+Calzada Roosevelt,11,Jueves,Nublado,0,Alto
+Calzada Roosevelt,10,Lunes,Soleado,0,Moderado
+Zona 10,22,Martes,Soleado,0,Bajo
+Zona 10,12,Lunes,Soleado,0,Bajo
+Zona 10,19,Martes,Nublado,0,Alto
+Zona 10,2,Lunes,Lluvia,0,Bajo
+Calzada Roosevelt,14,Viernes,Nublado,0,Moderado
+Calzada Roosevelt,2,Miércoles,Soleado,0,Moderado
+Zona 4,2,Lunes,Nublado,0,Bajo
+Zona 12,15,Miércoles,Lluvia,0,Moderado
+Calzada Roosevelt,20,Domingo,Soleado,0,Bajo
+Zona 10,11,Viernes,Lluvia,1,Alto
+Zona 1,13,Domingo,Soleado,0,Bajo
+Periférico,15,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,1,Miércoles,Lluvia,0,Moderado
+Zona 4,17,Sábado,Lluvia,0,Alto
+Calzada Roosevelt,0,Jueves,Nublado,0,Moderado
+Zona 10,23,Lunes,Soleado,1,Moderado
+Periférico,21,Jueves,Nublado,0,Moderado
+Zona 12,0,Martes,Soleado,0,Bajo
+Zona 1,12,Jueves,Soleado,0,Moderado
+Zona 4,13,Martes,Nublado,0,Moderado
+Zona 12,16,Miércoles,Soleado,0,Moderado
+Periférico,8,Domingo,Nublado,0,Moderado
+Zona 12,19,Sábado,Nublado,0,Alto
+Zona 12,15,Jueves,Nublado,0,Moderado
+Zona 10,8,Jueves,Nublado,0,Alto
+Zona 12,22,Jueves,Soleado,0,Bajo
+Zona 10,22,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,22,Miércoles,Soleado,0,Moderado
+Periférico,4,Lunes,Soleado,0,Moderado
+Zona 10,21,Domingo,Soleado,0,Bajo
+Periférico,20,Domingo,Soleado,0,Bajo
+Zona 12,11,Sábado,Lluvia,0,Moderado
+Zona 10,8,Jueves,Soleado,0,Moderado
+Zona 4,3,Sábado,Nublado,1,Bajo
+Periférico,11,Miércoles,Nublado,0,Alto
+Zona 1,2,Martes,Nublado,1,Alto
+Zona 4,11,Sábado,Lluvia,0,Bajo
+Periférico,12,Lunes,Soleado,0,Moderado
+Periférico,23,Domingo,Soleado,0,Bajo
+Zona 1,1,Miércoles,Nublado,0,Bajo
+Zona 10,9,Miércoles,Soleado,0,Moderado
+Zona 4,11,Sábado,Soleado,0,Bajo
+Zona 12,0,Lunes,Soleado,0,Bajo
+Zona 10,4,Domingo,Nublado,0,Bajo
+Zona 12,23,Jueves,Lluvia,0,Moderado
+Calzada Roosevelt,19,Martes,Lluvia,0,Alto
+Zona 12,0,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,0,Lunes,Nublado,0,Bajo
+Zona 4,23,Miércoles,Soleado,1,Bajo
+Calzada Roosevelt,6,Domingo,Soleado,0,Moderado
+Zona 12,5,Jueves,Soleado,0,Bajo
+Zona 4,22,Martes,Soleado,0,Bajo
+Periférico,4,Domingo,Soleado,0,Bajo
+Zona 4,10,Martes,Soleado,0,Bajo
+Zona 1,11,Miércoles,Lluvia,0,Moderado
+Zona 1,18,Domingo,Nublado,0,Moderado
+Zona 1,1,Martes,Nublado,0,Bajo
+Zona 1,15,Viernes,Nublado,0,Moderado
+Zona 10,3,Martes,Soleado,0,Bajo
+Zona 10,5,Martes,Nublado,0,Moderado
+Calzada Roosevelt,10,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,14,Lunes,Soleado,0,Moderado
+Zona 10,0,Lunes,Soleado,0,Bajo
+Zona 4,10,Miércoles,Soleado,0,Bajo
+Periférico,8,Miércoles,Soleado,1,Alto
+Periférico,20,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,14,Jueves,Soleado,0,Moderado
+Periférico,13,Martes,Nublado,0,Moderado
+Zona 10,22,Domingo,Soleado,1,Bajo
+Zona 10,14,Jueves,Lluvia,0,Moderado
+Periférico,3,Viernes,Soleado,0,Moderado
+Zona 12,2,Martes,Nublado,0,Bajo
+Calzada Roosevelt,3,Martes,Soleado,0,Moderado
+Zona 12,9,Domingo,Soleado,0,Bajo
+Zona 4,9,Jueves,Soleado,0,Moderado
+Zona 1,11,Viernes,Nublado,1,Alto
+Periférico,21,Viernes,Lluvia,0,Moderado
+Zona 4,23,Martes,Soleado,1,Bajo
+Zona 4,4,Jueves,Soleado,0,Bajo
+Zona 4,17,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,14,Lunes,Nublado,0,Alto
+Calzada Roosevelt,16,Sábado,Soleado,0,Alto
+Zona 10,9,Lunes,Soleado,0,Moderado
+Zona 1,1,Miércoles,Nublado,0,Moderado
+Periférico,6,Lunes,Nublado,1,Alto
+Zona 10,3,Martes,Soleado,1,Bajo
+Periférico,3,Viernes,Lluvia,0,Moderado
+Zona 10,5,Lunes,Nublado,0,Bajo
+Zona 12,4,Jueves,Soleado,0,Bajo
+Zona 4,2,Sábado,Soleado,0,Bajo
+Periférico,1,Domingo,Soleado,0,Bajo
+Zona 4,22,Sábado,Soleado,0,Bajo
+Zona 12,4,Viernes,Nublado,0,Moderado
+Zona 4,22,Jueves,Soleado,0,Bajo
+Periférico,12,Domingo,Soleado,0,Bajo
+Zona 12,7,Jueves,Soleado,0,Moderado
+Periférico,17,Domingo,Lluvia,0,Alto
+Zona 12,1,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,1,Lunes,Soleado,1,Moderado
+Zona 1,10,Miércoles,Soleado,0,Moderado
+Periférico,2,Sábado,Soleado,1,Bajo
+Zona 12,9,Jueves,Lluvia,0,Alto
+Calzada Roosevelt,2,Sábado,Lluvia,0,Moderado
+Zona 10,15,Domingo,Soleado,0,Bajo
+Zona 10,1,Miércoles,Nublado,0,Bajo
+Zona 4,1,Lunes,Soleado,0,Bajo
+Periférico,0,Sábado,Lluvia,0,Moderado
+Zona 10,8,Sábado,Soleado,0,Moderado
+Zona 4,3,Lunes,Soleado,0,Bajo
+Periférico,19,Martes,Soleado,0,Moderado
+Zona 10,1,Jueves,Soleado,0,Bajo
+Zona 10,1,Martes,Soleado,0,Bajo
+Calzada Roosevelt,23,Domingo,Lluvia,0,Moderado
+Calzada Roosevelt,8,Jueves,Soleado,0,Moderado
+Zona 12,3,Domingo,Soleado,0,Bajo
+Zona 12,3,Jueves,Nublado,0,Bajo
+Zona 12,2,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,21,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,21,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,0,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,17,Viernes,Lluvia,0,Alto
+Zona 1,10,Domingo,Soleado,0,Bajo
+Zona 4,3,Martes,Soleado,0,Bajo
+Zona 1,19,Viernes,Soleado,0,Moderado
+Zona 1,8,Lunes,Nublado,1,Alto
+Zona 12,15,Viernes,Soleado,1,Moderado
+Zona 12,10,Domingo,Nublado,0,Bajo
+Zona 1,22,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,7,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,18,Miércoles,Soleado,1,Alto
+Zona 4,13,Jueves,Soleado,0,Moderado
+Zona 10,18,Miércoles,Soleado,0,Moderado
+Zona 4,5,Domingo,Soleado,1,Bajo
+Zona 1,8,Martes,Nublado,0,Alto
+Zona 12,13,Lunes,Nublado,0,Moderado
+Zona 4,9,Viernes,Soleado,0,Moderado
+Periférico,12,Viernes,Lluvia,0,Alto
+Zona 10,9,Domingo,Soleado,0,Bajo
+Zona 1,7,Miércoles,Nublado,0,Alto
+Periférico,19,Sábado,Lluvia,0,Alto
+Periférico,16,Viernes,Soleado,0,Alto
+Zona 1,11,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,7,Sábado,Nublado,0,Alto
+Periférico,21,Miércoles,Soleado,0,Bajo
+Zona 4,1,Viernes,Nublado,0,Bajo
+Zona 10,22,Jueves,Nublado,0,Bajo
+Zona 1,23,Miércoles,Soleado,0,Bajo
+Periférico,6,Jueves,Nublado,0,Alto
+Zona 4,15,Lunes,Nublado,0,Moderado
+Zona 4,1,Miércoles,Soleado,0,Bajo
+Zona 10,1,Lunes,Soleado,0,Bajo
+Zona 4,21,Jueves,Nublado,0,Bajo
+Calzada Roosevelt,19,Miércoles,Nublado,0,Alto
+Zona 10,4,Martes,Soleado,0,Bajo
+Periférico,2,Martes,Soleado,0,Moderado
+Calzada Roosevelt,9,Sábado,Soleado,0,Moderado
+Zona 12,16,Domingo,Lluvia,0,Alto
+Calzada Roosevelt,15,Martes,Nublado,0,Moderado
+Zona 4,17,Miércoles,Soleado,0,Moderado
+Periférico,18,Sábado,Nublado,0,Alto
+Periférico,20,Domingo,Nublado,0,Bajo
+Zona 12,22,Lunes,Soleado,0,Bajo
+Zona 10,14,Miércoles,Nublado,0,Moderado
+Zona 1,5,Jueves,Soleado,0,Moderado
+Periférico,14,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,19,Viernes,Lluvia,0,Alto
+Zona 1,21,Viernes,Nublado,1,Alto
+Calzada Roosevelt,18,Martes,Lluvia,0,Alto
+Calzada Roosevelt,4,Jueves,Nublado,0,Bajo
+Zona 12,5,Martes,Soleado,0,Bajo
+Zona 10,0,Lunes,Soleado,0,Bajo
+Zona 12,11,Jueves,Soleado,1,Moderado
+Zona 12,20,Sábado,Soleado,0,Bajo
+Zona 12,6,Miércoles,Soleado,0,Moderado
+Periférico,9,Lunes,Nublado,0,Alto
+Zona 12,23,Miércoles,Soleado,1,Bajo
+Calzada Roosevelt,3,Martes,Soleado,0,Moderado
+Zona 4,23,Miércoles,Lluvia,0,Moderado
+Calzada Roosevelt,9,Martes,Soleado,0,Moderado
+Calzada Roosevelt,20,Martes,Soleado,0,Bajo
+Zona 1,18,Miércoles,Lluvia,0,Alto
+Calzada Roosevelt,8,Lunes,Soleado,0,Alto
+Zona 1,6,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,1,Jueves,Nublado,0,Moderado
+Zona 1,16,Martes,Soleado,0,Moderado
+Zona 4,20,Viernes,Lluvia,0,Bajo
+Zona 4,1,Miércoles,Nublado,0,Bajo
+Periférico,9,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,19,Martes,Soleado,0,Alto
+Calzada Roosevelt,14,Sábado,Soleado,0,Bajo
+Zona 1,7,Martes,Nublado,0,Alto
+Zona 1,23,Sábado,Soleado,0,Bajo
+Zona 12,2,Sábado,Soleado,0,Bajo
+Zona 4,10,Miércoles,Soleado,0,Bajo
+Zona 12,8,Jueves,Soleado,0,Moderado
+Periférico,7,Martes,Soleado,0,Alto
+Zona 10,12,Miércoles,Lluvia,0,Moderado
+Zona 1,0,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,3,Sábado,Nublado,0,Bajo
+Zona 12,10,Sábado,Soleado,1,Moderado
+Calzada Roosevelt,20,Sábado,Nublado,0,Bajo
+Zona 4,22,Miércoles,Nublado,0,Bajo
+Zona 12,1,Martes,Soleado,0,Bajo
+Zona 12,8,Jueves,Lluvia,0,Alto
+Zona 10,1,Domingo,Nublado,0,Bajo
+Periférico,2,Jueves,Soleado,0,Bajo
+Zona 12,23,Martes,Soleado,0,Bajo
+Zona 1,18,Domingo,Soleado,0,Moderado
+Periférico,16,Viernes,Nublado,0,Alto
+Zona 10,0,Jueves,Nublado,0,Moderado
+Zona 12,14,Domingo,Soleado,0,Bajo
+Zona 10,3,Martes,Soleado,0,Bajo
+Calzada Roosevelt,2,Lunes,Soleado,0,Bajo
+Zona 12,11,Lunes,Nublado,0,Moderado
+Zona 4,18,Lunes,Lluvia,0,Alto
+Zona 10,1,Sábado,Soleado,0,Bajo
+Zona 10,18,Sábado,Nublado,0,Moderado
+Zona 1,7,Sábado,Lluvia,0,Alto
+Zona 10,13,Miércoles,Nublado,0,Moderado
+Periférico,8,Miércoles,Nublado,0,Alto
+Zona 12,13,Sábado,Soleado,0,Bajo
+Periférico,8,Lunes,Soleado,0,Alto
+Calzada Roosevelt,2,Lunes,Soleado,0,Moderado
+Zona 12,7,Martes,Nublado,0,Moderado
+Calzada Roosevelt,16,Sábado,Soleado,0,Moderado
+Zona 4,20,Domingo,Nublado,0,Bajo
+Zona 10,11,Lunes,Nublado,0,Moderado
+Zona 12,2,Lunes,Soleado,1,Bajo
+Zona 12,21,Jueves,Soleado,0,Bajo
+Zona 4,19,Viernes,Soleado,1,Alto
+Zona 12,18,Jueves,Nublado,0,Alto
+Zona 12,12,Miércoles,Nublado,1,Alto
+Zona 10,22,Lunes,Soleado,0,Bajo
+Periférico,17,Lunes,Soleado,0,Alto
+Zona 10,9,Lunes,Soleado,0,Alto
+Periférico,2,Viernes,Soleado,0,Bajo
+Periférico,16,Sábado,Soleado,0,Moderado
+Zona 4,6,Viernes,Soleado,0,Moderado
+Zona 10,21,Sábado,Soleado,0,Bajo
+Zona 1,16,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,10,Sábado,Lluvia,0,Moderado
+Calzada Roosevelt,0,Jueves,Nublado,0,Bajo
+Calzada Roosevelt,12,Jueves,Nublado,0,Moderado
+Zona 12,4,Lunes,Nublado,0,Bajo
+Zona 1,14,Jueves,Nublado,0,Moderado
+Zona 1,3,Martes,Soleado,0,Bajo
+Zona 1,11,Martes,Soleado,0,Moderado
+Calzada Roosevelt,8,Martes,Soleado,0,Alto
+Periférico,17,Miércoles,Lluvia,0,Alto
+Zona 12,5,Miércoles,Nublado,0,Moderado
+Periférico,7,Martes,Soleado,0,Alto
+Zona 10,0,Domingo,Nublado,0,Bajo
+Periférico,16,Domingo,Soleado,0,Moderado
+Periférico,20,Sábado,Lluvia,0,Bajo
+Zona 1,20,Sábado,Nublado,0,Bajo
+Zona 10,2,Jueves,Nublado,0,Moderado
+Zona 10,15,Martes,Soleado,0,Bajo
+Zona 4,23,Jueves,Soleado,0,Bajo
+Zona 1,14,Jueves,Soleado,0,Moderado
+Zona 12,2,Miércoles,Soleado,0,Bajo
+Zona 1,16,Sábado,Nublado,0,Alto
+Zona 1,3,Lunes,Soleado,0,Moderado
+Zona 10,10,Viernes,Soleado,0,Moderado
+Zona 10,9,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,9,Viernes,Nublado,0,Alto
+Zona 10,22,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,12,Miércoles,Lluvia,0,Moderado
+Periférico,3,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,21,Viernes,Nublado,0,Moderado
+Zona 4,12,Miércoles,Soleado,0,Moderado
+Zona 12,20,Jueves,Nublado,0,Bajo
+Zona 12,23,Viernes,Soleado,0,Bajo
+Zona 12,18,Viernes,Lluvia,0,Alto
+Zona 1,23,Martes,Soleado,0,Bajo
+Zona 1,4,Jueves,Lluvia,0,Moderado
+Calzada Roosevelt,1,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,21,Miércoles,Soleado,0,Bajo
+Periférico,11,Sábado,Soleado,0,Moderado
+Zona 4,3,Sábado,Soleado,0,Bajo
+Zona 10,10,Lunes,Soleado,0,Bajo
+Periférico,17,Jueves,Nublado,0,Alto
+Calzada Roosevelt,2,Domingo,Soleado,0,Bajo
+Zona 1,16,Lunes,Lluvia,0,Alto
+Zona 10,4,Viernes,Lluvia,0,Moderado
+Zona 4,21,Viernes,Soleado,0,Bajo
+Zona 4,20,Jueves,Nublado,0,Bajo
+Zona 1,14,Miércoles,Lluvia,0,Moderado
+Periférico,6,Miércoles,Nublado,0,Alto
+Calzada Roosevelt,12,Viernes,Nublado,0,Moderado
+Zona 12,2,Martes,Soleado,0,Bajo
+Periférico,13,Jueves,Soleado,0,Moderado
+Zona 10,13,Jueves,Nublado,0,Moderado
+Calzada Roosevelt,18,Miércoles,Lluvia,0,Alto
+Zona 4,9,Jueves,Nublado,0,Moderado
+Zona 4,12,Domingo,Soleado,0,Bajo
+Periférico,23,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,6,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,18,Viernes,Soleado,0,Alto
+Zona 1,22,Domingo,Lluvia,0,Bajo
+Zona 12,19,Martes,Soleado,0,Moderado
+Periférico,3,Viernes,Lluvia,0,Moderado
+Periférico,1,Martes,Nublado,0,Bajo
+Zona 12,16,Domingo,Soleado,0,Bajo
+Zona 4,17,Sábado,Nublado,0,Moderado
+Zona 1,5,Viernes,Lluvia,0,Moderado
+Zona 1,0,Miércoles,Soleado,0,Bajo
+Zona 10,12,Miércoles,Lluvia,0,Alto
+Calzada Roosevelt,16,Martes,Soleado,0,Alto
+Zona 1,23,Domingo,Soleado,0,Bajo
+Zona 10,12,Viernes,Lluvia,0,Moderado
+Zona 12,14,Lunes,Soleado,0,Moderado
+Zona 10,11,Viernes,Soleado,0,Moderado
+Zona 12,8,Miércoles,Soleado,0,Moderado
+Zona 10,11,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,12,Jueves,Lluvia,0,Moderado
+Periférico,10,Sábado,Lluvia,0,Moderado
+Calzada Roosevelt,12,Martes,Soleado,1,Alto
+Zona 10,5,Jueves,Soleado,0,Bajo
+Periférico,0,Jueves,Soleado,0,Bajo
+Zona 1,16,Sábado,Nublado,0,Alto
+Calzada Roosevelt,9,Sábado,Soleado,1,Alto
+Periférico,16,Jueves,Lluvia,0,Alto
+Periférico,16,Jueves,Nublado,0,Alto
+Zona 1,3,Martes,Soleado,0,Moderado
+Zona 12,15,Domingo,Soleado,0,Bajo
+Periférico,20,Martes,Nublado,0,Moderado
+Calzada Roosevelt,5,Domingo,Soleado,0,Bajo
+Zona 4,6,Jueves,Nublado,0,Alto
+Calzada Roosevelt,3,Viernes,Lluvia,0,Moderado
+Zona 10,7,Lunes,Nublado,0,Moderado
+Periférico,3,Miércoles,Nublado,1,Moderado
+Zona 12,12,Domingo,Soleado,0,Bajo
+Zona 1,22,Viernes,Soleado,0,Moderado
+Zona 12,21,Lunes,Soleado,0,Bajo
+Zona 4,9,Miércoles,Nublado,0,Moderado
+Zona 12,14,Domingo,Nublado,0,Bajo
+Zona 12,5,Sábado,Soleado,0,Bajo
+Periférico,17,Martes,Soleado,0,Moderado
+Zona 10,23,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,20,Sábado,Soleado,0,Bajo
+Periférico,17,Sábado,Soleado,0,Moderado
+Zona 10,5,Viernes,Soleado,0,Bajo
+Zona 1,15,Miércoles,Nublado,0,Moderado
+Zona 1,15,Jueves,Lluvia,1,Alto
+Zona 4,11,Miércoles,Soleado,1,Moderado
+Periférico,21,Martes,Lluvia,0,Moderado
+Calzada Roosevelt,1,Lunes,Lluvia,0,Moderado
+Zona 4,22,Viernes,Lluvia,0,Moderado
+Periférico,0,Miércoles,Nublado,0,Moderado
+Periférico,21,Jueves,Soleado,0,Bajo
+Zona 12,9,Domingo,Nublado,0,Moderado
+Zona 10,21,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,9,Jueves,Soleado,0,Alto
+Zona 4,18,Lunes,Soleado,0,Moderado
+Zona 10,19,Jueves,Nublado,1,Alto
+Zona 10,13,Lunes,Nublado,0,Moderado
+Zona 10,17,Jueves,Nublado,1,Alto
+Calzada Roosevelt,19,Jueves,Soleado,0,Moderado
+Zona 1,4,Martes,Lluvia,0,Moderado
+Zona 1,3,Viernes,Nublado,0,Bajo
+Zona 10,11,Martes,Nublado,0,Moderado
+Zona 4,7,Viernes,Soleado,0,Moderado
+Zona 12,14,Martes,Soleado,0,Bajo
+Zona 10,15,Domingo,Soleado,0,Bajo
+Zona 12,14,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,3,Martes,Nublado,0,Moderado
+Zona 4,16,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,20,Sábado,Soleado,0,Bajo
+Periférico,4,Lunes,Lluvia,0,Moderado
+Calzada Roosevelt,19,Miércoles,Lluvia,0,Alto
+Zona 10,3,Domingo,Soleado,0,Bajo
+Zona 4,4,Lunes,Soleado,0,Bajo
+Periférico,15,Miércoles,Lluvia,0,Alto
+Calzada Roosevelt,21,Viernes,Soleado,0,Moderado
+Zona 4,9,Miércoles,Soleado,0,Moderado
+Zona 10,9,Sábado,Soleado,0,Moderado
+Zona 1,20,Viernes,Soleado,0,Bajo
+Zona 10,3,Lunes,Lluvia,0,Moderado
+Zona 10,5,Lunes,Soleado,0,Bajo
+Periférico,16,Martes,Nublado,0,Alto
+Periférico,5,Jueves,Lluvia,0,Moderado
+Zona 1,11,Domingo,Soleado,0,Bajo
+Zona 10,14,Jueves,Nublado,0,Moderado
+Zona 1,18,Miércoles,Nublado,0,Alto
+Zona 1,13,Martes,Soleado,0,Moderado
+Calzada Roosevelt,18,Sábado,Soleado,1,Alto
+Calzada Roosevelt,0,Viernes,Nublado,0,Bajo
+Periférico,2,Miércoles,Soleado,0,Bajo
+Zona 1,19,Domingo,Soleado,0,Moderado
+Zona 10,4,Domingo,Soleado,1,Bajo
+Zona 10,18,Martes,Soleado,0,Moderado
+Zona 1,11,Sábado,Soleado,0,Bajo
+Periférico,0,Viernes,Nublado,0,Moderado
+Zona 10,0,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,1,Sábado,Soleado,1,Bajo
+Zona 12,21,Domingo,Nublado,0,Bajo
+Periférico,23,Jueves,Soleado,0,Bajo
+Zona 1,7,Martes,Soleado,1,Alto
+Periférico,4,Jueves,Soleado,0,Bajo
+Zona 12,8,Lunes,Soleado,0,Alto
+Zona 10,9,Martes,Soleado,0,Moderado
+Periférico,21,Martes,Nublado,0,Bajo
+Periférico,19,Miércoles,Soleado,0,Alto
+Zona 12,2,Domingo,Nublado,0,Bajo
+Zona 10,5,Domingo,Nublado,0,Bajo
+Zona 1,3,Miércoles,Nublado,0,Bajo
+Zona 10,9,Viernes,Lluvia,0,Alto
+Zona 10,23,Sábado,Nublado,0,Bajo
+Zona 12,0,Lunes,Soleado,1,Bajo
+Zona 12,18,Lunes,Soleado,0,Moderado
+Zona 4,5,Sábado,Soleado,0,Bajo
+Zona 4,2,Jueves,Nublado,1,Moderado
+Zona 12,8,Miércoles,Soleado,0,Moderado
+Zona 10,8,Martes,Nublado,0,Alto
+Zona 1,20,Domingo,Soleado,1,Moderado
+Zona 1,13,Viernes,Soleado,1,Alto
+Calzada Roosevelt,17,Miércoles,Soleado,0,Alto
+Periférico,15,Domingo,Nublado,0,Moderado
+Zona 12,12,Sábado,Soleado,0,Moderado
+Zona 10,13,Miércoles,Nublado,0,Moderado
+Periférico,10,Lunes,Soleado,0,Moderado
+Periférico,4,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,10,Miércoles,Nublado,0,Moderado
+Zona 12,10,Viernes,Nublado,0,Moderado
+Periférico,10,Martes,Soleado,0,Moderado
+Calzada Roosevelt,10,Sábado,Soleado,0,Bajo
+Zona 10,13,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,15,Viernes,Soleado,0,Moderado
+Zona 4,6,Miércoles,Nublado,0,Alto
+Zona 12,4,Lunes,Soleado,0,Bajo
+Zona 1,20,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,22,Sábado,Lluvia,1,Moderado
+Zona 4,16,Martes,Soleado,0,Moderado
+Calzada Roosevelt,8,Sábado,Nublado,0,Alto
+Zona 1,21,Viernes,Nublado,0,Moderado
+Zona 10,21,Lunes,Soleado,0,Bajo
+Periférico,19,Domingo,Soleado,0,Moderado
+Calzada Roosevelt,1,Viernes,Nublado,0,Moderado
+Periférico,0,Sábado,Soleado,0,Bajo
+Zona 10,13,Martes,Soleado,0,Moderado
+Zona 1,9,Jueves,Soleado,0,Alto
+Periférico,18,Sábado,Soleado,1,Alto
+Calzada Roosevelt,8,Domingo,Nublado,0,Alto
+Zona 4,7,Domingo,Nublado,0,Moderado
+Zona 10,12,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,15,Lunes,Soleado,1,Alto
+Zona 4,16,Domingo,Soleado,0,Moderado
+Zona 4,16,Domingo,Soleado,0,Bajo
+Zona 10,2,Domingo,Lluvia,0,Bajo
+Zona 12,15,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,21,Lunes,Soleado,0,Bajo
+Periférico,18,Miércoles,Lluvia,0,Alto
+Zona 10,20,Sábado,Soleado,0,Bajo
+Zona 4,7,Sábado,Soleado,0,Moderado
+Zona 12,19,Lunes,Lluvia,0,Alto
+Calzada Roosevelt,21,Domingo,Soleado,1,Bajo
+Calzada Roosevelt,2,Miércoles,Soleado,0,Moderado
+Periférico,3,Miércoles,Soleado,0,Moderado
+Zona 10,10,Martes,Nublado,0,Moderado
+Zona 12,1,Viernes,Soleado,0,Bajo
+Zona 4,4,Viernes,Soleado,0,Bajo
+Zona 10,4,Miércoles,Nublado,0,Moderado
+Zona 12,8,Domingo,Lluvia,0,Moderado
+Zona 10,20,Martes,Lluvia,0,Moderado
+Periférico,9,Jueves,Soleado,0,Alto
+Zona 10,7,Viernes,Soleado,0,Moderado
+Zona 12,10,Domingo,Nublado,0,Bajo
+Zona 12,18,Martes,Soleado,1,Alto
+Periférico,5,Lunes,Soleado,1,Moderado
+Calzada Roosevelt,0,Sábado,Soleado,0,Bajo
+Periférico,12,Miércoles,Nublado,0,Alto
+Calzada Roosevelt,14,Domingo,Nublado,0,Moderado
+Zona 12,4,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,21,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,23,Sábado,Nublado,0,Bajo
+Zona 10,23,Domingo,Lluvia,1,Moderado
+Zona 4,1,Miércoles,Nublado,0,Bajo
+Zona 10,19,Jueves,Soleado,0,Moderado
+Zona 4,2,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,16,Miércoles,Soleado,0,Alto
+Periférico,10,Sábado,Soleado,0,Moderado
+Periférico,5,Domingo,Nublado,0,Bajo
+Zona 10,2,Miércoles,Nublado,0,Bajo
+Zona 10,3,Viernes,Nublado,0,Bajo
+Zona 4,10,Lunes,Soleado,0,Moderado
+Periférico,1,Domingo,Nublado,0,Bajo
+Zona 10,20,Jueves,Soleado,0,Bajo
+Zona 12,5,Lunes,Soleado,1,Bajo
+Zona 4,22,Sábado,Soleado,1,Bajo
+Zona 12,4,Domingo,Nublado,0,Bajo
+Periférico,9,Sábado,Soleado,0,Moderado
+Zona 12,21,Sábado,Nublado,0,Bajo
+Periférico,17,Jueves,Nublado,0,Alto
+Zona 10,14,Jueves,Soleado,0,Moderado
+Zona 10,23,Martes,Soleado,0,Bajo
+Zona 1,5,Martes,Lluvia,0,Moderado
+Periférico,19,Viernes,Soleado,0,Alto
+Periférico,10,Domingo,Soleado,1,Moderado
+Calzada Roosevelt,22,Domingo,Soleado,0,Bajo
+Zona 4,16,Domingo,Nublado,0,Moderado
+Calzada Roosevelt,13,Jueves,Soleado,0,Moderado
+Zona 1,9,Sábado,Soleado,0,Moderado
+Zona 4,6,Jueves,Soleado,0,Moderado
+Periférico,23,Martes,Soleado,0,Moderado
+Calzada Roosevelt,7,Jueves,Soleado,0,Alto
+Calzada Roosevelt,23,Jueves,Nublado,0,Bajo
+Calzada Roosevelt,3,Viernes,Soleado,0,Bajo
+Periférico,23,Domingo,Soleado,0,Bajo
+Zona 10,13,Sábado,Soleado,0,Bajo
+Zona 10,11,Jueves,Soleado,0,Moderado
+Zona 4,22,Martes,Soleado,0,Bajo
+Calzada Roosevelt,15,Martes,Nublado,0,Alto
+Zona 4,14,Domingo,Soleado,0,Bajo
+Zona 1,7,Jueves,Soleado,0,Moderado
+Zona 1,11,Jueves,Nublado,0,Moderado
+Zona 10,15,Martes,Soleado,0,Moderado
+Zona 1,7,Viernes,Lluvia,0,Alto
+Zona 10,12,Lunes,Soleado,0,Moderado
+Zona 12,6,Lunes,Nublado,0,Alto
+Periférico,23,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,21,Martes,Lluvia,0,Moderado
+Periférico,5,Sábado,Soleado,1,Moderado
+Zona 12,16,Miércoles,Nublado,0,Alto
+Zona 12,8,Domingo,Soleado,0,Moderado
+Periférico,3,Viernes,Nublado,0,Bajo
+Zona 12,19,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,16,Martes,Soleado,1,Alto
+Periférico,7,Miércoles,Soleado,1,Alto
+Calzada Roosevelt,16,Jueves,Nublado,0,Alto
+Periférico,17,Domingo,Nublado,1,Alto
+Calzada Roosevelt,13,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,15,Domingo,Nublado,0,Moderado
+Zona 1,19,Martes,Nublado,0,Alto
+Zona 1,19,Lunes,Nublado,0,Alto
+Zona 10,1,Lunes,Soleado,0,Bajo
+Periférico,7,Miércoles,Soleado,0,Alto
+Periférico,18,Miércoles,Nublado,0,Alto
+Zona 4,20,Viernes,Nublado,1,Moderado
+Zona 4,5,Viernes,Nublado,0,Bajo
+Zona 1,2,Miércoles,Soleado,0,Moderado
+Zona 4,7,Miércoles,Nublado,0,Moderado
+Zona 10,23,Sábado,Soleado,0,Bajo
+Zona 10,19,Jueves,Soleado,1,Alto
+Calzada Roosevelt,19,Martes,Nublado,0,Alto
+Zona 12,13,Miércoles,Soleado,0,Moderado
+Zona 12,0,Martes,Soleado,0,Bajo
+Zona 12,7,Martes,Lluvia,0,Alto
+Zona 12,23,Domingo,Lluvia,0,Bajo
+Zona 10,23,Sábado,Soleado,1,Bajo
+Zona 10,2,Viernes,Soleado,1,Bajo
+Zona 10,11,Lunes,Nublado,0,Moderado
+Zona 4,19,Jueves,Lluvia,0,Alto
+Zona 1,21,Lunes,Nublado,1,Moderado
+Zona 1,19,Lunes,Nublado,0,Alto
+Zona 1,19,Sábado,Nublado,1,Alto
+Zona 12,14,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,5,Lunes,Soleado,0,Moderado
+Zona 12,17,Viernes,Nublado,0,Alto
+Zona 10,7,Martes,Nublado,1,Alto
+Zona 10,4,Martes,Nublado,0,Moderado
+Calzada Roosevelt,5,Viernes,Soleado,0,Bajo
+Zona 1,7,Jueves,Nublado,0,Alto
+Zona 4,12,Miércoles,Nublado,0,Bajo
+Periférico,8,Domingo,Lluvia,0,Alto
+Zona 4,22,Domingo,Soleado,0,Bajo
+Periférico,7,Viernes,Nublado,0,Alto
+Zona 4,21,Martes,Nublado,0,Bajo
+Zona 10,12,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,16,Sábado,Soleado,0,Moderado
+Zona 10,13,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,12,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,21,Martes,Nublado,0,Moderado
+Calzada Roosevelt,19,Sábado,Soleado,0,Moderado
+Zona 12,16,Lunes,Nublado,0,Alto
+Zona 10,10,Domingo,Nublado,0,Moderado
+Zona 12,3,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,16,Domingo,Soleado,0,Moderado
+Periférico,13,Viernes,Soleado,0,Moderado
+Zona 12,15,Sábado,Soleado,0,Bajo
+Zona 4,2,Sábado,Soleado,1,Bajo
+Zona 1,6,Viernes,Nublado,0,Alto
+Zona 4,15,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,20,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,22,Viernes,Soleado,1,Moderado
+Periférico,11,Jueves,Nublado,0,Moderado
+Zona 4,14,Martes,Soleado,0,Bajo
+Zona 10,2,Martes,Soleado,1,Moderado
+Zona 12,16,Lunes,Soleado,0,Moderado
+Zona 10,21,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,9,Miércoles,Lluvia,0,Alto
+Zona 1,17,Lunes,Soleado,0,Alto
+Zona 10,14,Viernes,Soleado,0,Moderado
+Zona 1,1,Viernes,Nublado,0,Moderado
+Periférico,9,Lunes,Nublado,0,Alto
+Zona 1,13,Miércoles,Nublado,0,Alto
+Zona 10,10,Viernes,Nublado,1,Alto
+Zona 1,1,Jueves,Soleado,1,Moderado
+Zona 10,15,Lunes,Soleado,0,Moderado
+Zona 4,15,Sábado,Nublado,0,Moderado
+Zona 4,11,Jueves,Soleado,1,Moderado
+Zona 4,14,Domingo,Nublado,0,Bajo
+Periférico,7,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,16,Jueves,Nublado,1,Alto
+Calzada Roosevelt,14,Jueves,Soleado,0,Moderado
+Zona 4,6,Viernes,Lluvia,0,Moderado
+Zona 10,14,Jueves,Nublado,0,Moderado
+Zona 4,20,Viernes,Nublado,0,Bajo
+Periférico,3,Martes,Soleado,0,Bajo
+Periférico,3,Sábado,Soleado,0,Bajo
+Zona 10,21,Viernes,Soleado,0,Bajo
+Zona 12,8,Domingo,Soleado,0,Moderado
+Zona 1,19,Lunes,Soleado,0,Moderado
+Zona 12,22,Sábado,Soleado,0,Bajo
+Zona 12,1,Viernes,Lluvia,0,Moderado
+Zona 12,18,Martes,Nublado,0,Moderado
+Calzada Roosevelt,18,Domingo,Soleado,0,Moderado
+Zona 4,1,Jueves,Nublado,0,Bajo
+Calzada Roosevelt,10,Lunes,Soleado,0,Moderado
+Zona 4,14,Martes,Soleado,0,Moderado
+Zona 12,0,Domingo,Soleado,0,Bajo
+Zona 4,23,Jueves,Soleado,0,Bajo
+Zona 10,10,Viernes,Soleado,0,Moderado
+Zona 1,21,Martes,Nublado,0,Moderado
+Periférico,19,Sábado,Soleado,0,Moderado
+Zona 12,9,Lunes,Nublado,0,Alto
+Calzada Roosevelt,21,Viernes,Nublado,0,Moderado
+Zona 10,8,Martes,Soleado,0,Moderado
+Zona 12,8,Martes,Soleado,0,Alto
+Zona 12,1,Lunes,Nublado,0,Bajo
+Zona 10,1,Domingo,Nublado,0,Bajo
+Zona 12,4,Jueves,Soleado,0,Bajo
+Zona 4,13,Sábado,Nublado,0,Bajo
+Zona 4,11,Sábado,Soleado,0,Bajo
+Periférico,15,Viernes,Lluvia,0,Moderado
+Calzada Roosevelt,3,Jueves,Lluvia,0,Moderado
+Zona 10,15,Miércoles,Lluvia,0,Alto
+Periférico,6,Domingo,Soleado,0,Moderado
+Calzada Roosevelt,22,Sábado,Soleado,0,Bajo
+Zona 12,16,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,19,Domingo,Nublado,0,Alto
+Zona 10,0,Viernes,Nublado,0,Moderado
+Periférico,21,Sábado,Soleado,0,Bajo
+Zona 12,2,Viernes,Soleado,0,Bajo
+Periférico,1,Viernes,Lluvia,0,Moderado
+Zona 1,19,Jueves,Soleado,0,Alto
+Periférico,23,Miércoles,Soleado,0,Moderado
+Zona 12,13,Miércoles,Nublado,0,Moderado
+Zona 1,16,Martes,Nublado,0,Alto
+Zona 10,0,Miércoles,Nublado,0,Bajo
+Zona 12,8,Domingo,Lluvia,0,Moderado
+Zona 10,12,Miércoles,Soleado,0,Moderado
+Zona 12,19,Domingo,Nublado,0,Moderado
+Zona 12,7,Martes,Soleado,0,Alto
+Zona 10,12,Jueves,Nublado,0,Moderado
+Zona 10,11,Domingo,Soleado,0,Bajo
+Zona 4,10,Sábado,Soleado,0,Bajo
+Periférico,19,Sábado,Nublado,0,Alto
+Zona 10,19,Sábado,Lluvia,0,Alto
+Calzada Roosevelt,3,Lunes,Nublado,0,Moderado
+Zona 10,20,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,21,Sábado,Soleado,0,Bajo
+Zona 1,6,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,22,Martes,Nublado,1,Moderado
+Zona 1,21,Viernes,Soleado,0,Bajo
+Zona 10,16,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,14,Sábado,Lluvia,0,Moderado
+Zona 10,14,Viernes,Soleado,0,Moderado
+Zona 1,9,Domingo,Nublado,1,Alto
+Zona 4,9,Lunes,Nublado,0,Moderado
+Zona 10,19,Lunes,Soleado,0,Moderado
+Zona 12,16,Jueves,Soleado,0,Moderado
+Periférico,17,Lunes,Soleado,0,Alto
+Zona 12,17,Jueves,Soleado,0,Moderado
+Zona 1,17,Jueves,Soleado,0,Alto
+Zona 10,3,Viernes,Soleado,1,Moderado
+Zona 1,3,Sábado,Soleado,0,Bajo
+Zona 12,17,Martes,Soleado,1,Alto
+Zona 4,22,Martes,Soleado,0,Bajo
+Zona 10,4,Martes,Nublado,1,Moderado
+Zona 4,0,Martes,Nublado,1,Moderado
+Zona 1,21,Viernes,Soleado,0,Moderado
+Periférico,20,Domingo,Nublado,0,Bajo
+Zona 4,2,Domingo,Lluvia,0,Bajo
+Zona 4,0,Jueves,Soleado,0,Bajo
+Zona 4,3,Lunes,Soleado,0,Bajo
+Zona 12,5,Martes,Nublado,0,Moderado
+Zona 10,15,Domingo,Soleado,0,Bajo
+Zona 1,8,Martes,Soleado,0,Alto
+Calzada Roosevelt,9,Viernes,Soleado,0,Alto
+Zona 4,14,Domingo,Soleado,0,Bajo
+Zona 4,14,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,18,Miércoles,Soleado,0,Alto
+Zona 12,18,Viernes,Soleado,0,Moderado
+Zona 10,15,Lunes,Nublado,1,Moderado
+Periférico,1,Lunes,Lluvia,0,Moderado
+Zona 4,10,Sábado,Soleado,0,Bajo
+Zona 12,16,Jueves,Soleado,0,Moderado
+Zona 12,22,Miércoles,Nublado,0,Bajo
+Zona 4,12,Miércoles,Nublado,0,Moderado
+Zona 1,18,Miércoles,Nublado,0,Alto
+Zona 12,13,Lunes,Soleado,1,Moderado
+Periférico,12,Viernes,Soleado,0,Moderado
+Zona 4,1,Martes,Soleado,0,Bajo
+Zona 12,14,Viernes,Soleado,0,Moderado
+Zona 10,2,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,11,Lunes,Nublado,0,Moderado
+Periférico,18,Martes,Nublado,0,Alto
+Zona 1,18,Jueves,Nublado,0,Alto
+Calzada Roosevelt,2,Martes,Nublado,0,Moderado
+Calzada Roosevelt,22,Jueves,Lluvia,0,Moderado
+Zona 12,12,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,7,Viernes,Lluvia,0,Alto
+Zona 10,22,Miércoles,Nublado,0,Bajo
+Zona 10,17,Domingo,Soleado,0,Moderado
+Zona 10,12,Jueves,Soleado,0,Moderado
+Zona 4,6,Martes,Soleado,0,Moderado
+Zona 1,20,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,16,Domingo,Soleado,1,Moderado
+Zona 12,8,Martes,Soleado,0,Moderado
+Zona 10,5,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,2,Lunes,Soleado,0,Bajo
+Zona 12,23,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,16,Jueves,Soleado,0,Alto
+Calzada Roosevelt,18,Domingo,Soleado,0,Moderado
+Zona 1,0,Martes,Soleado,0,Moderado
+Zona 4,1,Lunes,Nublado,0,Bajo
+Periférico,8,Miércoles,Soleado,0,Alto
+Zona 1,19,Martes,Soleado,0,Moderado
+Zona 12,7,Lunes,Soleado,0,Moderado
+Zona 10,19,Viernes,Soleado,0,Moderado
+Zona 4,12,Jueves,Lluvia,0,Moderado
+Zona 1,7,Miércoles,Soleado,0,Moderado
+Periférico,20,Miércoles,Soleado,0,Bajo
+Zona 12,23,Viernes,Nublado,0,Bajo
+Zona 12,6,Martes,Nublado,1,Alto
+Calzada Roosevelt,22,Viernes,Soleado,0,Moderado
+Zona 1,17,Jueves,Soleado,0,Alto
+Zona 1,12,Martes,Nublado,0,Moderado
+Zona 10,2,Martes,Soleado,0,Bajo
+Zona 10,21,Miércoles,Soleado,0,Bajo
+Zona 1,3,Domingo,Nublado,0,Bajo
+Periférico,16,Miércoles,Lluvia,0,Alto
+Zona 1,15,Domingo,Soleado,0,Bajo
+Zona 12,15,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,6,Miércoles,Nublado,0,Alto
+Zona 4,22,Sábado,Nublado,0,Bajo
+Periférico,23,Miércoles,Soleado,0,Bajo
+Zona 12,2,Miércoles,Lluvia,0,Moderado
+Calzada Roosevelt,21,Domingo,Nublado,0,Bajo
+Zona 10,6,Lunes,Lluvia,0,Alto
+Zona 12,2,Miércoles,Nublado,0,Moderado
+Zona 10,0,Miércoles,Soleado,0,Bajo
+Zona 1,10,Martes,Soleado,0,Moderado
+Zona 1,16,Miércoles,Nublado,1,Alto
+Zona 12,14,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,16,Jueves,Nublado,0,Alto
+Periférico,13,Martes,Soleado,1,Alto
+Zona 4,3,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,8,Martes,Nublado,0,Alto
+Zona 12,16,Viernes,Lluvia,0,Alto
+Zona 1,1,Martes,Soleado,0,Moderado
+Calzada Roosevelt,5,Sábado,Lluvia,0,Bajo
+Calzada Roosevelt,13,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,20,Sábado,Soleado,0,Bajo
+Zona 1,10,Lunes,Soleado,0,Moderado
+Zona 4,5,Lunes,Lluvia,0,Moderado
+Zona 1,4,Lunes,Soleado,0,Bajo
+Zona 10,3,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,5,Miércoles,Soleado,0,Bajo
+Zona 1,0,Jueves,Soleado,0,Moderado
+Zona 10,0,Jueves,Soleado,0,Bajo
+Periférico,15,Martes,Soleado,0,Moderado
+Calzada Roosevelt,23,Martes,Soleado,0,Moderado
+Calzada Roosevelt,9,Lunes,Lluvia,0,Alto
+Periférico,1,Martes,Soleado,0,Bajo
+Zona 4,6,Sábado,Soleado,0,Moderado
+Zona 1,19,Martes,Soleado,0,Alto
+Zona 1,14,Jueves,Lluvia,0,Alto
+Zona 12,23,Miércoles,Soleado,0,Bajo
+Zona 1,23,Domingo,Soleado,0,Bajo
+Zona 12,2,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,18,Lunes,Soleado,0,Alto
+Zona 4,22,Martes,Soleado,0,Bajo
+Periférico,23,Sábado,Nublado,0,Bajo
+Zona 12,1,Miércoles,Nublado,0,Bajo
+Calzada Roosevelt,5,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,15,Jueves,Soleado,0,Moderado
+Zona 12,0,Jueves,Lluvia,1,Moderado
+Zona 10,22,Domingo,Soleado,0,Bajo
+Zona 4,13,Viernes,Soleado,0,Moderado
+Zona 10,1,Martes,Soleado,0,Bajo
+Periférico,8,Jueves,Nublado,0,Alto
+Periférico,18,Martes,Soleado,0,Alto
+Zona 4,12,Domingo,Soleado,1,Bajo
+Zona 12,12,Domingo,Soleado,1,Bajo
+Zona 4,22,Martes,Soleado,1,Moderado
+Periférico,2,Domingo,Nublado,0,Bajo
+Zona 1,8,Domingo,Nublado,0,Alto
+Zona 4,10,Domingo,Nublado,0,Bajo
+Zona 4,6,Martes,Nublado,0,Moderado
+Zona 12,16,Lunes,Soleado,0,Moderado
+Zona 10,11,Lunes,Soleado,0,Bajo
+Periférico,17,Martes,Soleado,0,Alto
+Calzada Roosevelt,14,Lunes,Nublado,0,Alto
+Zona 4,0,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,5,Lunes,Soleado,0,Bajo
+Zona 1,23,Viernes,Nublado,0,Moderado
+Zona 1,3,Lunes,Soleado,0,Bajo
+Zona 4,10,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,16,Martes,Nublado,0,Alto
+Zona 4,16,Lunes,Lluvia,0,Alto
+Zona 10,19,Domingo,Lluvia,0,Alto
+Zona 10,14,Jueves,Soleado,0,Moderado
+Zona 1,13,Jueves,Nublado,0,Alto
+Zona 4,0,Martes,Nublado,0,Bajo
+Zona 10,10,Lunes,Nublado,0,Moderado
+Periférico,6,Sábado,Nublado,0,Moderado
+Periférico,0,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,6,Jueves,Nublado,0,Alto
+Zona 1,13,Miércoles,Soleado,0,Moderado
+Zona 4,12,Jueves,Soleado,1,Moderado
+Zona 4,10,Martes,Soleado,0,Bajo
+Zona 12,0,Viernes,Nublado,0,Bajo
+Calzada Roosevelt,15,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,22,Lunes,Nublado,0,Moderado
+Periférico,2,Domingo,Nublado,0,Bajo
+Zona 10,1,Jueves,Nublado,0,Bajo
+Zona 4,11,Jueves,Nublado,0,Moderado
+Zona 10,5,Jueves,Lluvia,0,Moderado
+Zona 10,4,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,4,Lunes,Nublado,0,Bajo
+Zona 4,20,Viernes,Nublado,0,Bajo
+Calzada Roosevelt,2,Domingo,Lluvia,0,Bajo
+Zona 12,22,Sábado,Soleado,0,Bajo
+Zona 1,2,Sábado,Nublado,0,Moderado
+Zona 12,9,Viernes,Nublado,0,Moderado
+Zona 12,17,Viernes,Soleado,0,Moderado
+Zona 4,5,Viernes,Nublado,0,Bajo
+Zona 12,8,Martes,Soleado,0,Moderado
+Zona 12,9,Viernes,Nublado,0,Moderado
+Zona 4,11,Viernes,Nublado,0,Bajo
+Periférico,20,Jueves,Soleado,1,Moderado
+Zona 1,0,Martes,Nublado,0,Moderado
+Zona 12,9,Domingo,Soleado,0,Moderado
+Zona 4,5,Miércoles,Soleado,1,Bajo
+Calzada Roosevelt,6,Lunes,Soleado,0,Moderado
+Zona 12,11,Martes,Soleado,0,Moderado
+Zona 4,10,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,6,Lunes,Nublado,0,Alto
+Calzada Roosevelt,1,Jueves,Soleado,0,Bajo
+Zona 4,13,Sábado,Soleado,0,Bajo
+Zona 4,22,Jueves,Lluvia,0,Bajo
+Zona 12,0,Domingo,Soleado,0,Bajo
+Zona 10,17,Viernes,Soleado,0,Alto
+Periférico,15,Lunes,Soleado,0,Moderado
+Zona 4,15,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,2,Martes,Soleado,0,Moderado
+Zona 12,1,Miércoles,Nublado,0,Bajo
+Periférico,11,Martes,Soleado,0,Moderado
+Zona 12,15,Domingo,Nublado,0,Moderado
+Calzada Roosevelt,12,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,13,Martes,Nublado,0,Alto
+Zona 12,2,Domingo,Nublado,0,Bajo
+Zona 1,3,Miércoles,Nublado,1,Alto
+Calzada Roosevelt,20,Viernes,Soleado,1,Moderado
+Zona 10,15,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,9,Lunes,Soleado,0,Moderado
+Zona 12,8,Jueves,Soleado,0,Alto
+Calzada Roosevelt,1,Sábado,Soleado,0,Bajo
+Zona 4,13,Miércoles,Lluvia,0,Moderado
+Zona 1,7,Viernes,Lluvia,0,Alto
+Periférico,14,Viernes,Soleado,0,Moderado
+Zona 12,21,Jueves,Lluvia,0,Bajo
+Zona 12,1,Jueves,Nublado,0,Bajo
+Zona 4,10,Miércoles,Soleado,0,Bajo
+Zona 1,13,Jueves,Soleado,0,Moderado
+Zona 12,9,Jueves,Soleado,0,Moderado
+Zona 4,16,Miércoles,Soleado,0,Moderado
+Periférico,6,Martes,Nublado,0,Alto
+Zona 12,16,Miércoles,Soleado,0,Moderado
+Zona 1,23,Domingo,Nublado,0,Bajo
+Zona 10,10,Martes,Lluvia,0,Moderado
+Zona 1,14,Viernes,Lluvia,0,Alto
+Zona 12,3,Miércoles,Nublado,0,Bajo
+Zona 4,22,Jueves,Soleado,0,Bajo
+Zona 12,22,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,14,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,17,Sábado,Soleado,0,Alto
+Calzada Roosevelt,11,Domingo,Soleado,0,Moderado
+Zona 4,1,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,6,Viernes,Soleado,0,Alto
+Zona 12,18,Viernes,Soleado,0,Alto
+Periférico,20,Sábado,Soleado,0,Bajo
+Zona 4,19,Viernes,Lluvia,0,Alto
+Zona 12,17,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,10,Lunes,Lluvia,0,Alto
+Periférico,0,Domingo,Soleado,0,Bajo
+Periférico,22,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,17,Domingo,Soleado,0,Moderado
+Zona 1,12,Miércoles,Nublado,0,Alto
+Zona 1,12,Sábado,Soleado,0,Bajo
+Zona 4,20,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,16,Domingo,Nublado,0,Alto
+Zona 10,23,Domingo,Nublado,0,Bajo
+Zona 12,8,Lunes,Soleado,0,Moderado
+Zona 12,18,Lunes,Soleado,0,Moderado
+Zona 10,6,Lunes,Lluvia,0,Alto
+Zona 1,4,Sábado,Soleado,0,Bajo
+Zona 12,18,Sábado,Soleado,0,Moderado
+Zona 12,17,Lunes,Lluvia,0,Alto
+Zona 1,0,Domingo,Soleado,0,Bajo
+Zona 10,21,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,16,Viernes,Soleado,0,Alto
+Periférico,6,Jueves,Soleado,0,Alto
+Zona 12,17,Miércoles,Soleado,0,Moderado
+Periférico,1,Domingo,Soleado,0,Bajo
+Zona 1,8,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,13,Jueves,Nublado,0,Moderado
+Zona 12,11,Martes,Soleado,0,Moderado
+Zona 12,5,Domingo,Soleado,0,Bajo
+Zona 1,11,Martes,Soleado,0,Moderado
+Zona 12,11,Domingo,Soleado,0,Bajo
+Zona 12,16,Jueves,Soleado,0,Alto
+Zona 12,22,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,18,Sábado,Soleado,0,Moderado
+Zona 4,4,Martes,Soleado,1,Bajo
+Zona 4,18,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,23,Martes,Soleado,0,Bajo
+Zona 12,5,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,18,Viernes,Soleado,1,Alto
+Zona 10,2,Jueves,Soleado,0,Bajo
+Zona 10,23,Jueves,Soleado,0,Bajo
+Periférico,12,Miércoles,Nublado,0,Moderado
+Zona 10,16,Lunes,Lluvia,0,Alto
+Zona 12,10,Miércoles,Nublado,0,Moderado
+Zona 10,2,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,8,Lunes,Nublado,0,Alto
+Zona 1,7,Sábado,Nublado,0,Alto
+Calzada Roosevelt,10,Sábado,Lluvia,0,Moderado
+Zona 12,1,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,1,Sábado,Soleado,0,Bajo
+Zona 4,17,Lunes,Nublado,0,Moderado
+Zona 10,5,Viernes,Soleado,0,Bajo
+Zona 4,21,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,16,Jueves,Soleado,0,Moderado
+Zona 4,5,Sábado,Soleado,0,Bajo
+Zona 4,14,Martes,Soleado,1,Moderado
+Zona 1,15,Sábado,Nublado,0,Moderado
+Periférico,12,Lunes,Soleado,1,Moderado
+Calzada Roosevelt,19,Viernes,Soleado,0,Alto
+Zona 4,6,Martes,Lluvia,0,Moderado
+Zona 12,1,Viernes,Nublado,0,Moderado
+Zona 10,8,Viernes,Lluvia,0,Alto
+Zona 12,2,Viernes,Lluvia,0,Moderado
+Zona 10,0,Viernes,Soleado,0,Bajo
+Zona 10,3,Miércoles,Nublado,0,Moderado
+Zona 10,2,Domingo,Soleado,0,Bajo
+Periférico,19,Miércoles,Soleado,0,Alto
+Zona 12,9,Viernes,Lluvia,0,Alto
+Calzada Roosevelt,9,Martes,Soleado,0,Moderado
+Periférico,15,Lunes,Lluvia,0,Alto
+Calzada Roosevelt,20,Viernes,Nublado,0,Moderado
+Calzada Roosevelt,14,Miércoles,Soleado,0,Moderado
+Zona 12,14,Domingo,Lluvia,1,Alto
+Calzada Roosevelt,1,Sábado,Nublado,0,Bajo
+Zona 10,5,Sábado,Lluvia,0,Bajo
+Calzada Roosevelt,6,Sábado,Soleado,1,Alto
+Calzada Roosevelt,23,Jueves,Soleado,0,Bajo
+Zona 1,15,Lunes,Soleado,0,Moderado
+Periférico,15,Jueves,Soleado,0,Moderado
+Zona 1,7,Viernes,Soleado,0,Alto
+Periférico,20,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,18,Lunes,Nublado,0,Alto
+Calzada Roosevelt,4,Martes,Soleado,0,Moderado
+Zona 4,13,Martes,Nublado,0,Bajo
+Zona 4,9,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,5,Viernes,Nublado,0,Moderado
+Zona 4,11,Sábado,Nublado,0,Bajo
+Zona 1,16,Miércoles,Lluvia,0,Alto
+Zona 1,14,Miércoles,Nublado,0,Moderado
+Zona 12,12,Martes,Soleado,0,Moderado
+Zona 10,23,Jueves,Soleado,0,Bajo
+Zona 1,18,Sábado,Lluvia,0,Alto
+Zona 10,0,Domingo,Soleado,1,Bajo
+Zona 10,12,Martes,Soleado,1,Moderado
+Zona 4,17,Domingo,Nublado,0,Moderado
+Zona 1,0,Viernes,Lluvia,0,Moderado
+Zona 12,19,Martes,Nublado,0,Moderado
+Zona 1,23,Miércoles,Soleado,0,Bajo
+Zona 1,15,Martes,Soleado,0,Moderado
+Periférico,23,Miércoles,Nublado,0,Bajo
+Zona 4,17,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,21,Martes,Soleado,0,Moderado
+Zona 10,8,Domingo,Lluvia,0,Moderado
+Periférico,0,Miércoles,Soleado,0,Moderado
+Zona 12,1,Miércoles,Soleado,0,Bajo
+Zona 12,11,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,16,Martes,Lluvia,1,Alto
+Calzada Roosevelt,12,Martes,Nublado,0,Moderado
+Zona 1,17,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,14,Viernes,Soleado,0,Moderado
+Zona 12,6,Miércoles,Nublado,0,Alto
+Zona 4,5,Viernes,Nublado,1,Moderado
+Zona 1,5,Viernes,Soleado,0,Bajo
+Zona 12,1,Jueves,Nublado,1,Moderado
+Zona 1,9,Lunes,Soleado,0,Moderado
+Zona 10,8,Martes,Soleado,0,Moderado
+Zona 10,12,Domingo,Lluvia,0,Bajo
+Zona 4,21,Lunes,Nublado,0,Bajo
+Zona 4,17,Viernes,Nublado,0,Moderado
+Zona 10,1,Viernes,Soleado,0,Bajo
+Zona 10,12,Miércoles,Soleado,0,Bajo
+Periférico,10,Jueves,Nublado,0,Moderado
+Zona 12,1,Miércoles,Nublado,0,Bajo
+Zona 12,7,Jueves,Soleado,0,Alto
+Periférico,17,Miércoles,Nublado,0,Alto
+Zona 1,14,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,10,Domingo,Soleado,0,Moderado
+Zona 4,18,Martes,Soleado,0,Moderado
+Zona 1,18,Viernes,Nublado,0,Alto
+Zona 4,11,Viernes,Soleado,0,Bajo
+Zona 4,4,Sábado,Nublado,0,Bajo
+Zona 1,10,Martes,Soleado,0,Moderado
+Zona 1,15,Lunes,Soleado,0,Moderado
+Periférico,17,Sábado,Soleado,0,Moderado
+Zona 12,9,Lunes,Soleado,0,Moderado
+Periférico,21,Sábado,Lluvia,0,Moderado
+Periférico,21,Miércoles,Soleado,0,Bajo
+Zona 1,12,Viernes,Soleado,0,Moderado
+Zona 1,14,Jueves,Soleado,1,Alto
+Zona 4,1,Miércoles,Soleado,0,Bajo
+Periférico,22,Lunes,Nublado,0,Bajo
+Zona 12,11,Viernes,Lluvia,0,Moderado
+Zona 1,17,Jueves,Soleado,0,Moderado
+Zona 10,21,Jueves,Lluvia,0,Bajo
+Zona 10,15,Sábado,Soleado,0,Bajo
+Zona 10,15,Martes,Soleado,0,Moderado
+Zona 4,23,Domingo,Lluvia,0,Bajo
+Calzada Roosevelt,2,Martes,Nublado,0,Bajo
+Calzada Roosevelt,2,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,0,Viernes,Nublado,0,Moderado
+Zona 12,3,Jueves,Lluvia,1,Moderado
+Zona 12,2,Jueves,Nublado,0,Bajo
+Periférico,22,Sábado,Soleado,1,Bajo
+Zona 10,16,Martes,Soleado,0,Moderado
+Periférico,4,Miércoles,Lluvia,0,Moderado
+Zona 1,1,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,4,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,5,Jueves,Nublado,0,Moderado
+Periférico,8,Lunes,Nublado,0,Alto
+Calzada Roosevelt,18,Jueves,Nublado,0,Alto
+Zona 12,4,Martes,Nublado,0,Moderado
+Periférico,2,Jueves,Lluvia,0,Moderado
+Zona 1,7,Martes,Nublado,0,Alto
+Calzada Roosevelt,9,Domingo,Lluvia,1,Alto
+Zona 12,8,Martes,Soleado,0,Alto
+Zona 4,14,Jueves,Soleado,0,Bajo
+Zona 4,23,Martes,Soleado,0,Bajo
+Calzada Roosevelt,22,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,13,Domingo,Soleado,0,Bajo
+Zona 1,10,Lunes,Soleado,0,Moderado
+Zona 10,20,Domingo,Soleado,0,Bajo
+Periférico,0,Domingo,Nublado,0,Bajo
+Periférico,16,Miércoles,Soleado,0,Moderado
+Zona 4,19,Lunes,Soleado,0,Moderado
+Zona 10,15,Martes,Soleado,0,Bajo
+Zona 10,15,Sábado,Soleado,0,Bajo
+Zona 10,3,Lunes,Soleado,0,Bajo
+Zona 12,1,Lunes,Nublado,0,Moderado
+Zona 12,5,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,1,Domingo,Soleado,0,Bajo
+Zona 4,21,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,9,Lunes,Soleado,0,Alto
+Calzada Roosevelt,21,Miércoles,Soleado,1,Moderado
+Periférico,17,Viernes,Nublado,0,Alto
+Zona 4,21,Miércoles,Soleado,0,Bajo
+Zona 10,16,Domingo,Soleado,0,Moderado
+Zona 10,4,Viernes,Nublado,0,Bajo
+Zona 12,1,Jueves,Soleado,0,Bajo
+Periférico,22,Miércoles,Nublado,0,Moderado
+Zona 10,7,Viernes,Soleado,0,Moderado
+Zona 4,13,Sábado,Soleado,1,Moderado
+Zona 12,11,Miércoles,Soleado,0,Moderado
+Zona 1,20,Martes,Nublado,0,Moderado
+Calzada Roosevelt,19,Jueves,Soleado,0,Moderado
+Zona 12,13,Lunes,Soleado,0,Bajo
+Zona 4,17,Lunes,Soleado,0,Moderado
+Zona 10,1,Sábado,Soleado,0,Bajo
+Zona 4,1,Domingo,Nublado,0,Bajo
+Periférico,13,Jueves,Soleado,0,Moderado
+Zona 10,23,Sábado,Soleado,0,Bajo
+Zona 4,7,Domingo,Soleado,0,Bajo
+Zona 4,11,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,1,Miércoles,Nublado,0,Bajo
+Zona 4,17,Sábado,Soleado,0,Moderado
+Periférico,12,Viernes,Soleado,0,Moderado
+Zona 1,16,Martes,Soleado,0,Alto
+Zona 4,4,Martes,Soleado,0,Bajo
+Periférico,6,Jueves,Soleado,0,Alto
+Zona 12,9,Martes,Soleado,0,Moderado
+Zona 12,4,Miércoles,Soleado,0,Bajo
+Zona 12,18,Jueves,Nublado,0,Alto
+Calzada Roosevelt,6,Sábado,Soleado,0,Moderado
+Zona 10,17,Lunes,Soleado,0,Moderado
+Zona 12,18,Domingo,Soleado,0,Moderado
+Zona 12,18,Miércoles,Nublado,0,Alto
+Periférico,0,Martes,Soleado,0,Bajo
+Zona 1,17,Miércoles,Lluvia,0,Alto
+Zona 10,7,Jueves,Nublado,0,Moderado
+Zona 4,0,Martes,Nublado,0,Bajo
+Periférico,0,Domingo,Nublado,0,Bajo
+Zona 10,0,Miércoles,Soleado,0,Bajo
+Zona 1,7,Lunes,Soleado,0,Alto
+Zona 10,17,Domingo,Nublado,1,Alto
+Zona 1,2,Jueves,Nublado,0,Moderado
+Periférico,21,Miércoles,Nublado,0,Moderado
+Zona 1,13,Sábado,Nublado,0,Moderado
+Zona 12,16,Lunes,Soleado,0,Moderado
+Zona 1,0,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,4,Martes,Nublado,0,Bajo
+Zona 1,19,Lunes,Soleado,0,Moderado
+Zona 1,8,Miércoles,Nublado,0,Alto
+Zona 1,10,Sábado,Soleado,0,Moderado
+Periférico,6,Lunes,Soleado,0,Alto
+Zona 12,23,Miércoles,Nublado,0,Moderado
+Zona 12,19,Domingo,Soleado,1,Moderado
+Zona 4,6,Jueves,Soleado,0,Moderado
+Zona 4,15,Martes,Soleado,0,Bajo
+Calzada Roosevelt,22,Domingo,Soleado,0,Bajo
+Zona 4,12,Domingo,Soleado,0,Bajo
+Zona 1,19,Martes,Nublado,0,Alto
+Zona 10,12,Domingo,Nublado,0,Bajo
+Zona 10,21,Viernes,Soleado,0,Bajo
+Zona 10,14,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,6,Viernes,Nublado,0,Alto
+Zona 12,0,Sábado,Soleado,0,Bajo
+Periférico,15,Domingo,Lluvia,0,Moderado
+Periférico,17,Jueves,Lluvia,0,Alto
+Periférico,20,Viernes,Lluvia,0,Moderado
+Zona 1,14,Lunes,Soleado,0,Moderado
+Zona 4,14,Sábado,Lluvia,0,Moderado
+Zona 4,5,Sábado,Soleado,0,Bajo
+Periférico,19,Sábado,Nublado,0,Moderado
+Zona 12,20,Jueves,Nublado,0,Moderado
+Zona 1,15,Sábado,Soleado,0,Moderado
+Zona 12,18,Sábado,Nublado,0,Alto
+Periférico,7,Lunes,Soleado,0,Alto
+Zona 4,6,Martes,Soleado,0,Moderado
+Periférico,2,Miércoles,Soleado,0,Bajo
+Zona 1,9,Miércoles,Nublado,0,Alto
+Zona 10,16,Jueves,Nublado,0,Alto
+Periférico,5,Miércoles,Soleado,0,Bajo
+Zona 1,7,Sábado,Nublado,0,Alto
+Zona 4,20,Miércoles,Soleado,1,Bajo
+Zona 12,15,Miércoles,Soleado,0,Bajo
+Zona 4,6,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,19,Domingo,Soleado,0,Moderado
+Calzada Roosevelt,6,Lunes,Lluvia,0,Alto
+Zona 12,2,Domingo,Soleado,0,Bajo
+Zona 10,9,Viernes,Soleado,0,Moderado
+Zona 10,12,Domingo,Nublado,1,Moderado
+Zona 4,6,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,4,Lunes,Nublado,0,Moderado
+Periférico,7,Viernes,Lluvia,0,Alto
+Periférico,6,Lunes,Soleado,0,Moderado
+Zona 10,6,Martes,Nublado,0,Moderado
+Zona 1,4,Viernes,Soleado,0,Bajo
+Zona 1,0,Miércoles,Soleado,0,Moderado
+Zona 1,0,Viernes,Soleado,0,Moderado
+Zona 4,8,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,3,Viernes,Lluvia,0,Moderado
+Zona 1,1,Domingo,Nublado,0,Bajo
+Zona 12,20,Viernes,Nublado,0,Bajo
+Zona 12,0,Sábado,Soleado,0,Bajo
+Periférico,15,Jueves,Soleado,1,Alto
+Zona 1,18,Lunes,Lluvia,0,Alto
+Zona 4,21,Sábado,Soleado,0,Bajo
+Zona 4,12,Miércoles,Soleado,0,Moderado
+Zona 10,16,Sábado,Soleado,1,Moderado
+Zona 10,16,Lunes,Nublado,1,Alto
+Zona 1,1,Martes,Soleado,0,Moderado
+Zona 10,12,Viernes,Soleado,0,Moderado
+Zona 1,23,Lunes,Soleado,0,Moderado
+Periférico,5,Sábado,Nublado,0,Bajo
+Zona 12,11,Sábado,Nublado,0,Moderado
+Zona 10,3,Jueves,Soleado,1,Bajo
+Zona 4,23,Lunes,Lluvia,0,Bajo
+Zona 4,1,Sábado,Soleado,0,Bajo
+Zona 10,23,Domingo,Soleado,0,Bajo
+Periférico,14,Lunes,Lluvia,0,Alto
+Zona 4,19,Lunes,Soleado,0,Moderado
+Zona 10,6,Sábado,Soleado,0,Moderado
+Zona 4,23,Lunes,Nublado,0,Bajo
+Calzada Roosevelt,23,Jueves,Soleado,0,Bajo
+Zona 1,0,Sábado,Lluvia,0,Moderado
+Calzada Roosevelt,15,Viernes,Soleado,0,Moderado
+Periférico,0,Lunes,Nublado,0,Bajo
+Calzada Roosevelt,16,Martes,Soleado,0,Moderado
+Zona 10,2,Jueves,Nublado,0,Moderado
+Zona 4,9,Martes,Nublado,0,Moderado
+Zona 4,1,Lunes,Nublado,0,Bajo
+Zona 1,21,Martes,Lluvia,0,Moderado
+Zona 10,3,Jueves,Lluvia,0,Bajo
+Periférico,17,Jueves,Soleado,0,Alto
+Zona 10,15,Sábado,Soleado,0,Bajo
+Zona 10,4,Domingo,Nublado,0,Bajo
+Zona 4,21,Sábado,Soleado,0,Bajo
+Periférico,14,Jueves,Soleado,0,Moderado
+Zona 12,4,Jueves,Nublado,0,Bajo
+Zona 10,23,Martes,Soleado,0,Bajo
+Zona 12,2,Lunes,Lluvia,0,Moderado
+Calzada Roosevelt,8,Jueves,Nublado,1,Alto
+Zona 1,21,Lunes,Nublado,0,Bajo
+Zona 10,8,Sábado,Nublado,1,Alto
+Zona 1,0,Miércoles,Nublado,0,Moderado
+Zona 1,13,Jueves,Soleado,0,Moderado
+Zona 12,15,Viernes,Lluvia,0,Moderado
+Zona 12,15,Miércoles,Soleado,0,Bajo
+Zona 4,9,Martes,Soleado,0,Moderado
+Zona 1,14,Jueves,Soleado,0,Moderado
+Zona 1,1,Jueves,Lluvia,0,Moderado
+Calzada Roosevelt,9,Sábado,Soleado,0,Moderado
+Zona 1,22,Viernes,Soleado,0,Bajo
+Periférico,10,Jueves,Soleado,0,Moderado
+Zona 1,14,Lunes,Soleado,0,Moderado
+Zona 4,4,Sábado,Soleado,0,Bajo
+Zona 4,4,Lunes,Soleado,1,Bajo
+Zona 10,8,Sábado,Soleado,0,Moderado
+Zona 4,21,Sábado,Soleado,0,Bajo
+Zona 12,0,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,11,Martes,Lluvia,0,Alto
+Periférico,10,Viernes,Soleado,0,Moderado
+Zona 1,17,Martes,Nublado,0,Alto
+Zona 10,9,Domingo,Soleado,0,Moderado
+Zona 12,14,Domingo,Lluvia,0,Bajo
+Periférico,10,Sábado,Lluvia,0,Alto
+Zona 4,23,Sábado,Lluvia,0,Bajo
+Zona 1,3,Domingo,Nublado,0,Bajo
+Zona 1,12,Miércoles,Soleado,0,Moderado
+Zona 4,7,Miércoles,Soleado,0,Moderado
+Zona 4,4,Lunes,Soleado,0,Bajo
+Periférico,9,Domingo,Lluvia,0,Moderado
+Zona 1,15,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,17,Jueves,Soleado,0,Alto
+Zona 4,7,Martes,Nublado,0,Moderado
+Calzada Roosevelt,18,Jueves,Nublado,0,Alto
+Periférico,16,Jueves,Nublado,0,Alto
+Periférico,20,Jueves,Lluvia,0,Moderado
+Calzada Roosevelt,14,Sábado,Soleado,0,Moderado
+Zona 12,7,Sábado,Soleado,1,Alto
+Calzada Roosevelt,19,Jueves,Lluvia,0,Alto
+Zona 1,3,Jueves,Soleado,0,Bajo
+Periférico,9,Viernes,Soleado,0,Alto
+Zona 1,12,Viernes,Soleado,0,Moderado
+Periférico,21,Viernes,Nublado,0,Bajo
+Zona 12,14,Lunes,Nublado,0,Moderado
+Periférico,14,Martes,Soleado,1,Alto
+Calzada Roosevelt,11,Jueves,Soleado,0,Moderado
+Zona 1,10,Lunes,Soleado,0,Moderado
+Zona 12,14,Martes,Soleado,0,Moderado
+Periférico,0,Viernes,Nublado,0,Moderado
+Periférico,5,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,19,Sábado,Soleado,0,Moderado
+Zona 12,0,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,22,Viernes,Soleado,0,Bajo
+Zona 12,14,Lunes,Soleado,0,Moderado
+Zona 12,17,Domingo,Nublado,1,Moderado
+Zona 1,10,Lunes,Soleado,0,Moderado
+Zona 10,14,Viernes,Soleado,0,Bajo
+Zona 10,8,Martes,Soleado,0,Alto
+Zona 10,20,Lunes,Lluvia,0,Bajo
+Periférico,3,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,14,Miércoles,Nublado,0,Alto
+Zona 1,9,Jueves,Nublado,0,Alto
+Zona 12,17,Sábado,Soleado,0,Moderado
+Zona 12,20,Lunes,Soleado,0,Bajo
+Periférico,2,Jueves,Nublado,0,Bajo
+Zona 1,7,Viernes,Soleado,1,Alto
+Zona 1,21,Sábado,Soleado,0,Bajo
+Periférico,0,Martes,Lluvia,1,Alto
+Zona 12,15,Sábado,Nublado,0,Moderado
+Zona 10,7,Martes,Soleado,1,Alto
+Zona 1,7,Jueves,Soleado,1,Alto
+Zona 4,0,Jueves,Nublado,0,Bajo
+Zona 4,16,Domingo,Soleado,0,Moderado
+Calzada Roosevelt,1,Jueves,Soleado,0,Moderado
+Zona 10,21,Domingo,Soleado,1,Bajo
+Zona 12,0,Lunes,Soleado,0,Bajo
+Periférico,17,Domingo,Soleado,0,Moderado
+Periférico,11,Domingo,Nublado,0,Moderado
+Zona 4,8,Martes,Soleado,1,Alto
+Calzada Roosevelt,22,Miércoles,Soleado,0,Bajo
+Zona 12,3,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,7,Jueves,Nublado,0,Alto
+Periférico,0,Sábado,Soleado,0,Bajo
+Zona 4,6,Martes,Soleado,0,Moderado
+Periférico,9,Miércoles,Lluvia,0,Alto
+Zona 1,12,Martes,Lluvia,0,Alto
+Zona 12,1,Lunes,Nublado,0,Bajo
+Periférico,12,Viernes,Nublado,0,Moderado
+Zona 12,20,Sábado,Nublado,0,Bajo
+Zona 10,14,Sábado,Soleado,0,Bajo
+Periférico,17,Jueves,Soleado,0,Alto
+Calzada Roosevelt,23,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,10,Jueves,Soleado,0,Moderado
+Zona 10,23,Martes,Lluvia,0,Moderado
+Zona 12,3,Martes,Soleado,1,Bajo
+Calzada Roosevelt,3,Martes,Soleado,0,Bajo
+Zona 1,16,Sábado,Nublado,0,Moderado
+Zona 4,21,Lunes,Soleado,0,Bajo
+Zona 12,8,Viernes,Nublado,1,Alto
+Zona 10,23,Domingo,Soleado,0,Bajo
+Zona 1,8,Miércoles,Soleado,0,Alto
+Zona 10,19,Martes,Lluvia,1,Alto
+Calzada Roosevelt,7,Sábado,Soleado,0,Alto
+Calzada Roosevelt,16,Jueves,Soleado,0,Alto
+Periférico,12,Miércoles,Soleado,1,Moderado
+Zona 1,9,Jueves,Nublado,0,Alto
+Zona 1,6,Jueves,Soleado,0,Moderado
+Zona 10,21,Domingo,Soleado,0,Bajo
+Periférico,15,Domingo,Nublado,0,Bajo
+Periférico,6,Domingo,Soleado,0,Moderado
+Zona 1,0,Miércoles,Soleado,1,Moderado
+Zona 10,16,Jueves,Lluvia,1,Alto
+Calzada Roosevelt,8,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,21,Domingo,Soleado,0,Bajo
+Zona 12,13,Domingo,Lluvia,0,Moderado
+Zona 4,15,Martes,Lluvia,0,Moderado
+Zona 1,0,Domingo,Nublado,0,Bajo
+Zona 10,0,Viernes,Soleado,0,Bajo
+Zona 1,14,Lunes,Soleado,1,Alto
+Zona 1,0,Lunes,Nublado,0,Moderado
+Zona 1,18,Jueves,Soleado,1,Alto
+Zona 1,13,Jueves,Soleado,0,Moderado
+Zona 10,10,Lunes,Soleado,0,Bajo
+Periférico,9,Domingo,Nublado,0,Moderado
+Calzada Roosevelt,21,Sábado,Soleado,0,Bajo
+Periférico,11,Lunes,Nublado,0,Alto
+Periférico,18,Miércoles,Nublado,0,Alto
+Zona 10,11,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,2,Viernes,Soleado,1,Moderado
+Zona 12,19,Domingo,Lluvia,0,Moderado
+Periférico,22,Domingo,Soleado,0,Bajo
+Zona 1,5,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,13,Lunes,Soleado,0,Moderado
+Zona 4,3,Miércoles,Lluvia,1,Moderado
+Zona 4,23,Jueves,Soleado,0,Bajo
+Zona 4,16,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,15,Miércoles,Nublado,0,Alto
+Periférico,9,Viernes,Soleado,0,Alto
+Periférico,19,Viernes,Nublado,0,Alto
+Periférico,7,Sábado,Lluvia,0,Alto
+Zona 4,10,Domingo,Soleado,1,Bajo
+Periférico,6,Domingo,Soleado,0,Moderado
+Periférico,20,Miércoles,Nublado,0,Moderado
+Periférico,10,Lunes,Soleado,0,Moderado
+Periférico,21,Sábado,Soleado,0,Bajo
+Zona 4,23,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,11,Lunes,Nublado,0,Moderado
+Zona 10,19,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,3,Martes,Nublado,0,Bajo
+Zona 12,14,Lunes,Nublado,0,Moderado
+Zona 4,0,Miércoles,Soleado,0,Bajo
+Zona 12,0,Miércoles,Soleado,0,Bajo
+Zona 1,3,Viernes,Lluvia,0,Moderado
+Periférico,17,Miércoles,Lluvia,0,Alto
+Calzada Roosevelt,8,Domingo,Soleado,0,Moderado
+Calzada Roosevelt,8,Martes,Soleado,0,Moderado
+Calzada Roosevelt,14,Domingo,Nublado,0,Bajo
+Periférico,18,Sábado,Soleado,0,Moderado
+Zona 10,13,Jueves,Soleado,0,Bajo
+Zona 12,22,Miércoles,Nublado,0,Bajo
+Calzada Roosevelt,5,Domingo,Lluvia,0,Bajo
+Zona 1,12,Jueves,Nublado,0,Alto
+Calzada Roosevelt,2,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,12,Lunes,Lluvia,0,Alto
+Calzada Roosevelt,6,Domingo,Soleado,0,Moderado
+Zona 12,17,Viernes,Soleado,0,Moderado
+Zona 12,3,Martes,Lluvia,0,Moderado
+Zona 4,0,Jueves,Soleado,0,Bajo
+Zona 1,7,Jueves,Soleado,0,Alto
+Zona 4,22,Martes,Nublado,0,Bajo
+Zona 4,8,Miércoles,Soleado,0,Moderado
+Zona 10,15,Martes,Soleado,0,Bajo
+Zona 4,23,Lunes,Nublado,0,Bajo
+Calzada Roosevelt,18,Lunes,Soleado,0,Moderado
+Zona 12,7,Martes,Nublado,0,Moderado
+Zona 4,18,Sábado,Soleado,0,Bajo
+Periférico,16,Jueves,Soleado,1,Alto
+Zona 10,17,Martes,Soleado,0,Moderado
+Calzada Roosevelt,12,Lunes,Soleado,0,Moderado
+Zona 4,23,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,11,Miércoles,Lluvia,0,Alto
+Zona 12,21,Martes,Soleado,0,Bajo
+Zona 1,9,Sábado,Soleado,1,Alto
+Zona 10,19,Lunes,Nublado,0,Moderado
+Zona 1,8,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,0,Lunes,Soleado,1,Moderado
+Zona 10,15,Martes,Lluvia,0,Moderado
+Calzada Roosevelt,7,Miércoles,Soleado,0,Alto
+Zona 10,17,Martes,Nublado,1,Alto
+Calzada Roosevelt,6,Domingo,Nublado,0,Alto
+Periférico,10,Viernes,Soleado,1,Alto
+Periférico,15,Jueves,Nublado,0,Moderado
+Zona 10,12,Viernes,Soleado,0,Bajo
+Zona 1,21,Martes,Soleado,0,Bajo
+Zona 4,6,Miércoles,Soleado,0,Moderado
+Periférico,2,Viernes,Nublado,0,Moderado
+Zona 4,12,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,15,Lunes,Soleado,0,Moderado
+Periférico,16,Domingo,Soleado,0,Moderado
+Zona 4,20,Miércoles,Soleado,0,Bajo
+Zona 1,16,Jueves,Nublado,0,Alto
+Zona 1,6,Domingo,Nublado,0,Moderado
+Periférico,8,Sábado,Soleado,0,Moderado
+Zona 4,15,Viernes,Soleado,0,Bajo
+Periférico,7,Miércoles,Lluvia,0,Alto
+Zona 1,4,Viernes,Soleado,1,Moderado
+Zona 12,2,Domingo,Soleado,0,Bajo
+Zona 4,10,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,9,Jueves,Lluvia,0,Alto
+Zona 1,8,Miércoles,Soleado,0,Moderado
+Zona 12,12,Lunes,Soleado,0,Moderado
+Periférico,7,Jueves,Nublado,0,Alto
+Zona 12,18,Domingo,Nublado,0,Moderado
+Zona 12,13,Sábado,Nublado,0,Moderado
+Zona 10,5,Martes,Soleado,0,Bajo
+Zona 4,18,Lunes,Soleado,0,Moderado
+Zona 4,7,Sábado,Soleado,0,Moderado
+Zona 10,10,Jueves,Soleado,0,Bajo
+Zona 4,1,Domingo,Nublado,1,Bajo
+Zona 10,7,Sábado,Soleado,0,Moderado
+Zona 10,17,Lunes,Soleado,0,Moderado
+Zona 4,9,Lunes,Soleado,0,Moderado
+Zona 12,5,Lunes,Nublado,0,Bajo
+Calzada Roosevelt,17,Sábado,Nublado,0,Moderado
+Zona 10,6,Lunes,Soleado,0,Alto
+Zona 1,12,Domingo,Soleado,0,Bajo
+Zona 1,15,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,6,Sábado,Lluvia,0,Alto
+Periférico,7,Jueves,Lluvia,0,Alto
+Periférico,22,Miércoles,Lluvia,0,Moderado
+Zona 1,18,Viernes,Soleado,0,Alto
+Zona 10,19,Lunes,Soleado,1,Alto
+Zona 1,11,Domingo,Soleado,0,Bajo
+Zona 1,9,Viernes,Soleado,0,Alto
+Zona 12,17,Jueves,Nublado,0,Alto
+Zona 1,18,Jueves,Soleado,0,Alto
+Calzada Roosevelt,1,Lunes,Nublado,0,Moderado
+Zona 4,16,Martes,Soleado,0,Moderado
+Zona 10,11,Miércoles,Soleado,0,Bajo
+Zona 12,17,Domingo,Soleado,0,Moderado
+Zona 1,2,Viernes,Lluvia,0,Moderado
+Periférico,8,Sábado,Soleado,0,Alto
+Zona 4,23,Domingo,Nublado,0,Bajo
+Zona 4,6,Viernes,Soleado,0,Moderado
+Zona 12,7,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,7,Lunes,Lluvia,0,Alto
+Zona 4,23,Jueves,Soleado,0,Bajo
+Zona 4,17,Jueves,Soleado,0,Moderado
+Zona 1,7,Miércoles,Nublado,0,Alto
+Zona 4,15,Jueves,Soleado,0,Bajo
+Periférico,10,Martes,Soleado,0,Moderado
+Calzada Roosevelt,21,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,15,Sábado,Soleado,0,Moderado
+Zona 10,19,Viernes,Soleado,0,Moderado
+Periférico,8,Jueves,Soleado,0,Alto
+Zona 1,18,Miércoles,Soleado,0,Moderado
+Zona 10,23,Lunes,Nublado,0,Moderado
+Periférico,10,Miércoles,Soleado,0,Moderado
+Zona 1,22,Viernes,Soleado,0,Bajo
+Zona 12,21,Jueves,Soleado,0,Bajo
+Zona 1,17,Miércoles,Nublado,0,Alto
+Zona 12,4,Domingo,Nublado,0,Bajo
+Zona 1,22,Miércoles,Soleado,0,Bajo
+Zona 4,21,Lunes,Soleado,0,Bajo
+Periférico,11,Sábado,Nublado,0,Moderado
+Zona 12,18,Domingo,Soleado,0,Moderado
+Zona 10,5,Domingo,Lluvia,0,Bajo
+Periférico,10,Martes,Nublado,0,Alto
+Zona 12,11,Viernes,Soleado,0,Bajo
+Zona 4,18,Martes,Soleado,0,Moderado
+Periférico,2,Miércoles,Soleado,1,Moderado
+Zona 1,8,Viernes,Soleado,0,Alto
+Calzada Roosevelt,2,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,2,Viernes,Nublado,0,Bajo
+Periférico,21,Viernes,Soleado,0,Bajo
+Zona 4,1,Miércoles,Soleado,0,Bajo
+Zona 4,19,Lunes,Nublado,0,Moderado
+Zona 1,23,Lunes,Soleado,0,Bajo
+Zona 4,23,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,3,Miércoles,Soleado,0,Bajo
+Periférico,21,Martes,Nublado,0,Moderado
+Zona 10,19,Martes,Soleado,0,Moderado
+Zona 4,4,Jueves,Soleado,0,Bajo
+Zona 10,11,Martes,Soleado,0,Bajo
+Calzada Roosevelt,13,Miércoles,Soleado,0,Moderado
+Zona 10,11,Domingo,Lluvia,0,Moderado
+Zona 4,14,Miércoles,Soleado,0,Moderado
+Zona 10,0,Jueves,Soleado,0,Bajo
+Zona 1,11,Domingo,Nublado,0,Moderado
+Zona 12,4,Lunes,Soleado,0,Bajo
+Zona 10,20,Viernes,Soleado,0,Bajo
+Zona 1,15,Lunes,Soleado,0,Moderado
+Zona 4,0,Martes,Soleado,0,Bajo
+Periférico,1,Jueves,Nublado,0,Bajo
+Zona 1,22,Miércoles,Soleado,0,Bajo
+Zona 12,15,Miércoles,Lluvia,0,Moderado
+Zona 12,21,Sábado,Soleado,0,Bajo
+Periférico,10,Viernes,Lluvia,0,Alto
+Zona 1,19,Miércoles,Nublado,0,Alto
+Zona 10,3,Jueves,Nublado,0,Bajo
+Zona 12,1,Martes,Nublado,0,Bajo
+Zona 10,9,Lunes,Soleado,0,Moderado
+Zona 1,18,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,10,Domingo,Nublado,0,Moderado
+Calzada Roosevelt,3,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,4,Jueves,Nublado,0,Bajo
+Zona 1,21,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,18,Martes,Soleado,1,Alto
+Periférico,23,Miércoles,Soleado,0,Moderado
+Zona 4,3,Miércoles,Lluvia,0,Moderado
+Zona 4,1,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,18,Martes,Soleado,0,Moderado
+Periférico,6,Sábado,Soleado,0,Alto
+Calzada Roosevelt,0,Jueves,Nublado,0,Moderado
+Zona 12,5,Lunes,Soleado,0,Bajo
+Zona 1,14,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,9,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,9,Domingo,Lluvia,0,Moderado
+Zona 4,16,Sábado,Soleado,0,Bajo
+Zona 10,5,Miércoles,Soleado,1,Bajo
+Zona 4,4,Martes,Soleado,0,Bajo
+Zona 1,1,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,11,Lunes,Soleado,0,Moderado
+Zona 4,14,Jueves,Nublado,1,Moderado
+Periférico,1,Domingo,Soleado,0,Bajo
+Zona 10,9,Miércoles,Soleado,0,Moderado
+Zona 12,14,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,4,Sábado,Nublado,0,Bajo
+Zona 4,17,Martes,Soleado,0,Moderado
+Zona 10,4,Viernes,Nublado,1,Moderado
+Zona 12,17,Martes,Nublado,0,Alto
+Zona 1,7,Domingo,Nublado,0,Moderado
+Zona 10,11,Domingo,Nublado,0,Moderado
+Zona 12,19,Viernes,Nublado,0,Alto
+Zona 4,13,Miércoles,Soleado,0,Bajo
+Zona 12,15,Martes,Soleado,0,Bajo
+Calzada Roosevelt,0,Martes,Soleado,1,Moderado
+Periférico,17,Miércoles,Nublado,0,Alto
+Zona 4,12,Jueves,Soleado,1,Moderado
+Zona 12,23,Viernes,Soleado,0,Bajo
+Zona 10,7,Sábado,Soleado,0,Moderado
+Zona 4,8,Sábado,Nublado,0,Moderado
+Zona 12,21,Sábado,Lluvia,0,Moderado
+Zona 10,22,Martes,Lluvia,0,Moderado
+Zona 4,2,Martes,Lluvia,0,Bajo
+Zona 10,11,Domingo,Soleado,0,Bajo
+Zona 1,13,Viernes,Soleado,0,Moderado
+Zona 12,7,Domingo,Soleado,0,Bajo
+Periférico,20,Viernes,Nublado,0,Moderado
+Zona 1,17,Viernes,Nublado,0,Alto
+Zona 10,15,Domingo,Soleado,0,Bajo
+Periférico,11,Domingo,Soleado,0,Moderado
+Zona 12,8,Martes,Soleado,0,Moderado
+Zona 10,10,Lunes,Soleado,0,Bajo
+Zona 1,23,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,3,Martes,Nublado,1,Moderado
+Periférico,6,Sábado,Soleado,0,Alto
+Periférico,14,Martes,Nublado,0,Moderado
+Zona 10,23,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,23,Miércoles,Soleado,0,Moderado
+Zona 12,21,Jueves,Nublado,0,Moderado
+Periférico,6,Viernes,Soleado,1,Alto
+Zona 1,15,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,20,Sábado,Lluvia,0,Moderado
+Periférico,6,Viernes,Soleado,0,Moderado
+Zona 4,22,Jueves,Soleado,0,Bajo
+Zona 12,14,Miércoles,Soleado,0,Moderado
+Zona 12,7,Miércoles,Nublado,0,Moderado
+Zona 12,13,Jueves,Soleado,0,Moderado
+Zona 4,3,Miércoles,Nublado,0,Bajo
+Calzada Roosevelt,21,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,2,Jueves,Soleado,0,Moderado
+Periférico,20,Viernes,Nublado,0,Bajo
+Zona 12,13,Lunes,Nublado,0,Moderado
+Zona 1,15,Martes,Nublado,0,Alto
+Zona 10,22,Viernes,Lluvia,0,Bajo
+Zona 4,2,Lunes,Soleado,0,Bajo
+Zona 1,21,Domingo,Nublado,1,Bajo
+Zona 10,14,Miércoles,Soleado,0,Moderado
+Zona 12,19,Viernes,Lluvia,0,Alto
+Zona 4,21,Lunes,Nublado,0,Bajo
+Periférico,12,Viernes,Soleado,0,Moderado
+Zona 10,11,Viernes,Soleado,0,Moderado
+Zona 4,11,Jueves,Nublado,0,Bajo
+Calzada Roosevelt,0,Jueves,Soleado,0,Bajo
+Zona 1,8,Miércoles,Soleado,0,Alto
+Zona 4,21,Viernes,Nublado,0,Bajo
+Calzada Roosevelt,21,Viernes,Lluvia,0,Moderado
+Zona 4,6,Viernes,Soleado,0,Moderado
+Zona 4,2,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,4,Sábado,Soleado,0,Bajo
+Zona 10,3,Viernes,Nublado,0,Moderado
+Calzada Roosevelt,2,Lunes,Soleado,0,Bajo
+Zona 12,13,Jueves,Lluvia,0,Moderado
+Zona 12,4,Sábado,Nublado,0,Bajo
+Zona 12,5,Jueves,Nublado,0,Bajo
+Zona 12,15,Domingo,Lluvia,0,Bajo
+Calzada Roosevelt,14,Sábado,Lluvia,0,Moderado
+Zona 12,22,Viernes,Nublado,0,Bajo
+Calzada Roosevelt,23,Jueves,Soleado,0,Bajo
+Zona 12,4,Viernes,Soleado,0,Bajo
+Periférico,3,Domingo,Soleado,0,Bajo
+Periférico,10,Viernes,Soleado,0,Moderado
+Zona 4,18,Miércoles,Lluvia,0,Moderado
+Zona 1,22,Domingo,Nublado,0,Bajo
+Zona 10,18,Jueves,Soleado,0,Alto
+Calzada Roosevelt,12,Miércoles,Lluvia,0,Moderado
+Periférico,0,Miércoles,Soleado,0,Bajo
+Periférico,9,Jueves,Soleado,0,Alto
+Zona 1,23,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,20,Lunes,Nublado,1,Moderado
+Periférico,11,Martes,Soleado,0,Moderado
+Calzada Roosevelt,0,Jueves,Soleado,0,Moderado
+Zona 4,19,Jueves,Nublado,0,Moderado
+Zona 10,21,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,13,Miércoles,Nublado,0,Moderado
+Zona 10,14,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,3,Viernes,Nublado,0,Bajo
+Zona 1,11,Viernes,Soleado,0,Moderado
+Zona 4,1,Lunes,Soleado,0,Bajo
+Zona 4,15,Martes,Lluvia,0,Moderado
+Zona 10,20,Jueves,Lluvia,1,Alto
+Periférico,14,Domingo,Soleado,0,Bajo
+Zona 4,14,Jueves,Soleado,0,Moderado
+Zona 4,18,Jueves,Soleado,0,Moderado
+Zona 12,12,Viernes,Lluvia,0,Moderado
+Periférico,17,Jueves,Soleado,0,Alto
+Calzada Roosevelt,6,Martes,Soleado,0,Moderado
+Zona 12,1,Miércoles,Soleado,0,Bajo
+Zona 10,6,Jueves,Lluvia,0,Alto
+Zona 12,8,Martes,Nublado,0,Moderado
+Periférico,11,Viernes,Lluvia,0,Alto
+Periférico,10,Viernes,Nublado,0,Moderado
+Calzada Roosevelt,2,Martes,Nublado,0,Bajo
+Zona 12,4,Lunes,Nublado,0,Bajo
+Zona 12,0,Sábado,Lluvia,0,Bajo
+Zona 1,19,Martes,Soleado,0,Alto
+Zona 12,7,Lunes,Lluvia,0,Alto
+Zona 10,7,Viernes,Nublado,0,Alto
+Periférico,14,Martes,Nublado,0,Moderado
+Zona 12,3,Miércoles,Soleado,1,Moderado
+Zona 4,11,Viernes,Soleado,0,Moderado
+Periférico,9,Miércoles,Soleado,0,Moderado
+Periférico,15,Domingo,Soleado,0,Moderado
+Zona 1,19,Martes,Nublado,0,Alto
+Calzada Roosevelt,20,Sábado,Soleado,1,Moderado
+Zona 10,21,Sábado,Soleado,1,Bajo
+Zona 4,4,Lunes,Soleado,0,Bajo
+Zona 4,19,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,9,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,15,Lunes,Soleado,0,Moderado
+Zona 12,14,Martes,Soleado,0,Moderado
+Zona 12,7,Sábado,Soleado,1,Alto
+Zona 12,21,Sábado,Nublado,0,Bajo
+Zona 10,13,Sábado,Nublado,0,Bajo
+Zona 12,6,Miércoles,Soleado,0,Moderado
+Periférico,5,Martes,Soleado,0,Bajo
+Periférico,23,Lunes,Nublado,0,Moderado
+Periférico,17,Domingo,Nublado,0,Moderado
+Calzada Roosevelt,7,Sábado,Nublado,0,Moderado
+Zona 4,3,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,18,Martes,Nublado,0,Alto
+Zona 4,4,Lunes,Soleado,0,Bajo
+Zona 12,13,Sábado,Lluvia,0,Moderado
+Zona 12,13,Lunes,Soleado,0,Moderado
+Periférico,21,Jueves,Soleado,0,Moderado
+Zona 10,22,Martes,Lluvia,0,Moderado
+Zona 4,4,Domingo,Lluvia,0,Bajo
+Zona 4,14,Domingo,Soleado,0,Bajo
+Zona 4,0,Lunes,Soleado,0,Bajo
+Periférico,5,Jueves,Soleado,0,Bajo
+Zona 4,23,Jueves,Soleado,0,Bajo
+Periférico,0,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,3,Jueves,Soleado,0,Bajo
+Periférico,7,Jueves,Nublado,1,Alto
+Periférico,5,Martes,Soleado,0,Bajo
+Zona 1,11,Lunes,Nublado,0,Moderado
+Zona 10,4,Lunes,Nublado,0,Bajo
+Zona 4,22,Sábado,Soleado,0,Bajo
+Zona 12,12,Jueves,Nublado,0,Moderado
+Zona 4,19,Viernes,Nublado,0,Alto
+Zona 12,2,Sábado,Lluvia,0,Moderado
+Zona 10,21,Viernes,Lluvia,0,Bajo
+Periférico,22,Martes,Nublado,0,Moderado
+Zona 4,21,Viernes,Soleado,0,Bajo
+Zona 12,14,Domingo,Nublado,0,Bajo
+Zona 1,16,Viernes,Soleado,0,Alto
+Zona 10,22,Lunes,Nublado,0,Bajo
+Periférico,19,Lunes,Nublado,0,Alto
+Calzada Roosevelt,6,Jueves,Soleado,0,Alto
+Zona 10,11,Jueves,Nublado,0,Moderado
+Calzada Roosevelt,16,Miércoles,Soleado,0,Moderado
+Zona 12,22,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,16,Viernes,Nublado,0,Alto
+Zona 12,16,Lunes,Lluvia,0,Alto
+Zona 1,19,Lunes,Soleado,0,Alto
+Periférico,16,Lunes,Nublado,1,Alto
+Zona 10,5,Miércoles,Nublado,0,Moderado
+Zona 4,18,Miércoles,Lluvia,0,Alto
+Zona 4,1,Jueves,Nublado,0,Bajo
+Zona 4,19,Martes,Soleado,0,Moderado
+Zona 12,9,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,11,Martes,Lluvia,0,Moderado
+Periférico,17,Martes,Soleado,0,Alto
+Zona 4,20,Sábado,Soleado,1,Bajo
+Zona 10,17,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,17,Sábado,Nublado,0,Alto
+Calzada Roosevelt,23,Domingo,Soleado,0,Bajo
+Periférico,1,Sábado,Soleado,0,Bajo
+Zona 4,16,Miércoles,Soleado,0,Moderado
+Zona 4,15,Jueves,Nublado,0,Bajo
+Calzada Roosevelt,22,Sábado,Soleado,0,Bajo
+Zona 4,12,Viernes,Nublado,0,Moderado
+Calzada Roosevelt,23,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,19,Jueves,Lluvia,0,Alto
+Zona 12,1,Sábado,Nublado,0,Bajo
+Periférico,15,Martes,Lluvia,0,Alto
+Calzada Roosevelt,12,Jueves,Lluvia,0,Alto
+Zona 10,15,Lunes,Nublado,0,Moderado
+Zona 10,7,Domingo,Lluvia,0,Moderado
+Periférico,16,Domingo,Lluvia,0,Moderado
+Zona 10,9,Miércoles,Nublado,1,Alto
+Zona 1,3,Viernes,Nublado,0,Moderado
+Periférico,0,Miércoles,Nublado,0,Bajo
+Zona 10,17,Jueves,Soleado,0,Moderado
+Zona 4,20,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,1,Martes,Nublado,0,Moderado
+Zona 4,19,Lunes,Nublado,0,Moderado
+Zona 4,14,Viernes,Soleado,0,Bajo
+Zona 1,5,Martes,Lluvia,0,Moderado
+Zona 12,2,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,20,Jueves,Soleado,0,Bajo
+Zona 10,16,Viernes,Nublado,0,Alto
+Zona 10,15,Viernes,Soleado,0,Moderado
+Zona 1,21,Martes,Nublado,0,Moderado
+Zona 10,12,Viernes,Soleado,1,Alto
+Zona 12,3,Domingo,Lluvia,0,Bajo
+Periférico,23,Jueves,Soleado,0,Bajo
+Zona 1,9,Domingo,Lluvia,0,Alto
+Zona 10,16,Viernes,Soleado,0,Moderado
+Zona 10,2,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,2,Miércoles,Soleado,0,Moderado
+Zona 10,5,Sábado,Soleado,0,Bajo
+Zona 12,0,Viernes,Soleado,0,Bajo
+Zona 10,11,Miércoles,Lluvia,0,Moderado
+Zona 1,9,Miércoles,Soleado,1,Alto
+Zona 4,23,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,11,Martes,Nublado,0,Moderado
+Zona 12,20,Sábado,Lluvia,0,Bajo
+Calzada Roosevelt,20,Sábado,Soleado,0,Bajo
+Zona 12,14,Sábado,Soleado,0,Moderado
+Zona 10,7,Sábado,Soleado,0,Moderado
+Zona 10,9,Domingo,Soleado,0,Moderado
+Zona 10,15,Viernes,Lluvia,0,Moderado
+Zona 4,7,Viernes,Nublado,0,Moderado
+Calzada Roosevelt,23,Lunes,Lluvia,0,Moderado
+Zona 12,5,Viernes,Soleado,0,Bajo
+Zona 1,15,Martes,Nublado,0,Moderado
+Zona 12,17,Viernes,Lluvia,0,Alto
+Calzada Roosevelt,15,Domingo,Nublado,0,Moderado
+Periférico,2,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,7,Viernes,Soleado,0,Alto
+Zona 12,21,Lunes,Soleado,0,Bajo
+Periférico,10,Lunes,Soleado,0,Moderado
+Zona 10,23,Domingo,Soleado,0,Bajo
+Zona 12,17,Miércoles,Lluvia,0,Alto
+Zona 10,21,Lunes,Lluvia,0,Moderado
+Periférico,5,Domingo,Nublado,0,Bajo
+Zona 10,4,Viernes,Nublado,0,Bajo
+Zona 4,5,Sábado,Soleado,0,Bajo
+Zona 1,8,Miércoles,Soleado,1,Alto
+Zona 1,20,Sábado,Lluvia,0,Moderado
+Zona 1,20,Martes,Soleado,0,Bajo
+Zona 4,16,Martes,Soleado,0,Moderado
+Calzada Roosevelt,23,Jueves,Soleado,0,Bajo
+Periférico,20,Martes,Nublado,0,Moderado
+Calzada Roosevelt,11,Domingo,Soleado,0,Bajo
+Zona 10,17,Viernes,Soleado,0,Alto
+Zona 1,22,Domingo,Soleado,0,Bajo
+Zona 10,12,Martes,Soleado,0,Moderado
+Calzada Roosevelt,22,Lunes,Nublado,0,Bajo
+Periférico,21,Lunes,Soleado,0,Moderado
+Zona 4,2,Miércoles,Nublado,0,Bajo
+Zona 4,16,Sábado,Soleado,0,Bajo
+Periférico,11,Lunes,Nublado,0,Moderado
+Zona 4,6,Viernes,Lluvia,0,Alto
+Periférico,5,Sábado,Soleado,1,Moderado
+Zona 4,16,Viernes,Lluvia,0,Alto
+Calzada Roosevelt,15,Martes,Soleado,0,Moderado
+Zona 10,10,Sábado,Soleado,0,Bajo
+Zona 12,15,Jueves,Soleado,0,Moderado
+Periférico,1,Domingo,Soleado,0,Bajo
+Zona 12,8,Martes,Soleado,0,Moderado
+Zona 12,7,Sábado,Soleado,0,Moderado
+Zona 12,9,Lunes,Nublado,0,Moderado
+Zona 4,9,Martes,Soleado,0,Moderado
+Zona 12,16,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,12,Domingo,Soleado,0,Bajo
+Zona 1,22,Jueves,Lluvia,0,Moderado
+Zona 10,0,Lunes,Soleado,0,Bajo
+Zona 12,9,Lunes,Nublado,0,Alto
+Zona 1,13,Domingo,Soleado,0,Moderado
+Zona 12,23,Domingo,Soleado,0,Bajo
+Periférico,4,Lunes,Soleado,0,Moderado
+Periférico,20,Viernes,Soleado,1,Moderado
+Zona 12,16,Viernes,Lluvia,0,Alto
+Zona 4,0,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,15,Domingo,Soleado,0,Bajo
+Zona 10,19,Martes,Nublado,0,Alto
+Periférico,19,Martes,Soleado,1,Alto
+Periférico,20,Martes,Soleado,0,Bajo
+Calzada Roosevelt,1,Domingo,Lluvia,0,Bajo
+Zona 10,10,Lunes,Soleado,0,Moderado
+Zona 1,6,Miércoles,Soleado,0,Alto
+Zona 12,11,Sábado,Soleado,0,Moderado
+Periférico,9,Jueves,Lluvia,0,Alto
+Zona 10,17,Martes,Nublado,0,Moderado
+Zona 1,9,Jueves,Soleado,0,Moderado
+Zona 4,14,Jueves,Soleado,0,Bajo
+Periférico,11,Martes,Nublado,0,Moderado
+Zona 10,14,Martes,Lluvia,0,Moderado
+Zona 12,15,Sábado,Soleado,0,Bajo
+Periférico,9,Miércoles,Soleado,0,Alto
+Zona 10,8,Miércoles,Soleado,1,Alto
+Zona 12,23,Miércoles,Soleado,0,Bajo
+Zona 4,1,Sábado,Nublado,0,Bajo
+Periférico,20,Sábado,Soleado,0,Bajo
+Zona 12,6,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,14,Martes,Soleado,0,Moderado
+Zona 4,7,Lunes,Soleado,0,Moderado
+Zona 10,0,Martes,Lluvia,0,Moderado
+Zona 4,23,Domingo,Soleado,0,Bajo
+Zona 1,12,Viernes,Soleado,0,Moderado
+Periférico,16,Miércoles,Lluvia,1,Alto
+Zona 4,14,Martes,Nublado,0,Moderado
+Calzada Roosevelt,2,Sábado,Soleado,0,Bajo
+Zona 10,23,Lunes,Nublado,0,Moderado
+Periférico,1,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,20,Viernes,Soleado,0,Bajo
+Zona 4,14,Viernes,Lluvia,0,Moderado
+Zona 12,6,Martes,Lluvia,0,Alto
+Zona 4,3,Miércoles,Soleado,0,Bajo
+Periférico,9,Viernes,Soleado,0,Alto
+Calzada Roosevelt,18,Miércoles,Soleado,0,Alto
+Zona 4,21,Viernes,Soleado,0,Bajo
+Zona 10,6,Jueves,Soleado,0,Moderado
+Zona 12,13,Jueves,Soleado,1,Moderado
+Zona 4,13,Domingo,Soleado,0,Bajo
+Zona 10,13,Miércoles,Soleado,0,Bajo
+Zona 4,2,Miércoles,Soleado,0,Bajo
+Zona 1,7,Domingo,Nublado,0,Alto
+Zona 10,13,Sábado,Lluvia,1,Alto
+Zona 4,23,Viernes,Soleado,0,Bajo
+Periférico,7,Martes,Soleado,0,Moderado
+Zona 10,3,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,9,Martes,Nublado,0,Alto
+Zona 4,23,Lunes,Nublado,0,Bajo
+Zona 10,11,Sábado,Nublado,0,Moderado
+Zona 10,4,Lunes,Soleado,0,Bajo
+Zona 12,11,Jueves,Soleado,0,Moderado
+Zona 4,21,Sábado,Soleado,0,Bajo
+Zona 12,4,Martes,Soleado,0,Bajo
+Zona 12,5,Jueves,Soleado,0,Bajo
+Zona 1,20,Lunes,Soleado,0,Moderado
+Zona 1,14,Martes,Soleado,0,Moderado
+Calzada Roosevelt,19,Domingo,Soleado,0,Moderado
+Zona 4,20,Miércoles,Nublado,0,Bajo
+Periférico,6,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,11,Lunes,Nublado,1,Alto
+Zona 12,8,Jueves,Nublado,0,Moderado
+Zona 1,8,Jueves,Soleado,0,Moderado
+Zona 1,19,Sábado,Lluvia,1,Alto
+Zona 10,3,Lunes,Nublado,0,Bajo
+Periférico,3,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,3,Martes,Soleado,0,Bajo
+Zona 4,7,Miércoles,Soleado,0,Moderado
+Zona 12,2,Martes,Soleado,0,Bajo
+Zona 4,20,Sábado,Soleado,1,Bajo
+Zona 12,18,Martes,Nublado,0,Moderado
+Zona 4,23,Domingo,Lluvia,0,Bajo
+Periférico,20,Jueves,Soleado,0,Moderado
+Zona 1,21,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,11,Jueves,Soleado,0,Moderado
+Zona 10,17,Jueves,Nublado,1,Alto
+Zona 12,6,Sábado,Lluvia,0,Alto
+Zona 4,7,Domingo,Soleado,0,Bajo
+Zona 1,0,Lunes,Nublado,1,Alto
+Zona 1,4,Sábado,Soleado,0,Bajo
+Zona 10,17,Lunes,Soleado,0,Moderado
+Zona 12,12,Domingo,Soleado,0,Bajo
+Zona 4,16,Martes,Nublado,1,Alto
+Calzada Roosevelt,19,Domingo,Soleado,0,Moderado
+Zona 12,13,Martes,Nublado,0,Moderado
+Zona 4,8,Martes,Nublado,0,Moderado
+Periférico,18,Jueves,Nublado,1,Alto
+Zona 10,21,Jueves,Soleado,0,Bajo
+Zona 1,15,Sábado,Nublado,0,Moderado
+Zona 4,13,Sábado,Lluvia,0,Moderado
+Zona 4,15,Viernes,Lluvia,0,Moderado
+Zona 1,2,Jueves,Nublado,0,Moderado
+Zona 12,11,Lunes,Soleado,0,Moderado
+Zona 12,22,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,13,Lunes,Soleado,0,Moderado
+Zona 12,14,Viernes,Soleado,1,Moderado
+Zona 4,14,Sábado,Nublado,0,Bajo
+Zona 12,23,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,8,Jueves,Lluvia,0,Alto
+Periférico,9,Martes,Soleado,0,Moderado
+Calzada Roosevelt,17,Domingo,Soleado,0,Moderado
+Zona 10,9,Miércoles,Nublado,1,Alto
+Calzada Roosevelt,6,Jueves,Soleado,0,Alto
+Zona 10,3,Jueves,Nublado,0,Bajo
+Zona 10,21,Miércoles,Soleado,0,Bajo
+Zona 1,2,Sábado,Lluvia,0,Moderado
+Zona 12,16,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,7,Domingo,Soleado,0,Moderado
+Periférico,18,Domingo,Soleado,1,Alto
+Zona 12,3,Lunes,Lluvia,0,Moderado
+Zona 10,1,Miércoles,Nublado,0,Bajo
+Calzada Roosevelt,20,Sábado,Soleado,0,Bajo
+Zona 12,7,Domingo,Nublado,0,Moderado
+Calzada Roosevelt,22,Jueves,Nublado,0,Bajo
+Calzada Roosevelt,16,Miércoles,Lluvia,0,Alto
+Zona 4,18,Miércoles,Soleado,0,Moderado
+Periférico,16,Jueves,Soleado,0,Alto
+Zona 10,13,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,19,Miércoles,Lluvia,0,Alto
+Zona 4,12,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,17,Jueves,Soleado,0,Alto
+Calzada Roosevelt,12,Sábado,Lluvia,0,Alto
+Zona 10,12,Viernes,Soleado,0,Moderado
+Zona 10,22,Domingo,Soleado,0,Bajo
+Zona 1,1,Martes,Soleado,0,Moderado
+Periférico,21,Sábado,Soleado,0,Bajo
+Periférico,16,Domingo,Soleado,0,Moderado
+Zona 10,13,Jueves,Soleado,0,Bajo
+Zona 1,16,Jueves,Soleado,1,Alto
+Calzada Roosevelt,22,Lunes,Soleado,0,Moderado
+Zona 12,22,Lunes,Nublado,0,Bajo
+Zona 1,12,Miércoles,Soleado,0,Moderado
+Periférico,1,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,7,Jueves,Soleado,0,Alto
+Periférico,23,Miércoles,Soleado,0,Bajo
+Periférico,23,Sábado,Nublado,0,Bajo
+Zona 1,22,Jueves,Soleado,0,Bajo
+Periférico,23,Jueves,Nublado,0,Moderado
+Zona 4,12,Sábado,Lluvia,0,Bajo
+Calzada Roosevelt,19,Sábado,Lluvia,0,Alto
+Zona 12,3,Viernes,Lluvia,0,Moderado
+Zona 12,23,Jueves,Soleado,0,Bajo
+Zona 1,8,Lunes,Soleado,0,Alto
+Zona 12,18,Sábado,Lluvia,0,Alto
+Zona 1,1,Sábado,Soleado,0,Bajo
+Zona 1,12,Sábado,Soleado,0,Moderado
+Zona 4,6,Martes,Soleado,0,Moderado
+Zona 10,15,Domingo,Soleado,0,Bajo
+Zona 12,2,Miércoles,Soleado,0,Bajo
+Zona 1,12,Martes,Soleado,0,Moderado
+Zona 12,15,Viernes,Lluvia,0,Moderado
+Zona 10,18,Domingo,Soleado,0,Moderado
+Zona 12,18,Martes,Soleado,1,Alto
+Calzada Roosevelt,20,Jueves,Lluvia,0,Moderado
+Zona 4,12,Sábado,Nublado,0,Bajo
+Zona 12,0,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,23,Viernes,Soleado,0,Bajo
+Zona 4,8,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,7,Miércoles,Nublado,0,Alto
+Zona 12,18,Viernes,Soleado,0,Alto
+Zona 12,9,Viernes,Soleado,0,Alto
+Periférico,8,Jueves,Nublado,0,Alto
+Zona 4,17,Viernes,Soleado,0,Moderado
+Zona 4,8,Martes,Soleado,0,Moderado
+Zona 10,22,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,0,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,8,Martes,Soleado,0,Alto
+Zona 4,18,Viernes,Nublado,0,Moderado
+Zona 10,19,Lunes,Nublado,0,Alto
+Zona 4,14,Domingo,Lluvia,0,Bajo
+Zona 1,7,Viernes,Soleado,1,Alto
+Periférico,22,Miércoles,Nublado,0,Moderado
+Zona 12,21,Martes,Nublado,0,Bajo
+Zona 12,21,Sábado,Nublado,1,Moderado
+Zona 10,5,Martes,Soleado,0,Bajo
+Zona 10,11,Domingo,Lluvia,0,Moderado
+Zona 1,16,Viernes,Soleado,0,Alto
+Zona 4,7,Jueves,Soleado,0,Moderado
+Periférico,20,Lunes,Soleado,0,Bajo
+Zona 4,6,Martes,Soleado,0,Moderado
+Zona 12,20,Martes,Nublado,0,Bajo
+Zona 4,18,Domingo,Soleado,1,Moderado
+Periférico,11,Jueves,Soleado,0,Moderado
+Periférico,8,Sábado,Soleado,0,Moderado
+Zona 4,15,Sábado,Lluvia,0,Moderado
+Zona 12,0,Domingo,Soleado,0,Bajo
+Zona 12,2,Viernes,Nublado,0,Bajo
+Periférico,3,Domingo,Lluvia,0,Moderado
+Zona 10,7,Lunes,Soleado,0,Moderado
+Zona 12,13,Jueves,Nublado,0,Moderado
+Zona 1,5,Lunes,Soleado,0,Moderado
+Zona 10,13,Martes,Soleado,0,Moderado
+Zona 1,2,Martes,Soleado,0,Bajo
+Zona 10,15,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,6,Lunes,Nublado,0,Alto
+Zona 4,18,Lunes,Soleado,0,Moderado
+Periférico,11,Lunes,Soleado,0,Moderado
+Zona 10,17,Domingo,Nublado,0,Moderado
+Zona 1,14,Domingo,Nublado,0,Bajo
+Zona 4,22,Domingo,Nublado,0,Bajo
+Periférico,2,Jueves,Nublado,0,Moderado
+Periférico,19,Miércoles,Nublado,0,Alto
+Zona 12,3,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,1,Sábado,Soleado,0,Bajo
+Zona 4,10,Jueves,Soleado,0,Bajo
+Zona 10,5,Martes,Soleado,0,Bajo
+Zona 10,23,Sábado,Soleado,1,Bajo
+Zona 12,22,Miércoles,Nublado,1,Moderado
+Zona 4,1,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,8,Domingo,Soleado,0,Moderado
+Periférico,2,Domingo,Lluvia,0,Moderado
+Zona 10,1,Sábado,Nublado,0,Bajo
+Zona 10,18,Sábado,Soleado,0,Moderado
+Zona 10,15,Jueves,Nublado,0,Moderado
+Calzada Roosevelt,22,Miércoles,Soleado,0,Bajo
+Zona 4,11,Martes,Soleado,0,Moderado
+Zona 12,16,Jueves,Nublado,0,Alto
+Zona 4,1,Viernes,Soleado,0,Bajo
+Zona 1,3,Miércoles,Soleado,0,Moderado
+Zona 12,8,Viernes,Soleado,0,Alto
+Zona 1,16,Domingo,Nublado,0,Moderado
+Zona 1,4,Lunes,Soleado,0,Bajo
+Zona 12,7,Domingo,Nublado,0,Moderado
+Calzada Roosevelt,17,Miércoles,Nublado,0,Alto
+Periférico,20,Sábado,Nublado,0,Moderado
+Zona 4,19,Viernes,Nublado,0,Moderado
+Zona 1,18,Martes,Nublado,0,Alto
+Zona 12,10,Jueves,Soleado,0,Moderado
+Zona 10,20,Domingo,Soleado,0,Bajo
+Periférico,19,Miércoles,Nublado,0,Alto
+Zona 12,11,Domingo,Soleado,0,Bajo
+Zona 4,19,Miércoles,Soleado,1,Alto
+Calzada Roosevelt,8,Lunes,Soleado,0,Moderado
+Periférico,15,Martes,Soleado,0,Moderado
+Zona 12,20,Sábado,Soleado,0,Bajo
+Zona 12,0,Jueves,Lluvia,0,Bajo
+Zona 12,12,Viernes,Soleado,0,Moderado
+Zona 10,14,Domingo,Soleado,0,Bajo
+Zona 10,8,Sábado,Soleado,0,Moderado
+Zona 12,3,Martes,Soleado,0,Bajo
+Zona 4,8,Sábado,Soleado,0,Moderado
+Zona 10,13,Sábado,Nublado,0,Bajo
+Zona 10,8,Viernes,Nublado,0,Moderado
+Zona 12,3,Jueves,Soleado,0,Bajo
+Zona 4,7,Jueves,Lluvia,0,Alto
+Periférico,21,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,15,Viernes,Nublado,0,Moderado
+Zona 1,21,Miércoles,Nublado,0,Moderado
+Zona 1,17,Viernes,Soleado,0,Alto
+Zona 12,21,Martes,Nublado,0,Bajo
+Zona 4,4,Miércoles,Lluvia,0,Moderado
+Zona 1,6,Jueves,Soleado,1,Alto
+Zona 4,23,Martes,Nublado,0,Bajo
+Zona 4,16,Viernes,Soleado,0,Moderado
+Zona 1,6,Martes,Soleado,0,Alto
+Zona 1,23,Viernes,Soleado,0,Moderado
+Zona 12,18,Domingo,Nublado,0,Moderado
+Periférico,8,Miércoles,Soleado,0,Moderado
+Zona 1,15,Sábado,Soleado,0,Bajo
+Zona 4,23,Jueves,Nublado,0,Bajo
+Zona 10,13,Domingo,Lluvia,0,Moderado
+Zona 12,13,Lunes,Soleado,0,Moderado
+Zona 1,16,Domingo,Soleado,0,Moderado
+Periférico,1,Miércoles,Nublado,0,Moderado
+Zona 10,8,Sábado,Soleado,0,Moderado
+Periférico,13,Lunes,Soleado,0,Moderado
+Periférico,0,Martes,Soleado,0,Moderado
+Zona 4,7,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,1,Jueves,Soleado,0,Bajo
+Zona 10,12,Miércoles,Soleado,0,Bajo
+Periférico,19,Lunes,Soleado,0,Moderado
+Zona 10,5,Jueves,Nublado,0,Bajo
+Zona 1,21,Martes,Nublado,0,Bajo
+Zona 1,16,Sábado,Soleado,0,Alto
+Calzada Roosevelt,20,Lunes,Soleado,1,Moderado
+Calzada Roosevelt,16,Miércoles,Soleado,0,Moderado
+Zona 1,5,Martes,Soleado,1,Moderado
+Calzada Roosevelt,4,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,15,Jueves,Nublado,0,Alto
+Zona 4,2,Lunes,Nublado,0,Bajo
+Zona 4,13,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,8,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,9,Lunes,Nublado,0,Alto
+Calzada Roosevelt,16,Sábado,Soleado,0,Alto
+Zona 4,14,Domingo,Nublado,0,Bajo
+Zona 12,15,Sábado,Soleado,0,Moderado
+Zona 4,2,Miércoles,Nublado,0,Bajo
+Zona 10,12,Viernes,Soleado,0,Moderado
+Zona 12,17,Miércoles,Lluvia,0,Alto
+Periférico,3,Lunes,Lluvia,0,Moderado
+Zona 10,13,Domingo,Soleado,0,Bajo
+Zona 4,13,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,14,Jueves,Soleado,0,Moderado
+Zona 1,18,Viernes,Soleado,0,Alto
+Zona 4,17,Martes,Lluvia,0,Moderado
+Zona 1,13,Viernes,Soleado,0,Moderado
+Zona 10,4,Lunes,Nublado,0,Moderado
+Periférico,1,Lunes,Soleado,0,Bajo
+Zona 12,17,Miércoles,Soleado,0,Moderado
+Zona 4,17,Domingo,Nublado,0,Moderado
+Calzada Roosevelt,20,Miércoles,Soleado,0,Bajo
+Periférico,3,Viernes,Soleado,0,Bajo
+Zona 12,23,Miércoles,Nublado,0,Bajo
+Zona 4,12,Sábado,Soleado,0,Bajo
+Periférico,18,Sábado,Soleado,0,Moderado
+Zona 1,9,Martes,Soleado,0,Alto
+Zona 1,9,Domingo,Nublado,0,Moderado
+Zona 1,11,Domingo,Soleado,0,Moderado
+Zona 10,12,Sábado,Nublado,0,Moderado
+Zona 4,18,Jueves,Soleado,0,Moderado
+Zona 12,13,Domingo,Nublado,0,Bajo
+Zona 12,15,Viernes,Soleado,0,Moderado
+Zona 4,0,Sábado,Soleado,0,Bajo
+Zona 10,7,Miércoles,Soleado,1,Alto
+Calzada Roosevelt,5,Jueves,Lluvia,0,Moderado
+Zona 4,20,Sábado,Soleado,1,Bajo
+Zona 1,1,Miércoles,Nublado,0,Moderado
+Zona 10,10,Domingo,Soleado,0,Bajo
+Zona 12,10,Miércoles,Lluvia,0,Moderado
+Zona 4,13,Martes,Lluvia,0,Moderado
+Calzada Roosevelt,19,Martes,Soleado,0,Alto
+Zona 4,5,Domingo,Nublado,0,Bajo
+Periférico,10,Miércoles,Soleado,1,Alto
+Zona 4,13,Miércoles,Nublado,0,Moderado
+Zona 12,5,Sábado,Nublado,0,Bajo
+Zona 4,7,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,5,Viernes,Soleado,0,Moderado
+Zona 12,8,Domingo,Soleado,1,Alto
+Calzada Roosevelt,18,Domingo,Nublado,0,Moderado
+Zona 4,18,Domingo,Soleado,0,Bajo
+Zona 10,22,Miércoles,Nublado,1,Moderado
+Zona 12,21,Martes,Soleado,0,Bajo
+Periférico,19,Viernes,Lluvia,0,Alto
+Zona 4,22,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,20,Martes,Nublado,0,Bajo
+Periférico,6,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,11,Jueves,Nublado,1,Alto
+Periférico,11,Jueves,Soleado,1,Alto
+Zona 12,23,Lunes,Soleado,0,Bajo
+Zona 1,21,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,0,Viernes,Nublado,1,Moderado
+Periférico,3,Lunes,Lluvia,0,Moderado
+Zona 1,5,Viernes,Nublado,0,Moderado
+Zona 4,20,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,3,Jueves,Soleado,0,Bajo
+Zona 12,1,Jueves,Soleado,0,Bajo
+Zona 10,11,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,22,Sábado,Soleado,1,Moderado
+Zona 10,22,Lunes,Lluvia,0,Bajo
+Periférico,13,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,18,Domingo,Lluvia,0,Alto
+Zona 1,5,Miércoles,Soleado,0,Moderado
+Zona 12,9,Martes,Nublado,0,Alto
+Zona 1,3,Miércoles,Soleado,0,Bajo
+Zona 12,15,Viernes,Soleado,0,Moderado
+Zona 12,18,Viernes,Nublado,0,Alto
+Calzada Roosevelt,5,Lunes,Soleado,0,Bajo
+Zona 1,21,Martes,Soleado,0,Bajo
+Periférico,5,Domingo,Soleado,0,Bajo
+Zona 4,23,Martes,Nublado,0,Bajo
+Periférico,13,Viernes,Nublado,0,Moderado
+Zona 12,18,Sábado,Nublado,0,Alto
+Zona 12,14,Martes,Soleado,0,Bajo
+Zona 10,14,Viernes,Soleado,1,Alto
+Periférico,11,Miércoles,Nublado,0,Moderado
+Periférico,16,Viernes,Soleado,0,Alto
+Zona 1,23,Domingo,Lluvia,0,Bajo
+Zona 4,19,Viernes,Nublado,1,Alto
+Zona 1,14,Sábado,Nublado,1,Moderado
+Periférico,7,Miércoles,Soleado,0,Alto
+Zona 1,11,Domingo,Soleado,0,Bajo
+Zona 12,5,Domingo,Nublado,0,Bajo
+Zona 4,19,Jueves,Soleado,0,Moderado
+Zona 4,13,Viernes,Lluvia,0,Moderado
+Calzada Roosevelt,15,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,22,Viernes,Soleado,0,Bajo
+Zona 4,7,Sábado,Soleado,0,Moderado
+Zona 4,22,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,7,Miércoles,Soleado,0,Alto
+Zona 10,16,Lunes,Soleado,0,Alto
+Zona 10,14,Viernes,Soleado,0,Moderado
+Zona 10,5,Miércoles,Soleado,0,Bajo
+Zona 12,12,Viernes,Soleado,1,Alto
+Periférico,13,Sábado,Nublado,1,Moderado
+Calzada Roosevelt,16,Domingo,Soleado,1,Moderado
+Zona 1,7,Viernes,Soleado,0,Alto
+Zona 12,22,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,13,Viernes,Lluvia,0,Alto
+Calzada Roosevelt,15,Jueves,Nublado,0,Alto
+Calzada Roosevelt,22,Miércoles,Nublado,0,Moderado
+Zona 4,13,Martes,Soleado,1,Moderado
+Calzada Roosevelt,7,Martes,Soleado,0,Alto
+Zona 12,21,Miércoles,Nublado,0,Bajo
+Zona 10,17,Domingo,Soleado,0,Bajo
+Zona 1,6,Lunes,Soleado,0,Alto
+Zona 12,1,Martes,Nublado,0,Bajo
+Zona 4,16,Jueves,Nublado,0,Alto
+Calzada Roosevelt,15,Martes,Soleado,0,Moderado
+Zona 1,19,Domingo,Soleado,0,Moderado
+Zona 1,17,Domingo,Soleado,0,Moderado
+Zona 4,1,Miércoles,Soleado,0,Bajo
+Periférico,13,Sábado,Nublado,0,Moderado
+Zona 12,0,Lunes,Soleado,0,Bajo
+Zona 10,17,Domingo,Nublado,1,Alto
+Zona 12,21,Jueves,Nublado,0,Moderado
+Zona 10,11,Sábado,Nublado,0,Bajo
+Zona 1,9,Lunes,Lluvia,0,Alto
+Zona 12,22,Domingo,Nublado,1,Bajo
+Zona 4,22,Martes,Soleado,0,Bajo
+Zona 10,14,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,16,Martes,Soleado,0,Alto
+Zona 4,4,Martes,Soleado,0,Bajo
+Periférico,2,Viernes,Nublado,0,Moderado
+Zona 4,16,Martes,Nublado,0,Moderado
+Zona 1,23,Viernes,Soleado,0,Moderado
+Zona 4,18,Viernes,Soleado,0,Moderado
+Periférico,21,Domingo,Soleado,0,Bajo
+Zona 12,12,Lunes,Lluvia,0,Moderado
+Periférico,3,Domingo,Nublado,0,Bajo
+Zona 1,6,Lunes,Soleado,0,Alto
+Periférico,8,Lunes,Soleado,0,Alto
+Zona 1,10,Miércoles,Nublado,0,Alto
+Calzada Roosevelt,9,Lunes,Lluvia,0,Alto
+Calzada Roosevelt,22,Lunes,Nublado,0,Bajo
+Calzada Roosevelt,19,Lunes,Lluvia,0,Alto
+Zona 1,21,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,21,Miércoles,Soleado,1,Moderado
+Periférico,23,Miércoles,Lluvia,0,Moderado
+Calzada Roosevelt,17,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,19,Sábado,Soleado,0,Moderado
+Zona 12,1,Viernes,Lluvia,0,Bajo
+Zona 1,16,Viernes,Soleado,0,Alto
+Zona 10,19,Miércoles,Soleado,0,Moderado
+Zona 4,19,Viernes,Lluvia,0,Moderado
+Zona 12,16,Domingo,Soleado,0,Bajo
+Zona 10,23,Domingo,Lluvia,0,Bajo
+Zona 4,12,Jueves,Soleado,1,Moderado
+Zona 1,17,Viernes,Nublado,0,Alto
+Calzada Roosevelt,18,Lunes,Soleado,0,Moderado
+Zona 1,16,Miércoles,Soleado,0,Alto
+Periférico,21,Martes,Lluvia,0,Moderado
+Zona 10,6,Domingo,Soleado,0,Moderado
+Zona 10,19,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,16,Martes,Nublado,0,Alto
+Zona 4,17,Lunes,Soleado,0,Moderado
+Zona 1,16,Jueves,Soleado,0,Moderado
+Zona 4,18,Sábado,Soleado,0,Moderado
+Zona 12,23,Domingo,Nublado,0,Bajo
+Zona 4,14,Jueves,Soleado,0,Bajo
+Zona 10,3,Sábado,Lluvia,0,Moderado
+Zona 1,12,Jueves,Nublado,0,Alto
+Calzada Roosevelt,17,Domingo,Nublado,0,Alto
+Calzada Roosevelt,8,Miércoles,Soleado,0,Alto
+Zona 12,10,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,13,Martes,Soleado,0,Moderado
+Zona 12,2,Sábado,Soleado,0,Bajo
+Periférico,19,Sábado,Nublado,0,Alto
+Zona 4,6,Domingo,Nublado,0,Moderado
+Zona 12,13,Domingo,Lluvia,0,Bajo
+Calzada Roosevelt,12,Sábado,Soleado,0,Moderado
+Zona 4,9,Lunes,Nublado,0,Moderado
+Zona 1,10,Miércoles,Nublado,0,Alto
+Zona 1,4,Miércoles,Soleado,0,Bajo
+Zona 10,5,Jueves,Soleado,0,Bajo
+Zona 10,21,Domingo,Soleado,0,Bajo
+Zona 1,3,Domingo,Nublado,0,Bajo
+Zona 4,0,Jueves,Soleado,0,Bajo
+Zona 10,5,Lunes,Soleado,0,Bajo
+Periférico,12,Martes,Soleado,1,Alto
+Zona 10,13,Martes,Soleado,0,Bajo
+Zona 12,17,Miércoles,Soleado,0,Moderado
+Zona 4,3,Viernes,Nublado,1,Moderado
+Zona 10,20,Lunes,Soleado,0,Bajo
+Zona 12,8,Sábado,Nublado,0,Alto
+Zona 12,19,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,8,Miércoles,Soleado,1,Alto
+Zona 4,13,Sábado,Soleado,0,Bajo
+Zona 1,1,Martes,Soleado,0,Bajo
+Calzada Roosevelt,5,Martes,Nublado,0,Moderado
+Zona 12,4,Viernes,Nublado,1,Moderado
+Calzada Roosevelt,18,Jueves,Soleado,1,Alto
+Zona 12,2,Lunes,Lluvia,0,Moderado
+Periférico,1,Viernes,Lluvia,1,Alto
+Zona 1,1,Martes,Lluvia,0,Moderado
+Zona 4,15,Miércoles,Soleado,0,Moderado
+Zona 4,1,Viernes,Soleado,0,Bajo
+Zona 4,2,Jueves,Nublado,0,Bajo
+Calzada Roosevelt,20,Miércoles,Nublado,0,Moderado
+Zona 10,1,Domingo,Soleado,0,Bajo
+Zona 4,20,Miércoles,Nublado,0,Bajo
+Zona 1,23,Viernes,Soleado,0,Moderado
+Zona 1,0,Sábado,Lluvia,0,Bajo
+Calzada Roosevelt,21,Domingo,Soleado,0,Bajo
+Zona 12,11,Viernes,Soleado,0,Bajo
+Zona 1,0,Martes,Soleado,0,Bajo
+Zona 1,3,Viernes,Soleado,0,Moderado
+Zona 10,7,Domingo,Soleado,0,Moderado
+Zona 12,14,Jueves,Soleado,0,Moderado
+Zona 4,13,Martes,Soleado,1,Moderado
+Periférico,4,Jueves,Soleado,0,Moderado
+Periférico,12,Lunes,Lluvia,0,Moderado
+Calzada Roosevelt,23,Jueves,Lluvia,0,Moderado
+Zona 12,8,Viernes,Nublado,0,Alto
+Zona 10,2,Lunes,Lluvia,0,Moderado
+Zona 4,3,Lunes,Soleado,0,Bajo
+Periférico,23,Viernes,Lluvia,0,Moderado
+Zona 10,23,Jueves,Nublado,1,Moderado
+Periférico,11,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,19,Jueves,Soleado,0,Alto
+Zona 12,15,Domingo,Soleado,0,Bajo
+Zona 4,7,Domingo,Soleado,0,Moderado
+Zona 4,17,Sábado,Nublado,1,Alto
+Periférico,6,Domingo,Nublado,0,Moderado
+Zona 1,7,Martes,Nublado,0,Alto
+Zona 1,15,Domingo,Soleado,1,Moderado
+Periférico,7,Domingo,Soleado,0,Moderado
+Zona 4,19,Domingo,Nublado,0,Moderado
+Zona 12,10,Sábado,Soleado,0,Bajo
+Zona 1,1,Sábado,Soleado,0,Bajo
+Zona 12,23,Domingo,Nublado,0,Bajo
+Zona 12,15,Miércoles,Soleado,0,Bajo
+Zona 12,0,Lunes,Soleado,0,Bajo
+Zona 12,8,Jueves,Soleado,0,Moderado
+Zona 10,8,Domingo,Lluvia,1,Alto
+Periférico,9,Martes,Nublado,0,Alto
+Zona 1,22,Lunes,Soleado,0,Moderado
+Zona 12,3,Miércoles,Nublado,0,Moderado
+Zona 4,4,Viernes,Soleado,0,Bajo
+Zona 10,18,Jueves,Nublado,0,Alto
+Periférico,11,Viernes,Nublado,0,Moderado
+Zona 4,17,Jueves,Soleado,0,Moderado
+Zona 12,22,Martes,Nublado,0,Bajo
+Zona 1,3,Sábado,Soleado,0,Bajo
+Periférico,23,Domingo,Soleado,0,Bajo
+Zona 1,16,Domingo,Soleado,0,Moderado
+Zona 12,9,Viernes,Soleado,0,Moderado
+Zona 12,0,Viernes,Lluvia,1,Alto
+Zona 1,7,Miércoles,Soleado,0,Moderado
+Periférico,17,Viernes,Soleado,0,Moderado
+Zona 4,2,Jueves,Soleado,0,Bajo
+Zona 4,11,Miércoles,Soleado,0,Bajo
+Zona 12,20,Jueves,Lluvia,0,Bajo
+Calzada Roosevelt,9,Lunes,Soleado,0,Alto
+Zona 1,3,Miércoles,Soleado,0,Bajo
+Zona 1,4,Jueves,Soleado,0,Bajo
+Zona 12,7,Sábado,Soleado,0,Moderado
+Zona 10,4,Lunes,Nublado,1,Moderado
+Zona 10,14,Martes,Soleado,1,Moderado
+Zona 4,21,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,0,Domingo,Soleado,0,Bajo
+Zona 4,1,Jueves,Soleado,1,Moderado
+Zona 1,21,Sábado,Lluvia,0,Bajo
+Zona 1,10,Lunes,Soleado,0,Moderado
+Zona 4,13,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,11,Miércoles,Soleado,0,Moderado
+Zona 10,21,Miércoles,Soleado,1,Bajo
+Zona 12,14,Viernes,Lluvia,0,Alto
+Periférico,22,Martes,Soleado,0,Moderado
+Zona 10,10,Sábado,Nublado,0,Bajo
+Zona 10,9,Viernes,Soleado,0,Alto
+Periférico,9,Jueves,Nublado,0,Alto
+Zona 12,0,Jueves,Soleado,0,Bajo
+Periférico,4,Miércoles,Nublado,0,Moderado
+Zona 1,17,Miércoles,Soleado,1,Alto
+Zona 1,5,Martes,Soleado,0,Moderado
+Zona 10,8,Miércoles,Lluvia,0,Alto
+Zona 4,7,Lunes,Nublado,0,Moderado
+Zona 1,22,Sábado,Soleado,0,Bajo
+Zona 12,18,Lunes,Nublado,0,Alto
+Calzada Roosevelt,8,Sábado,Soleado,0,Alto
+Zona 10,17,Viernes,Soleado,0,Moderado
+Zona 1,3,Martes,Nublado,0,Moderado
+Zona 1,13,Martes,Soleado,0,Moderado
+Zona 1,18,Viernes,Lluvia,1,Alto
+Zona 12,6,Sábado,Nublado,1,Alto
+Zona 4,23,Miércoles,Soleado,0,Bajo
+Zona 10,5,Viernes,Nublado,1,Moderado
+Zona 10,19,Sábado,Nublado,0,Moderado
+Zona 4,21,Jueves,Soleado,0,Bajo
+Zona 10,5,Miércoles,Soleado,0,Bajo
+Zona 1,1,Miércoles,Soleado,0,Bajo
+Zona 4,20,Viernes,Soleado,0,Bajo
+Zona 1,7,Lunes,Nublado,0,Alto
+Periférico,7,Lunes,Soleado,0,Alto
+Zona 4,21,Martes,Nublado,0,Bajo
+Zona 10,13,Jueves,Nublado,0,Moderado
+Calzada Roosevelt,19,Lunes,Soleado,0,Alto
+Periférico,23,Lunes,Nublado,0,Moderado
+Zona 4,22,Domingo,Nublado,0,Bajo
+Periférico,21,Miércoles,Nublado,0,Moderado
+Zona 10,0,Viernes,Nublado,0,Bajo
+Calzada Roosevelt,6,Lunes,Soleado,1,Alto
+Calzada Roosevelt,11,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,12,Martes,Lluvia,0,Moderado
+Calzada Roosevelt,4,Jueves,Lluvia,0,Moderado
+Calzada Roosevelt,8,Martes,Lluvia,0,Alto
+Periférico,2,Miércoles,Lluvia,0,Moderado
+Periférico,17,Martes,Nublado,0,Alto
+Periférico,14,Lunes,Soleado,0,Moderado
+Zona 1,15,Jueves,Soleado,0,Moderado
+Zona 1,11,Viernes,Lluvia,0,Alto
+Zona 1,10,Jueves,Nublado,0,Moderado
+Zona 1,1,Jueves,Soleado,0,Bajo
+Zona 1,8,Jueves,Lluvia,0,Alto
+Zona 1,18,Domingo,Nublado,0,Alto
+Calzada Roosevelt,12,Sábado,Nublado,0,Moderado
+Periférico,13,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,14,Martes,Soleado,0,Moderado
+Zona 12,0,Lunes,Soleado,0,Bajo
+Periférico,21,Martes,Soleado,1,Moderado
+Zona 10,5,Sábado,Nublado,0,Bajo
+Zona 10,1,Domingo,Nublado,0,Bajo
+Zona 12,3,Martes,Nublado,0,Bajo
+Zona 10,16,Miércoles,Soleado,0,Moderado
+Zona 4,2,Martes,Nublado,0,Bajo
+Zona 10,11,Viernes,Lluvia,0,Alto
+Zona 10,5,Domingo,Lluvia,0,Bajo
+Zona 12,4,Viernes,Soleado,0,Bajo
+Periférico,13,Sábado,Soleado,0,Bajo
+Zona 10,22,Viernes,Soleado,1,Moderado
+Zona 1,7,Domingo,Lluvia,0,Alto
+Zona 12,18,Domingo,Lluvia,0,Alto
+Zona 1,19,Domingo,Lluvia,1,Alto
+Zona 10,0,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,23,Viernes,Nublado,1,Alto
+Zona 10,17,Lunes,Soleado,0,Moderado
+Zona 12,8,Martes,Nublado,0,Alto
+Zona 1,9,Martes,Soleado,0,Alto
+Periférico,9,Lunes,Soleado,0,Alto
+Zona 1,19,Jueves,Soleado,0,Alto
+Zona 4,23,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,4,Viernes,Lluvia,0,Moderado
+Zona 4,19,Miércoles,Nublado,0,Alto
+Zona 4,9,Lunes,Soleado,0,Moderado
+Zona 12,0,Lunes,Soleado,1,Bajo
+Zona 4,18,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,11,Domingo,Nublado,0,Moderado
+Zona 4,15,Viernes,Soleado,0,Moderado
+Zona 4,17,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,18,Miércoles,Soleado,0,Alto
+Zona 12,3,Sábado,Lluvia,0,Moderado
+Zona 10,1,Lunes,Nublado,0,Bajo
+Calzada Roosevelt,12,Viernes,Soleado,0,Moderado
+Periférico,0,Martes,Soleado,0,Bajo
+Periférico,10,Domingo,Soleado,0,Bajo
+Zona 1,14,Jueves,Lluvia,0,Alto
+Periférico,5,Viernes,Nublado,0,Moderado
+Calzada Roosevelt,16,Domingo,Soleado,0,Moderado
+Zona 12,4,Domingo,Soleado,0,Bajo
+Periférico,21,Jueves,Nublado,0,Moderado
+Zona 1,14,Sábado,Soleado,0,Moderado
+Zona 10,4,Miércoles,Lluvia,0,Moderado
+Periférico,21,Lunes,Soleado,0,Moderado
+Zona 1,17,Lunes,Nublado,0,Alto
+Zona 10,14,Sábado,Soleado,0,Bajo
+Periférico,17,Martes,Soleado,0,Alto
+Zona 4,2,Martes,Soleado,0,Bajo
+Zona 12,1,Martes,Soleado,0,Bajo
+Zona 1,19,Lunes,Soleado,0,Alto
+Zona 10,6,Jueves,Soleado,0,Moderado
+Periférico,14,Miércoles,Lluvia,0,Alto
+Zona 4,23,Miércoles,Lluvia,0,Bajo
+Zona 10,13,Domingo,Soleado,1,Moderado
+Zona 12,0,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,3,Domingo,Lluvia,0,Moderado
+Periférico,20,Domingo,Soleado,0,Bajo
+Zona 1,12,Martes,Nublado,0,Moderado
+Calzada Roosevelt,20,Domingo,Nublado,0,Bajo
+Zona 10,4,Sábado,Lluvia,0,Bajo
+Zona 4,4,Viernes,Nublado,0,Bajo
+Zona 12,22,Jueves,Soleado,0,Bajo
+Zona 12,14,Martes,Soleado,0,Bajo
+Calzada Roosevelt,10,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,0,Miércoles,Nublado,0,Moderado
+Zona 4,21,Viernes,Lluvia,0,Bajo
+Zona 1,16,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,12,Miércoles,Nublado,0,Alto
+Calzada Roosevelt,15,Lunes,Soleado,0,Moderado
+Zona 10,18,Viernes,Soleado,0,Moderado
+Zona 10,7,Miércoles,Nublado,0,Alto
+Zona 4,17,Lunes,Soleado,0,Moderado
+Zona 12,0,Miércoles,Soleado,0,Bajo
+Zona 1,7,Miércoles,Nublado,0,Alto
+Periférico,19,Miércoles,Soleado,0,Alto
+Zona 1,9,Lunes,Nublado,0,Alto
+Zona 1,11,Sábado,Lluvia,1,Alto
+Zona 12,9,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,8,Viernes,Nublado,0,Alto
+Calzada Roosevelt,19,Jueves,Soleado,0,Alto
+Zona 1,23,Domingo,Nublado,0,Bajo
+Zona 4,3,Viernes,Soleado,0,Bajo
+Zona 4,17,Viernes,Nublado,1,Alto
+Calzada Roosevelt,0,Jueves,Soleado,0,Moderado
+Zona 1,12,Domingo,Soleado,0,Moderado
+Zona 10,13,Domingo,Nublado,0,Bajo
+Periférico,19,Sábado,Nublado,0,Alto
+Zona 1,20,Martes,Soleado,0,Bajo
+Zona 12,1,Jueves,Nublado,0,Bajo
+Calzada Roosevelt,13,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,5,Domingo,Soleado,0,Bajo
+Periférico,13,Domingo,Soleado,0,Bajo
+Periférico,8,Martes,Soleado,0,Moderado
+Zona 12,7,Martes,Soleado,0,Alto
+Zona 4,7,Lunes,Nublado,0,Moderado
+Zona 10,17,Miércoles,Nublado,0,Alto
+Periférico,14,Sábado,Nublado,0,Moderado
+Zona 4,21,Lunes,Nublado,0,Bajo
+Zona 4,11,Lunes,Nublado,0,Bajo
+Zona 1,2,Viernes,Nublado,0,Moderado
+Zona 4,23,Miércoles,Soleado,0,Bajo
+Zona 4,8,Miércoles,Lluvia,0,Alto
+Calzada Roosevelt,2,Viernes,Nublado,0,Moderado
+Periférico,0,Martes,Soleado,0,Bajo
+Periférico,6,Sábado,Soleado,0,Moderado
+Zona 1,19,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,19,Sábado,Lluvia,0,Alto
+Calzada Roosevelt,3,Miércoles,Soleado,0,Moderado
+Zona 12,19,Lunes,Soleado,0,Alto
+Zona 1,2,Viernes,Nublado,0,Bajo
+Zona 4,17,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,23,Martes,Soleado,0,Moderado
+Zona 12,20,Viernes,Soleado,0,Bajo
+Periférico,18,Martes,Soleado,0,Moderado
+Periférico,20,Sábado,Lluvia,0,Moderado
+Periférico,0,Viernes,Soleado,0,Moderado
+Zona 4,0,Lunes,Nublado,0,Bajo
+Zona 10,23,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,7,Viernes,Nublado,0,Alto
+Calzada Roosevelt,4,Miércoles,Soleado,0,Moderado
+Zona 12,16,Sábado,Soleado,0,Moderado
+Zona 1,13,Jueves,Lluvia,1,Alto
+Zona 4,21,Martes,Nublado,0,Bajo
+Zona 12,12,Miércoles,Soleado,0,Moderado
+Zona 12,2,Sábado,Soleado,0,Bajo
+Zona 4,16,Domingo,Lluvia,1,Alto
+Zona 1,20,Lunes,Soleado,0,Bajo
+Zona 1,14,Domingo,Lluvia,0,Moderado
+Periférico,5,Domingo,Soleado,0,Bajo
+Zona 4,21,Viernes,Lluvia,0,Moderado
+Zona 10,7,Jueves,Soleado,0,Moderado
+Zona 10,22,Miércoles,Nublado,0,Bajo
+Zona 1,11,Miércoles,Soleado,0,Moderado
+Zona 4,17,Jueves,Soleado,0,Moderado
+Zona 12,8,Martes,Soleado,0,Moderado
+Zona 4,23,Sábado,Nublado,0,Bajo
+Zona 4,22,Jueves,Lluvia,0,Bajo
+Zona 12,17,Lunes,Lluvia,0,Alto
+Calzada Roosevelt,4,Domingo,Soleado,0,Bajo
+Zona 12,6,Viernes,Lluvia,0,Alto
+Periférico,19,Lunes,Nublado,0,Alto
+Zona 1,2,Miércoles,Soleado,0,Bajo
+Periférico,14,Viernes,Lluvia,0,Alto
+Calzada Roosevelt,1,Sábado,Soleado,0,Bajo
+Zona 12,14,Miércoles,Soleado,0,Moderado
+Zona 12,17,Miércoles,Nublado,0,Alto
+Calzada Roosevelt,21,Jueves,Soleado,0,Bajo
+Zona 12,5,Jueves,Soleado,0,Bajo
+Zona 4,12,Viernes,Soleado,0,Bajo
+Periférico,20,Jueves,Soleado,0,Bajo
+Zona 1,9,Domingo,Soleado,1,Moderado
+Calzada Roosevelt,17,Jueves,Soleado,0,Alto
+Zona 10,13,Viernes,Lluvia,1,Alto
+Periférico,13,Jueves,Nublado,0,Moderado
+Zona 1,20,Lunes,Soleado,0,Moderado
+Zona 4,18,Jueves,Soleado,0,Moderado
+Zona 1,14,Sábado,Soleado,0,Bajo
+Zona 12,11,Miércoles,Lluvia,0,Moderado
+Periférico,2,Lunes,Soleado,1,Moderado
+Zona 12,3,Viernes,Soleado,0,Bajo
+Zona 10,19,Jueves,Soleado,0,Moderado
+Periférico,15,Miércoles,Lluvia,0,Moderado
+Calzada Roosevelt,2,Jueves,Soleado,0,Bajo
+Zona 1,13,Miércoles,Lluvia,0,Moderado
+Periférico,9,Martes,Lluvia,0,Alto
+Zona 10,21,Miércoles,Soleado,0,Bajo
+Zona 1,22,Martes,Soleado,0,Moderado
+Zona 1,8,Domingo,Soleado,0,Moderado
+Zona 12,17,Domingo,Nublado,0,Moderado
+Periférico,7,Viernes,Lluvia,0,Alto
+Zona 4,5,Martes,Nublado,0,Bajo
+Zona 10,2,Sábado,Soleado,0,Bajo
+Zona 12,6,Miércoles,Nublado,0,Alto
+Calzada Roosevelt,3,Lunes,Soleado,0,Moderado
+Periférico,10,Domingo,Lluvia,0,Moderado
+Zona 1,16,Martes,Soleado,1,Alto
+Zona 4,1,Martes,Nublado,0,Bajo
+Zona 12,18,Martes,Soleado,0,Moderado
+Zona 10,13,Miércoles,Soleado,0,Moderado
+Zona 1,22,Jueves,Soleado,1,Moderado
+Zona 12,2,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,2,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,14,Lunes,Nublado,0,Alto
+Periférico,2,Miércoles,Lluvia,0,Moderado
+Periférico,2,Sábado,Soleado,0,Bajo
+Zona 12,8,Sábado,Soleado,1,Alto
+Zona 4,2,Martes,Lluvia,0,Bajo
+Zona 12,17,Domingo,Nublado,0,Moderado
+Calzada Roosevelt,7,Sábado,Soleado,0,Moderado
+Periférico,3,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,7,Domingo,Soleado,0,Moderado
+Zona 10,14,Jueves,Nublado,1,Moderado
+Zona 1,23,Domingo,Nublado,0,Bajo
+Periférico,9,Sábado,Soleado,0,Moderado
+Zona 12,14,Jueves,Nublado,0,Moderado
+Zona 10,16,Viernes,Nublado,0,Alto
+Zona 4,9,Viernes,Nublado,0,Moderado
+Zona 10,23,Lunes,Soleado,0,Bajo
+Zona 10,18,Domingo,Soleado,0,Moderado
+Periférico,21,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,21,Sábado,Soleado,0,Bajo
+Periférico,10,Miércoles,Soleado,0,Moderado
+Periférico,0,Lunes,Soleado,1,Moderado
+Zona 10,2,Viernes,Soleado,0,Bajo
+Zona 1,6,Martes,Soleado,0,Alto
+Periférico,10,Domingo,Lluvia,0,Moderado
+Zona 1,8,Lunes,Nublado,0,Alto
+Zona 4,19,Lunes,Nublado,0,Moderado
+Zona 12,20,Martes,Nublado,0,Moderado
+Zona 1,3,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,1,Martes,Nublado,0,Moderado
+Zona 4,7,Lunes,Soleado,0,Moderado
+Zona 1,8,Viernes,Soleado,0,Moderado
+Zona 4,7,Viernes,Nublado,0,Moderado
+Periférico,6,Jueves,Soleado,1,Alto
+Zona 4,5,Sábado,Soleado,0,Bajo
+Zona 4,23,Domingo,Soleado,0,Bajo
+Zona 10,7,Martes,Nublado,0,Alto
+Zona 10,18,Miércoles,Nublado,1,Alto
+Periférico,17,Lunes,Soleado,0,Alto
+Zona 10,9,Martes,Nublado,0,Moderado
+Periférico,20,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,13,Viernes,Soleado,0,Moderado
+Zona 4,17,Miércoles,Soleado,0,Moderado
+Periférico,8,Viernes,Lluvia,0,Alto
+Calzada Roosevelt,9,Lunes,Nublado,0,Alto
+Calzada Roosevelt,15,Domingo,Soleado,0,Bajo
+Zona 4,10,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,3,Lunes,Soleado,0,Bajo
+Zona 1,22,Lunes,Lluvia,0,Moderado
+Zona 4,8,Miércoles,Nublado,0,Moderado
+Zona 10,5,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,6,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,12,Viernes,Lluvia,0,Alto
+Zona 10,8,Sábado,Soleado,0,Moderado
+Zona 10,12,Miércoles,Soleado,0,Moderado
+Periférico,1,Viernes,Lluvia,0,Moderado
+Zona 1,19,Viernes,Lluvia,0,Alto
+Zona 10,4,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,15,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,3,Martes,Soleado,0,Bajo
+Zona 1,16,Domingo,Lluvia,0,Moderado
+Zona 1,1,Martes,Nublado,0,Moderado
+Zona 12,16,Miércoles,Lluvia,0,Alto
+Zona 10,20,Martes,Soleado,0,Bajo
+Zona 1,11,Viernes,Nublado,0,Moderado
+Zona 4,7,Domingo,Nublado,0,Moderado
+Zona 12,3,Jueves,Soleado,0,Bajo
+Zona 4,14,Lunes,Lluvia,0,Moderado
+Zona 12,20,Martes,Soleado,0,Bajo
+Calzada Roosevelt,5,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,8,Miércoles,Soleado,0,Moderado
+Zona 4,3,Miércoles,Lluvia,0,Bajo
+Zona 12,1,Martes,Soleado,0,Bajo
+Zona 1,14,Viernes,Soleado,0,Moderado
+Zona 1,12,Miércoles,Soleado,0,Moderado
+Zona 1,12,Miércoles,Nublado,0,Moderado
+Periférico,7,Domingo,Soleado,0,Moderado
+Zona 4,20,Jueves,Nublado,0,Bajo
+Zona 10,12,Domingo,Soleado,0,Bajo
+Zona 12,0,Miércoles,Soleado,0,Bajo
+Periférico,20,Domingo,Soleado,0,Bajo
+Zona 4,13,Miércoles,Nublado,0,Moderado
+Zona 4,23,Lunes,Soleado,0,Bajo
+Periférico,1,Miércoles,Nublado,0,Moderado
+Zona 4,5,Sábado,Nublado,0,Bajo
+Periférico,18,Sábado,Soleado,1,Alto
+Calzada Roosevelt,17,Domingo,Nublado,0,Moderado
+Zona 1,11,Sábado,Soleado,0,Moderado
+Zona 4,23,Domingo,Soleado,0,Bajo
+Periférico,1,Martes,Lluvia,0,Moderado
+Zona 12,5,Martes,Lluvia,0,Bajo
+Periférico,1,Miércoles,Lluvia,1,Alto
+Zona 10,9,Sábado,Lluvia,0,Alto
+Zona 12,18,Martes,Lluvia,0,Alto
+Zona 12,12,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,6,Sábado,Soleado,0,Alto
+Calzada Roosevelt,21,Domingo,Soleado,0,Bajo
+Zona 4,18,Lunes,Nublado,0,Moderado
+Zona 1,18,Sábado,Soleado,0,Moderado
+Zona 12,17,Lunes,Soleado,0,Alto
+Calzada Roosevelt,12,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,13,Sábado,Soleado,0,Moderado
+Zona 1,17,Domingo,Soleado,1,Alto
+Zona 12,15,Miércoles,Nublado,0,Moderado
+Zona 12,11,Miércoles,Soleado,1,Moderado
+Zona 12,23,Viernes,Soleado,0,Bajo
+Periférico,17,Martes,Soleado,1,Alto
+Zona 10,22,Sábado,Soleado,0,Bajo
+Zona 1,8,Jueves,Soleado,0,Moderado
+Zona 10,9,Miércoles,Nublado,0,Moderado
+Periférico,16,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,2,Sábado,Soleado,0,Bajo
+Zona 10,17,Viernes,Lluvia,0,Alto
+Zona 12,7,Lunes,Soleado,0,Alto
+Zona 1,16,Miércoles,Lluvia,0,Alto
+Periférico,23,Jueves,Lluvia,0,Moderado
+Periférico,20,Domingo,Nublado,0,Bajo
+Zona 4,10,Martes,Soleado,0,Bajo
+Periférico,15,Domingo,Nublado,0,Moderado
+Zona 4,11,Miércoles,Soleado,0,Bajo
+Zona 4,16,Viernes,Nublado,0,Moderado
+Zona 12,15,Domingo,Soleado,0,Bajo
+Periférico,12,Jueves,Nublado,0,Alto
+Zona 12,1,Martes,Soleado,0,Bajo
+Periférico,6,Domingo,Lluvia,1,Alto
+Zona 12,21,Sábado,Soleado,0,Bajo
+Zona 1,18,Martes,Soleado,0,Alto
+Zona 10,6,Martes,Soleado,0,Moderado
+Calzada Roosevelt,15,Domingo,Soleado,0,Bajo
+Zona 12,16,Sábado,Lluvia,0,Alto
+Zona 10,5,Sábado,Soleado,0,Bajo
+Zona 12,10,Viernes,Lluvia,0,Moderado
+Zona 4,14,Domingo,Lluvia,0,Bajo
+Zona 10,13,Domingo,Nublado,0,Bajo
+Zona 10,5,Miércoles,Nublado,0,Bajo
+Zona 4,16,Viernes,Soleado,0,Moderado
+Periférico,4,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,13,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,21,Jueves,Soleado,0,Bajo
+Zona 10,1,Domingo,Soleado,0,Bajo
+Zona 4,5,Jueves,Soleado,0,Bajo
+Zona 4,1,Martes,Soleado,0,Bajo
+Zona 4,17,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,0,Domingo,Lluvia,0,Bajo
+Zona 4,5,Domingo,Soleado,0,Bajo
+Zona 12,6,Viernes,Nublado,0,Alto
+Zona 10,11,Lunes,Lluvia,1,Alto
+Zona 12,18,Lunes,Nublado,1,Alto
+Periférico,17,Martes,Nublado,0,Alto
+Zona 1,4,Miércoles,Nublado,0,Moderado
+Zona 12,19,Lunes,Nublado,0,Moderado
+Zona 4,19,Sábado,Lluvia,0,Alto
+Calzada Roosevelt,15,Sábado,Soleado,0,Bajo
+Zona 4,13,Viernes,Soleado,0,Bajo
+Zona 12,7,Miércoles,Soleado,0,Moderado
+Periférico,3,Martes,Soleado,1,Moderado
+Zona 12,8,Jueves,Lluvia,0,Alto
+Zona 4,13,Miércoles,Soleado,0,Bajo
+Zona 1,22,Jueves,Nublado,0,Bajo
+Zona 4,22,Miércoles,Nublado,0,Bajo
+Zona 10,11,Miércoles,Lluvia,0,Alto
+Zona 10,6,Viernes,Nublado,0,Alto
+Zona 1,14,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,22,Miércoles,Soleado,0,Moderado
+Zona 4,3,Miércoles,Nublado,0,Bajo
+Zona 4,23,Miércoles,Nublado,0,Bajo
+Zona 4,11,Miércoles,Soleado,0,Bajo
+Zona 1,21,Sábado,Soleado,0,Bajo
+Zona 10,10,Sábado,Soleado,0,Bajo
+Zona 12,22,Viernes,Nublado,0,Bajo
+Periférico,8,Martes,Soleado,0,Moderado
+Zona 1,15,Jueves,Nublado,0,Alto
+Zona 10,15,Martes,Lluvia,0,Moderado
+Zona 10,17,Viernes,Nublado,0,Alto
+Zona 10,1,Lunes,Soleado,0,Bajo
+Zona 1,21,Viernes,Nublado,0,Moderado
+Zona 1,4,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,15,Domingo,Soleado,0,Bajo
+Zona 4,9,Sábado,Soleado,0,Bajo
+Zona 12,5,Sábado,Soleado,0,Bajo
+Zona 4,5,Lunes,Nublado,0,Bajo
+Zona 1,3,Lunes,Lluvia,0,Moderado
+Zona 4,10,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,6,Martes,Soleado,0,Alto
+Zona 10,0,Viernes,Nublado,0,Bajo
+Zona 1,18,Viernes,Soleado,0,Alto
+Zona 10,0,Jueves,Lluvia,0,Bajo
+Zona 4,3,Domingo,Lluvia,0,Bajo
+Zona 4,2,Miércoles,Soleado,0,Bajo
+Zona 1,18,Martes,Soleado,0,Moderado
+Zona 10,13,Domingo,Soleado,0,Bajo
+Zona 4,22,Lunes,Nublado,0,Bajo
+Zona 1,12,Miércoles,Soleado,0,Moderado
+Zona 12,20,Domingo,Soleado,0,Bajo
+Zona 4,9,Jueves,Lluvia,0,Alto
+Zona 10,17,Domingo,Soleado,0,Moderado
+Periférico,22,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,12,Domingo,Nublado,0,Bajo
+Zona 4,14,Lunes,Nublado,0,Moderado
+Zona 4,1,Sábado,Nublado,0,Bajo
+Zona 10,5,Jueves,Soleado,0,Bajo
+Zona 1,2,Jueves,Soleado,0,Bajo
+Zona 10,9,Sábado,Soleado,0,Moderado
+Zona 1,4,Miércoles,Soleado,0,Bajo
+Zona 1,9,Viernes,Nublado,0,Alto
+Periférico,2,Domingo,Lluvia,0,Bajo
+Calzada Roosevelt,14,Lunes,Soleado,0,Moderado
+Periférico,4,Sábado,Soleado,0,Bajo
+Zona 4,6,Sábado,Soleado,0,Moderado
+Zona 12,6,Viernes,Lluvia,1,Alto
+Zona 1,21,Viernes,Soleado,0,Bajo
+Zona 4,16,Domingo,Soleado,0,Moderado
+Zona 4,19,Sábado,Soleado,0,Moderado
+Zona 10,9,Jueves,Soleado,0,Moderado
+Zona 1,0,Viernes,Lluvia,0,Moderado
+Zona 12,13,Miércoles,Soleado,0,Bajo
+Zona 1,1,Sábado,Soleado,0,Bajo
+Zona 10,3,Sábado,Soleado,0,Bajo
+Zona 10,18,Sábado,Soleado,0,Moderado
+Zona 12,23,Sábado,Lluvia,0,Bajo
+Periférico,9,Viernes,Soleado,0,Moderado
+Zona 10,15,Miércoles,Nublado,0,Moderado
+Zona 12,7,Domingo,Nublado,0,Moderado
+Calzada Roosevelt,3,Sábado,Soleado,0,Bajo
+Zona 1,7,Martes,Nublado,0,Alto
+Periférico,21,Jueves,Lluvia,0,Moderado
+Zona 4,4,Miércoles,Soleado,0,Bajo
+Zona 10,20,Domingo,Soleado,0,Bajo
+Zona 10,18,Martes,Soleado,0,Alto
+Zona 1,18,Domingo,Nublado,0,Alto
+Zona 1,19,Viernes,Nublado,0,Alto
+Zona 4,18,Lunes,Soleado,0,Moderado
+Zona 12,3,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,20,Domingo,Soleado,0,Bajo
+Periférico,9,Sábado,Nublado,0,Alto
+Zona 12,12,Jueves,Nublado,0,Moderado
+Zona 4,3,Miércoles,Nublado,0,Bajo
+Zona 12,13,Lunes,Nublado,0,Moderado
+Zona 1,11,Sábado,Lluvia,0,Moderado
+Zona 12,17,Jueves,Soleado,0,Moderado
+Zona 1,22,Martes,Lluvia,0,Moderado
+Periférico,14,Miércoles,Soleado,0,Moderado
+Zona 10,23,Lunes,Soleado,0,Bajo
+Zona 10,13,Miércoles,Lluvia,0,Moderado
+Zona 4,16,Lunes,Nublado,0,Moderado
+Zona 1,4,Martes,Soleado,0,Bajo
+Zona 12,9,Miércoles,Soleado,0,Alto
+Zona 12,14,Jueves,Lluvia,0,Alto
+Zona 12,12,Miércoles,Soleado,0,Moderado
+Zona 10,23,Jueves,Nublado,1,Moderado
+Zona 12,9,Martes,Nublado,0,Alto
+Zona 10,3,Lunes,Nublado,0,Moderado
+Zona 10,12,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,11,Domingo,Nublado,0,Moderado
+Zona 10,14,Miércoles,Nublado,0,Moderado
+Zona 1,8,Viernes,Nublado,0,Alto
+Periférico,14,Lunes,Lluvia,0,Alto
+Zona 10,22,Sábado,Soleado,0,Bajo
+Periférico,18,Martes,Soleado,0,Alto
+Zona 4,20,Miércoles,Soleado,0,Bajo
+Zona 4,14,Viernes,Nublado,0,Moderado
+Zona 4,22,Lunes,Nublado,0,Bajo
+Zona 4,7,Domingo,Nublado,0,Moderado
+Zona 4,23,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,3,Domingo,Lluvia,0,Bajo
+Periférico,22,Domingo,Soleado,0,Bajo
+Zona 1,0,Domingo,Nublado,0,Bajo
+Zona 1,19,Sábado,Soleado,0,Alto
+Zona 10,18,Lunes,Nublado,0,Alto
+Zona 4,3,Domingo,Nublado,0,Bajo
+Periférico,10,Miércoles,Soleado,0,Moderado
+Zona 4,11,Jueves,Lluvia,0,Moderado
+Zona 1,10,Lunes,Nublado,0,Moderado
+Zona 1,18,Domingo,Nublado,1,Alto
+Periférico,4,Miércoles,Nublado,0,Moderado
+Zona 4,12,Martes,Nublado,0,Bajo
+Zona 1,5,Lunes,Nublado,0,Bajo
+Zona 4,23,Lunes,Lluvia,1,Moderado
+Zona 1,2,Sábado,Nublado,0,Moderado
+Zona 12,6,Jueves,Soleado,0,Moderado
+Zona 12,15,Domingo,Soleado,0,Bajo
+Periférico,16,Martes,Nublado,0,Alto
+Zona 10,17,Lunes,Soleado,0,Alto
+Zona 12,8,Jueves,Nublado,0,Moderado
+Zona 10,15,Lunes,Soleado,0,Moderado
+Zona 4,6,Lunes,Soleado,0,Moderado
+Periférico,20,Domingo,Nublado,0,Bajo
+Periférico,11,Viernes,Soleado,0,Moderado
+Zona 12,6,Miércoles,Nublado,0,Alto
+Zona 10,10,Martes,Soleado,0,Moderado
+Calzada Roosevelt,3,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,2,Martes,Soleado,0,Bajo
+Zona 1,20,Lunes,Soleado,1,Moderado
+Zona 12,20,Jueves,Soleado,0,Bajo
+Zona 4,21,Martes,Soleado,0,Bajo
+Zona 10,15,Viernes,Lluvia,0,Moderado
+Zona 10,21,Sábado,Lluvia,1,Moderado
+Zona 12,5,Jueves,Soleado,0,Bajo
+Zona 4,14,Viernes,Soleado,0,Bajo
+Zona 4,17,Domingo,Soleado,0,Moderado
+Zona 1,4,Lunes,Nublado,0,Bajo
+Periférico,15,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,4,Lunes,Nublado,0,Moderado
+Zona 4,23,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,7,Lunes,Lluvia,0,Alto
+Zona 1,10,Domingo,Lluvia,0,Moderado
+Periférico,17,Jueves,Soleado,0,Moderado
+Zona 10,2,Viernes,Lluvia,0,Moderado
+Calzada Roosevelt,10,Jueves,Soleado,0,Moderado
+Zona 12,2,Viernes,Soleado,0,Bajo
+Zona 12,20,Domingo,Soleado,0,Bajo
+Zona 10,12,Lunes,Nublado,0,Moderado
+Periférico,8,Viernes,Soleado,0,Alto
+Periférico,15,Domingo,Soleado,0,Bajo
+Zona 12,13,Miércoles,Nublado,0,Moderado
+Zona 4,12,Lunes,Lluvia,0,Moderado
+Zona 12,21,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,23,Martes,Nublado,0,Moderado
+Zona 4,17,Jueves,Nublado,0,Moderado
+Periférico,0,Sábado,Nublado,0,Bajo
+Periférico,14,Jueves,Soleado,0,Moderado
+Zona 1,12,Miércoles,Soleado,0,Moderado
+Periférico,10,Domingo,Soleado,0,Bajo
+Zona 10,13,Martes,Lluvia,0,Moderado
+Zona 12,10,Viernes,Lluvia,0,Alto
+Zona 10,14,Jueves,Lluvia,1,Alto
+Periférico,7,Miércoles,Soleado,0,Moderado
+Zona 1,15,Domingo,Nublado,0,Moderado
+Periférico,10,Martes,Nublado,0,Moderado
+Zona 10,11,Viernes,Nublado,0,Moderado
+Zona 10,12,Jueves,Soleado,0,Moderado
+Zona 1,7,Viernes,Soleado,0,Alto
+Calzada Roosevelt,20,Sábado,Soleado,0,Bajo
+Zona 4,13,Miércoles,Soleado,0,Bajo
+Zona 4,1,Miércoles,Nublado,0,Bajo
+Calzada Roosevelt,6,Martes,Nublado,0,Alto
+Zona 1,21,Domingo,Lluvia,0,Bajo
+Zona 10,19,Domingo,Soleado,1,Moderado
+Zona 1,0,Miércoles,Soleado,0,Bajo
+Zona 4,9,Miércoles,Soleado,1,Alto
+Zona 4,17,Martes,Lluvia,0,Moderado
+Zona 4,17,Viernes,Soleado,0,Moderado
+Zona 4,10,Martes,Nublado,0,Moderado
+Periférico,13,Domingo,Soleado,0,Moderado
+Zona 4,6,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,7,Sábado,Soleado,0,Moderado
+Periférico,7,Martes,Nublado,0,Alto
+Periférico,4,Lunes,Soleado,0,Bajo
+Zona 10,11,Miércoles,Lluvia,0,Moderado
+Zona 10,7,Viernes,Nublado,1,Alto
+Zona 1,10,Martes,Nublado,0,Moderado
+Zona 4,1,Lunes,Lluvia,0,Bajo
+Zona 1,9,Domingo,Lluvia,1,Alto
+Zona 4,20,Viernes,Nublado,0,Bajo
+Periférico,4,Domingo,Soleado,0,Bajo
+Zona 1,8,Viernes,Nublado,1,Alto
+Calzada Roosevelt,22,Miércoles,Soleado,1,Moderado
+Zona 1,23,Lunes,Lluvia,0,Moderado
+Periférico,15,Martes,Nublado,0,Alto
+Zona 1,21,Miércoles,Soleado,1,Moderado
+Zona 10,12,Sábado,Lluvia,0,Moderado
+Zona 12,6,Viernes,Lluvia,0,Alto
+Zona 12,13,Lunes,Nublado,0,Moderado
+Zona 1,19,Jueves,Lluvia,1,Alto
+Zona 1,8,Miércoles,Soleado,1,Alto
+Zona 4,16,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,19,Domingo,Soleado,0,Moderado
+Zona 10,8,Domingo,Soleado,1,Alto
+Zona 1,4,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,0,Martes,Nublado,0,Moderado
+Zona 12,21,Sábado,Soleado,0,Bajo
+Zona 12,7,Martes,Soleado,0,Moderado
+Zona 12,11,Viernes,Soleado,0,Moderado
+Zona 4,21,Lunes,Nublado,0,Bajo
+Calzada Roosevelt,22,Domingo,Soleado,0,Bajo
+Periférico,10,Domingo,Nublado,0,Moderado
+Zona 1,15,Jueves,Soleado,0,Moderado
+Periférico,12,Viernes,Soleado,0,Moderado
+Zona 1,18,Martes,Soleado,0,Alto
+Periférico,4,Lunes,Soleado,0,Moderado
+Zona 1,2,Sábado,Soleado,0,Bajo
+Zona 4,2,Jueves,Lluvia,0,Bajo
+Zona 10,22,Jueves,Soleado,0,Bajo
+Zona 1,6,Lunes,Soleado,0,Alto
+Zona 4,11,Lunes,Nublado,0,Bajo
+Zona 4,14,Martes,Soleado,0,Moderado
+Zona 12,8,Sábado,Soleado,0,Moderado
+Zona 10,15,Jueves,Soleado,0,Bajo
+Periférico,11,Jueves,Soleado,0,Moderado
+Zona 10,22,Martes,Soleado,0,Bajo
+Periférico,20,Jueves,Soleado,1,Moderado
+Zona 4,22,Martes,Nublado,0,Bajo
+Zona 12,12,Jueves,Nublado,1,Moderado
+Periférico,3,Viernes,Soleado,0,Bajo
+Periférico,15,Miércoles,Soleado,0,Moderado
+Periférico,1,Sábado,Soleado,1,Moderado
+Zona 12,20,Viernes,Soleado,0,Bajo
+Zona 1,15,Domingo,Nublado,0,Bajo
+Zona 1,4,Sábado,Nublado,0,Bajo
+Zona 1,3,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,18,Sábado,Nublado,0,Alto
+Zona 10,7,Lunes,Soleado,0,Alto
+Calzada Roosevelt,0,Miércoles,Nublado,0,Moderado
+Zona 1,7,Sábado,Soleado,0,Moderado
+Zona 12,4,Viernes,Nublado,0,Moderado
+Periférico,20,Sábado,Lluvia,0,Bajo
+Zona 12,8,Miércoles,Nublado,0,Moderado
+Zona 1,0,Miércoles,Nublado,0,Moderado
+Zona 1,5,Viernes,Nublado,0,Moderado
+Periférico,1,Domingo,Soleado,0,Bajo
+Zona 12,3,Sábado,Soleado,0,Bajo
+Zona 10,18,Sábado,Soleado,0,Moderado
+Zona 10,18,Jueves,Lluvia,0,Alto
+Zona 10,16,Miércoles,Nublado,1,Alto
+Calzada Roosevelt,0,Martes,Nublado,0,Bajo
+Zona 4,3,Martes,Soleado,0,Bajo
+Zona 10,2,Miércoles,Lluvia,0,Moderado
+Periférico,7,Lunes,Soleado,0,Alto
+Zona 10,1,Domingo,Soleado,0,Bajo
+Zona 10,21,Miércoles,Nublado,0,Bajo
+Zona 12,10,Domingo,Soleado,0,Bajo
+Zona 10,13,Miércoles,Soleado,0,Moderado
+Zona 10,6,Martes,Soleado,0,Alto
+Calzada Roosevelt,20,Jueves,Soleado,0,Bajo
+Zona 1,9,Lunes,Soleado,1,Alto
+Calzada Roosevelt,11,Sábado,Lluvia,0,Moderado
+Zona 4,15,Lunes,Soleado,0,Bajo
+Zona 12,15,Sábado,Soleado,0,Bajo
+Zona 10,17,Domingo,Soleado,0,Moderado
+Periférico,21,Martes,Soleado,0,Moderado
+Zona 10,11,Viernes,Nublado,0,Moderado
+Calzada Roosevelt,2,Martes,Nublado,0,Bajo
+Zona 4,22,Jueves,Nublado,0,Bajo
+Zona 4,16,Miércoles,Soleado,0,Moderado
+Zona 12,21,Viernes,Lluvia,0,Bajo
+Periférico,20,Viernes,Soleado,0,Bajo
+Periférico,16,Jueves,Nublado,0,Alto
+Zona 1,7,Domingo,Soleado,0,Moderado
+Zona 10,9,Domingo,Soleado,0,Moderado
+Zona 4,13,Miércoles,Nublado,0,Moderado
+Zona 1,13,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,11,Sábado,Soleado,0,Bajo
+Periférico,8,Domingo,Nublado,0,Alto
+Zona 12,8,Domingo,Soleado,0,Moderado
+Calzada Roosevelt,20,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,15,Martes,Soleado,0,Moderado
+Calzada Roosevelt,18,Jueves,Lluvia,0,Alto
+Zona 1,3,Jueves,Nublado,0,Moderado
+Zona 4,22,Martes,Soleado,0,Bajo
+Zona 12,23,Lunes,Soleado,0,Bajo
+Zona 1,16,Martes,Soleado,0,Alto
+Zona 1,2,Domingo,Soleado,0,Bajo
+Periférico,14,Viernes,Nublado,0,Moderado
+Zona 12,22,Sábado,Soleado,0,Bajo
+Zona 10,3,Viernes,Nublado,1,Moderado
+Zona 10,11,Viernes,Lluvia,0,Moderado
+Calzada Roosevelt,20,Sábado,Soleado,0,Bajo
+Zona 12,9,Martes,Nublado,0,Moderado
+Zona 1,6,Martes,Soleado,0,Alto
+Periférico,15,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,19,Miércoles,Lluvia,1,Alto
+Zona 4,12,Lunes,Nublado,1,Moderado
+Calzada Roosevelt,18,Martes,Nublado,1,Alto
+Periférico,6,Domingo,Soleado,0,Moderado
+Zona 10,14,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,0,Viernes,Nublado,1,Alto
+Zona 10,17,Lunes,Nublado,0,Moderado
+Periférico,19,Jueves,Nublado,1,Alto
+Zona 12,13,Sábado,Nublado,0,Moderado
+Zona 4,19,Miércoles,Lluvia,1,Alto
+Zona 1,23,Sábado,Nublado,0,Moderado
+Zona 1,9,Viernes,Lluvia,0,Alto
+Zona 10,10,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,22,Lunes,Lluvia,0,Moderado
+Periférico,3,Lunes,Nublado,0,Bajo
+Zona 12,13,Viernes,Nublado,0,Moderado
+Zona 12,8,Lunes,Lluvia,0,Alto
+Zona 4,15,Martes,Soleado,1,Moderado
+Periférico,10,Martes,Soleado,0,Moderado
+Zona 1,0,Sábado,Nublado,0,Moderado
+Zona 1,3,Martes,Soleado,0,Bajo
+Zona 1,5,Jueves,Nublado,0,Bajo
+Zona 4,1,Lunes,Lluvia,0,Bajo
+Periférico,1,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,11,Domingo,Nublado,0,Moderado
+Zona 12,9,Sábado,Lluvia,0,Alto
+Zona 4,18,Miércoles,Nublado,0,Moderado
+Periférico,12,Martes,Lluvia,0,Alto
+Periférico,0,Jueves,Lluvia,0,Moderado
+Zona 12,22,Jueves,Soleado,0,Bajo
+Periférico,16,Martes,Nublado,0,Alto
+Zona 1,7,Viernes,Soleado,0,Alto
+Calzada Roosevelt,14,Lunes,Soleado,0,Moderado
+Zona 10,3,Jueves,Nublado,0,Bajo
+Zona 1,10,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,20,Lunes,Soleado,0,Bajo
+Zona 4,14,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,2,Sábado,Soleado,0,Bajo
+Zona 10,13,Martes,Nublado,0,Moderado
+Zona 4,10,Sábado,Soleado,0,Bajo
+Zona 4,20,Domingo,Soleado,0,Bajo
+Zona 10,22,Domingo,Soleado,0,Bajo
+Zona 4,5,Miércoles,Nublado,0,Bajo
+Zona 12,11,Martes,Soleado,0,Moderado
+Periférico,16,Lunes,Lluvia,0,Alto
+Calzada Roosevelt,8,Lunes,Soleado,0,Alto
+Zona 1,13,Jueves,Nublado,0,Moderado
+Zona 12,12,Domingo,Soleado,0,Bajo
+Zona 10,9,Jueves,Soleado,0,Moderado
+Zona 1,21,Lunes,Soleado,0,Bajo
+Zona 1,9,Viernes,Soleado,0,Moderado
+Zona 12,22,Lunes,Nublado,0,Moderado
+Zona 4,0,Lunes,Lluvia,0,Bajo
+Zona 4,5,Jueves,Soleado,0,Bajo
+Zona 10,19,Sábado,Soleado,1,Moderado
+Zona 12,17,Lunes,Soleado,0,Moderado
+Zona 4,7,Martes,Soleado,0,Moderado
+Zona 10,2,Lunes,Nublado,0,Bajo
+Calzada Roosevelt,7,Domingo,Soleado,0,Moderado
+Calzada Roosevelt,16,Domingo,Nublado,0,Moderado
+Periférico,9,Lunes,Nublado,0,Alto
+Periférico,10,Lunes,Lluvia,0,Alto
+Zona 1,14,Lunes,Soleado,0,Moderado
+Zona 1,14,Jueves,Soleado,1,Moderado
+Zona 12,7,Miércoles,Soleado,1,Alto
+Zona 12,20,Jueves,Soleado,0,Bajo
+Periférico,14,Domingo,Nublado,1,Moderado
+Zona 10,1,Sábado,Soleado,0,Bajo
+Periférico,23,Sábado,Soleado,0,Bajo
+Periférico,19,Jueves,Nublado,0,Alto
+Zona 1,21,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,0,Miércoles,Lluvia,0,Moderado
+Calzada Roosevelt,16,Jueves,Nublado,0,Alto
+Calzada Roosevelt,5,Martes,Nublado,0,Moderado
+Zona 12,13,Martes,Soleado,0,Moderado
+Periférico,5,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,1,Lunes,Soleado,0,Bajo
+Zona 12,17,Martes,Lluvia,0,Alto
+Zona 1,12,Sábado,Lluvia,0,Moderado
+Zona 12,16,Martes,Soleado,0,Alto
+Periférico,14,Viernes,Nublado,0,Alto
+Zona 12,0,Martes,Nublado,0,Bajo
+Zona 10,9,Miércoles,Nublado,0,Alto
+Zona 4,12,Lunes,Soleado,1,Moderado
+Zona 1,17,Sábado,Soleado,0,Moderado
+Zona 12,2,Miércoles,Nublado,1,Moderado
+Zona 1,3,Martes,Nublado,0,Bajo
+Zona 12,12,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,3,Lunes,Soleado,0,Bajo
+Periférico,3,Jueves,Soleado,0,Moderado
+Zona 12,15,Jueves,Lluvia,0,Moderado
+Zona 1,14,Miércoles,Nublado,0,Alto
+Calzada Roosevelt,11,Lunes,Soleado,0,Moderado
+Zona 10,17,Sábado,Soleado,0,Moderado
+Zona 1,23,Viernes,Soleado,0,Bajo
+Zona 1,15,Jueves,Nublado,0,Moderado
+Zona 1,9,Domingo,Soleado,0,Moderado
+Zona 1,21,Sábado,Nublado,1,Moderado
+Zona 10,7,Lunes,Soleado,0,Alto
+Zona 10,10,Sábado,Lluvia,0,Moderado
+Zona 10,2,Lunes,Nublado,0,Bajo
+Zona 10,1,Jueves,Nublado,0,Moderado
+Zona 4,21,Domingo,Soleado,0,Bajo
+Zona 4,23,Lunes,Lluvia,0,Bajo
+Zona 10,23,Lunes,Lluvia,0,Moderado
+Zona 10,7,Viernes,Soleado,0,Moderado
+Zona 12,23,Jueves,Soleado,0,Bajo
+Zona 4,10,Martes,Nublado,0,Moderado
+Zona 1,13,Domingo,Lluvia,0,Moderado
+Zona 10,14,Sábado,Soleado,0,Bajo
+Periférico,7,Domingo,Soleado,0,Moderado
+Calzada Roosevelt,21,Viernes,Nublado,0,Bajo
+Periférico,13,Martes,Soleado,0,Moderado
+Periférico,20,Lunes,Soleado,0,Bajo
+Zona 1,15,Jueves,Nublado,0,Alto
+Periférico,8,Miércoles,Lluvia,0,Alto
+Zona 10,15,Domingo,Soleado,0,Bajo
+Zona 12,21,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,4,Jueves,Soleado,0,Bajo
+Zona 1,23,Domingo,Nublado,1,Moderado
+Periférico,13,Viernes,Soleado,0,Moderado
+Zona 1,14,Jueves,Soleado,0,Moderado
+Zona 10,16,Domingo,Nublado,0,Moderado
+Zona 10,2,Miércoles,Lluvia,0,Bajo
+Calzada Roosevelt,19,Viernes,Nublado,0,Alto
+Periférico,10,Martes,Soleado,0,Moderado
+Zona 1,21,Miércoles,Nublado,0,Bajo
+Zona 12,11,Lunes,Nublado,0,Moderado
+Zona 1,9,Miércoles,Soleado,0,Alto
+Zona 12,21,Domingo,Soleado,0,Bajo
+Zona 12,4,Domingo,Soleado,0,Bajo
+Zona 12,0,Viernes,Soleado,0,Bajo
+Zona 10,16,Viernes,Soleado,0,Alto
+Zona 12,13,Viernes,Soleado,0,Bajo
+Zona 1,2,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,13,Lunes,Nublado,0,Alto
+Zona 12,1,Miércoles,Soleado,0,Bajo
+Zona 12,18,Lunes,Soleado,1,Alto
+Zona 1,19,Jueves,Soleado,0,Alto
+Calzada Roosevelt,9,Sábado,Lluvia,0,Alto
+Zona 12,21,Martes,Soleado,0,Bajo
+Zona 1,12,Viernes,Lluvia,0,Alto
+Zona 12,0,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,1,Miércoles,Soleado,0,Bajo
+Zona 10,13,Sábado,Soleado,0,Bajo
+Zona 4,17,Domingo,Lluvia,0,Moderado
+Zona 10,9,Martes,Soleado,0,Moderado
+Calzada Roosevelt,16,Martes,Soleado,0,Alto
+Zona 12,22,Jueves,Soleado,0,Bajo
+Periférico,2,Sábado,Soleado,0,Bajo
+Zona 12,0,Sábado,Lluvia,1,Moderado
+Calzada Roosevelt,4,Viernes,Soleado,0,Moderado
+Zona 1,12,Miércoles,Soleado,0,Moderado
+Zona 1,8,Viernes,Soleado,0,Moderado
+Zona 1,1,Miércoles,Nublado,0,Bajo
+Calzada Roosevelt,2,Martes,Soleado,0,Bajo
+Zona 4,5,Sábado,Lluvia,1,Bajo
+Calzada Roosevelt,14,Jueves,Soleado,0,Moderado
+Zona 10,17,Martes,Nublado,0,Alto
+Zona 12,12,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,11,Viernes,Nublado,0,Moderado
+Zona 10,15,Miércoles,Soleado,0,Moderado
+Periférico,12,Jueves,Nublado,0,Moderado
+Calzada Roosevelt,19,Sábado,Soleado,0,Moderado
+Zona 1,4,Domingo,Lluvia,0,Bajo
+Periférico,6,Sábado,Nublado,0,Alto
+Zona 1,14,Viernes,Lluvia,0,Alto
+Zona 4,22,Miércoles,Nublado,0,Bajo
+Zona 10,3,Lunes,Lluvia,0,Moderado
+Periférico,4,Domingo,Soleado,0,Bajo
+Zona 10,21,Martes,Soleado,0,Bajo
+Zona 1,22,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,8,Lunes,Nublado,0,Alto
+Zona 4,7,Sábado,Nublado,0,Moderado
+Periférico,10,Miércoles,Soleado,0,Moderado
+Zona 12,15,Lunes,Nublado,1,Alto
+Periférico,17,Jueves,Soleado,0,Moderado
+Zona 12,13,Viernes,Soleado,0,Moderado
+Zona 10,10,Jueves,Nublado,1,Alto
+Periférico,15,Martes,Nublado,0,Alto
+Calzada Roosevelt,9,Martes,Soleado,0,Moderado
+Zona 4,9,Martes,Soleado,0,Moderado
+Zona 4,5,Domingo,Soleado,0,Bajo
+Zona 10,11,Martes,Nublado,0,Moderado
+Zona 10,23,Sábado,Soleado,1,Bajo
+Zona 12,9,Miércoles,Soleado,1,Alto
+Calzada Roosevelt,4,Viernes,Soleado,0,Bajo
+Zona 12,9,Domingo,Nublado,0,Moderado
+Zona 4,18,Lunes,Soleado,0,Moderado
+Zona 12,14,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,7,Sábado,Nublado,0,Alto
+Zona 12,9,Domingo,Soleado,0,Bajo
+Zona 12,19,Viernes,Soleado,0,Moderado
+Zona 1,5,Miércoles,Soleado,0,Bajo
+Periférico,0,Viernes,Soleado,0,Moderado
+Zona 10,16,Viernes,Soleado,0,Alto
+Zona 10,9,Domingo,Nublado,1,Alto
+Zona 10,12,Martes,Soleado,0,Moderado
+Periférico,8,Lunes,Soleado,0,Moderado
+Zona 4,18,Sábado,Nublado,0,Moderado
+Zona 10,18,Viernes,Soleado,0,Moderado
+Periférico,3,Jueves,Soleado,0,Bajo
+Zona 4,10,Lunes,Nublado,0,Moderado
+Zona 4,7,Viernes,Soleado,0,Moderado
+Zona 4,12,Lunes,Nublado,0,Moderado
+Zona 1,8,Jueves,Lluvia,1,Alto
+Periférico,11,Lunes,Nublado,0,Moderado
+Zona 4,14,Lunes,Nublado,0,Bajo
+Periférico,4,Miércoles,Nublado,1,Alto
+Zona 1,20,Lunes,Soleado,0,Moderado
+Zona 10,6,Martes,Soleado,1,Alto
+Zona 4,7,Viernes,Soleado,0,Moderado
+Zona 1,8,Viernes,Soleado,0,Alto
+Zona 12,9,Domingo,Nublado,0,Moderado
+Periférico,8,Domingo,Nublado,0,Moderado
+Zona 1,23,Sábado,Soleado,1,Moderado
+Zona 10,2,Martes,Nublado,1,Moderado
+Periférico,6,Jueves,Nublado,0,Alto
+Periférico,3,Martes,Lluvia,1,Alto
+Zona 1,0,Viernes,Nublado,1,Moderado
+Zona 12,14,Lunes,Lluvia,0,Moderado
+Zona 12,21,Viernes,Soleado,0,Bajo
+Zona 12,21,Domingo,Nublado,0,Bajo
+Zona 1,18,Miércoles,Soleado,0,Alto
+Zona 1,15,Domingo,Soleado,0,Bajo
+Zona 10,7,Viernes,Soleado,0,Moderado
+Zona 10,12,Domingo,Nublado,0,Bajo
+Zona 10,10,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,22,Viernes,Nublado,0,Moderado
+Zona 1,1,Miércoles,Soleado,0,Bajo
+Zona 4,14,Viernes,Nublado,0,Bajo
+Zona 12,9,Lunes,Lluvia,0,Alto
+Zona 10,17,Viernes,Soleado,0,Moderado
+Zona 10,22,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,22,Domingo,Lluvia,0,Bajo
+Periférico,20,Viernes,Soleado,0,Moderado
+Zona 10,3,Martes,Lluvia,1,Moderado
+Zona 4,22,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,21,Lunes,Soleado,0,Bajo
+Zona 12,11,Viernes,Nublado,1,Alto
+Calzada Roosevelt,23,Sábado,Soleado,0,Bajo
+Periférico,17,Lunes,Soleado,0,Moderado
+Zona 4,0,Martes,Nublado,0,Bajo
+Zona 1,11,Sábado,Lluvia,0,Alto
+Zona 4,17,Domingo,Nublado,0,Bajo
+Periférico,11,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,0,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,19,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,0,Miércoles,Soleado,0,Bajo
+Zona 4,11,Sábado,Soleado,0,Bajo
+Zona 12,11,Miércoles,Nublado,0,Moderado
+Periférico,14,Martes,Soleado,0,Moderado
+Calzada Roosevelt,20,Jueves,Soleado,0,Bajo
+Zona 12,22,Martes,Soleado,0,Bajo
+Calzada Roosevelt,19,Jueves,Soleado,0,Alto
+Calzada Roosevelt,17,Sábado,Soleado,1,Alto
+Calzada Roosevelt,17,Miércoles,Soleado,0,Alto
+Zona 1,6,Miércoles,Nublado,0,Alto
+Periférico,16,Jueves,Nublado,0,Alto
+Periférico,2,Lunes,Nublado,0,Bajo
+Zona 1,4,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,9,Martes,Nublado,1,Alto
+Calzada Roosevelt,19,Domingo,Soleado,0,Moderado
+Calzada Roosevelt,23,Jueves,Lluvia,0,Moderado
+Zona 12,11,Miércoles,Soleado,0,Moderado
+Zona 12,4,Domingo,Soleado,1,Bajo
+Zona 12,2,Miércoles,Soleado,0,Bajo
+Zona 12,11,Sábado,Lluvia,0,Moderado
+Zona 10,15,Domingo,Nublado,0,Moderado
+Periférico,17,Sábado,Nublado,0,Alto
+Zona 1,21,Miércoles,Soleado,0,Bajo
+Zona 12,18,Sábado,Soleado,0,Moderado
+Zona 4,15,Miércoles,Lluvia,0,Moderado
+Calzada Roosevelt,7,Domingo,Lluvia,0,Moderado
+Zona 1,9,Viernes,Nublado,0,Alto
+Zona 4,6,Martes,Soleado,0,Moderado
+Periférico,20,Viernes,Lluvia,0,Moderado
+Zona 4,0,Jueves,Soleado,0,Bajo
+Zona 12,17,Domingo,Soleado,0,Moderado
+Periférico,7,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,10,Jueves,Soleado,0,Moderado
+Periférico,11,Sábado,Lluvia,1,Alto
+Zona 12,4,Lunes,Soleado,0,Bajo
+Zona 10,9,Sábado,Nublado,0,Alto
+Zona 12,21,Viernes,Soleado,0,Bajo
+Zona 12,19,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,17,Lunes,Soleado,0,Alto
+Zona 1,9,Viernes,Lluvia,0,Alto
+Zona 1,10,Sábado,Soleado,0,Bajo
+Zona 10,9,Miércoles,Soleado,0,Moderado
+Zona 10,7,Sábado,Lluvia,0,Alto
+Zona 1,13,Martes,Nublado,0,Moderado
+Zona 10,13,Viernes,Lluvia,0,Alto
+Periférico,15,Domingo,Soleado,0,Bajo
+Zona 1,1,Miércoles,Soleado,0,Moderado
+Periférico,16,Viernes,Soleado,0,Moderado
+Zona 10,8,Jueves,Nublado,0,Alto
+Calzada Roosevelt,18,Viernes,Nublado,0,Alto
+Periférico,21,Miércoles,Soleado,0,Bajo
+Zona 1,6,Viernes,Soleado,0,Alto
+Zona 1,16,Lunes,Nublado,0,Alto
+Zona 12,15,Viernes,Nublado,0,Moderado
+Zona 12,20,Viernes,Soleado,0,Bajo
+Periférico,21,Lunes,Soleado,0,Moderado
+Zona 12,1,Lunes,Soleado,0,Bajo
+Zona 12,3,Sábado,Nublado,0,Bajo
+Periférico,14,Miércoles,Nublado,0,Moderado
+Periférico,9,Lunes,Soleado,1,Alto
+Calzada Roosevelt,15,Lunes,Soleado,0,Moderado
+Zona 10,20,Martes,Nublado,0,Bajo
+Zona 12,10,Lunes,Soleado,0,Moderado
+Zona 4,17,Martes,Nublado,0,Moderado
+Zona 10,1,Martes,Nublado,0,Moderado
+Zona 1,17,Sábado,Nublado,0,Alto
+Periférico,1,Martes,Nublado,0,Moderado
+Zona 1,3,Miércoles,Lluvia,0,Moderado
+Calzada Roosevelt,10,Miércoles,Nublado,0,Moderado
+Zona 4,17,Jueves,Nublado,0,Alto
+Periférico,21,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,13,Lunes,Soleado,0,Moderado
+Zona 1,21,Miércoles,Soleado,1,Moderado
+Zona 4,15,Sábado,Nublado,0,Bajo
+Zona 12,2,Lunes,Lluvia,0,Moderado
+Zona 10,0,Miércoles,Soleado,0,Bajo
+Zona 4,4,Sábado,Soleado,0,Bajo
+Zona 12,21,Lunes,Nublado,0,Bajo
+Calzada Roosevelt,21,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,9,Domingo,Nublado,0,Alto
+Zona 10,12,Miércoles,Soleado,0,Bajo
+Zona 10,17,Martes,Soleado,0,Moderado
+Calzada Roosevelt,5,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,22,Viernes,Lluvia,0,Moderado
+Zona 1,14,Sábado,Lluvia,0,Moderado
+Periférico,6,Lunes,Soleado,0,Alto
+Zona 4,0,Viernes,Nublado,0,Bajo
+Zona 10,8,Martes,Lluvia,1,Alto
+Periférico,18,Martes,Soleado,1,Alto
+Zona 10,2,Domingo,Nublado,0,Bajo
+Zona 12,13,Sábado,Nublado,0,Moderado
+Zona 10,16,Jueves,Soleado,0,Moderado
+Zona 4,6,Martes,Soleado,0,Moderado
+Zona 1,21,Martes,Nublado,0,Moderado
+Zona 12,8,Viernes,Nublado,0,Alto
+Zona 10,7,Martes,Lluvia,0,Alto
+Periférico,4,Jueves,Nublado,0,Bajo
+Periférico,15,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,11,Jueves,Nublado,1,Alto
+Zona 12,15,Martes,Soleado,0,Moderado
+Zona 12,10,Domingo,Lluvia,0,Moderado
+Zona 12,4,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,11,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,15,Sábado,Nublado,0,Moderado
+Zona 1,2,Lunes,Soleado,0,Bajo
+Zona 1,1,Lunes,Lluvia,0,Moderado
+Zona 1,9,Sábado,Soleado,0,Moderado
+Zona 4,17,Domingo,Nublado,0,Moderado
+Calzada Roosevelt,18,Domingo,Nublado,1,Alto
+Zona 10,1,Miércoles,Lluvia,0,Bajo
+Zona 4,14,Lunes,Soleado,0,Moderado
+Zona 10,19,Viernes,Nublado,0,Moderado
+Zona 12,1,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,14,Jueves,Lluvia,0,Moderado
+Zona 12,19,Miércoles,Nublado,0,Alto
+Periférico,20,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,17,Martes,Nublado,1,Alto
+Zona 10,20,Domingo,Nublado,0,Bajo
+Zona 10,10,Sábado,Soleado,0,Moderado
+Periférico,2,Miércoles,Soleado,0,Bajo
+Zona 4,17,Jueves,Nublado,1,Alto
+Zona 12,23,Miércoles,Soleado,0,Bajo
+Zona 12,21,Domingo,Soleado,0,Bajo
+Periférico,10,Martes,Lluvia,0,Alto
+Periférico,3,Sábado,Soleado,0,Bajo
+Zona 1,18,Domingo,Lluvia,1,Alto
+Calzada Roosevelt,20,Domingo,Lluvia,0,Bajo
+Zona 4,7,Jueves,Lluvia,0,Alto
+Periférico,13,Domingo,Lluvia,0,Moderado
+Zona 10,12,Martes,Nublado,0,Moderado
+Zona 12,18,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,8,Viernes,Soleado,0,Alto
+Periférico,15,Martes,Soleado,0,Moderado
+Zona 1,15,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,1,Domingo,Lluvia,0,Moderado
+Zona 12,17,Domingo,Soleado,0,Moderado
+Zona 12,17,Domingo,Nublado,0,Moderado
+Zona 1,22,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,1,Lunes,Soleado,0,Bajo
+Zona 10,0,Domingo,Soleado,0,Bajo
+Periférico,3,Jueves,Nublado,0,Moderado
+Periférico,16,Viernes,Soleado,0,Alto
+Zona 1,7,Martes,Lluvia,0,Alto
+Zona 4,7,Martes,Nublado,0,Alto
+Calzada Roosevelt,14,Lunes,Nublado,0,Moderado
+Zona 10,8,Martes,Soleado,0,Alto
+Calzada Roosevelt,21,Jueves,Nublado,0,Bajo
+Periférico,13,Lunes,Soleado,0,Moderado
+Periférico,8,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,9,Domingo,Soleado,0,Moderado
+Periférico,11,Martes,Nublado,0,Alto
+Zona 1,13,Sábado,Lluvia,0,Alto
+Zona 1,2,Viernes,Nublado,0,Bajo
+Zona 10,19,Viernes,Lluvia,0,Alto
+Zona 4,9,Viernes,Nublado,0,Moderado
+Zona 12,13,Lunes,Soleado,1,Alto
+Calzada Roosevelt,15,Miércoles,Lluvia,0,Alto
+Zona 1,22,Martes,Nublado,0,Bajo
+Zona 4,16,Lunes,Nublado,0,Alto
+Zona 12,6,Jueves,Soleado,0,Moderado
+Periférico,19,Martes,Nublado,0,Alto
+Zona 1,18,Jueves,Soleado,0,Alto
+Zona 10,2,Viernes,Soleado,1,Moderado
+Zona 4,18,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,23,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,0,Jueves,Nublado,0,Bajo
+Calzada Roosevelt,4,Sábado,Nublado,1,Moderado
+Zona 12,15,Miércoles,Nublado,0,Moderado
+Periférico,5,Sábado,Soleado,0,Bajo
+Zona 10,1,Domingo,Soleado,0,Bajo
+Zona 12,14,Sábado,Soleado,0,Bajo
+Zona 10,17,Sábado,Nublado,0,Alto
+Zona 4,5,Miércoles,Nublado,0,Bajo
+Zona 4,0,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,1,Miércoles,Nublado,0,Bajo
+Periférico,1,Miércoles,Nublado,0,Moderado
+Periférico,2,Miércoles,Soleado,1,Moderado
+Zona 10,18,Viernes,Soleado,0,Moderado
+Zona 4,15,Sábado,Soleado,0,Bajo
+Zona 4,17,Viernes,Nublado,0,Alto
+Periférico,6,Lunes,Soleado,0,Alto
+Zona 1,12,Sábado,Soleado,0,Moderado
+Zona 10,22,Miércoles,Soleado,0,Bajo
+Zona 4,2,Jueves,Soleado,0,Bajo
+Periférico,1,Sábado,Nublado,0,Bajo
+Zona 10,14,Martes,Soleado,0,Bajo
+Zona 10,16,Domingo,Soleado,0,Bajo
+Periférico,22,Jueves,Nublado,1,Moderado
+Periférico,12,Sábado,Soleado,0,Moderado
+Zona 10,1,Sábado,Soleado,0,Bajo
+Zona 1,1,Domingo,Soleado,0,Bajo
+Periférico,1,Miércoles,Soleado,0,Bajo
+Zona 10,17,Domingo,Nublado,0,Moderado
+Zona 10,17,Domingo,Nublado,0,Moderado
+Zona 1,21,Jueves,Lluvia,0,Moderado
+Zona 12,14,Lunes,Soleado,0,Moderado
+Zona 10,14,Domingo,Soleado,0,Bajo
+Periférico,23,Lunes,Soleado,0,Bajo
+Zona 12,21,Sábado,Nublado,0,Bajo
+Zona 4,13,Martes,Soleado,0,Bajo
+Zona 12,4,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,16,Martes,Soleado,0,Alto
+Zona 12,9,Viernes,Soleado,0,Moderado
+Zona 10,5,Lunes,Soleado,0,Bajo
+Zona 12,11,Domingo,Soleado,0,Bajo
+Zona 1,17,Jueves,Soleado,0,Moderado
+Zona 4,10,Viernes,Soleado,0,Moderado
+Periférico,0,Lunes,Nublado,0,Moderado
+Zona 12,19,Domingo,Soleado,1,Alto
+Periférico,4,Lunes,Soleado,0,Bajo
+Zona 1,20,Miércoles,Nublado,0,Moderado
+Zona 12,4,Sábado,Soleado,0,Bajo
+Zona 1,21,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,19,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,15,Miércoles,Nublado,0,Moderado
+Zona 1,20,Martes,Soleado,0,Bajo
+Zona 4,16,Jueves,Nublado,0,Moderado
+Zona 1,3,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,21,Viernes,Lluvia,0,Moderado
+Periférico,23,Sábado,Nublado,0,Bajo
+Zona 1,2,Jueves,Nublado,0,Bajo
+Zona 10,11,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,15,Sábado,Soleado,0,Moderado
+Zona 12,22,Martes,Soleado,0,Bajo
+Zona 1,2,Lunes,Soleado,0,Bajo
+Zona 10,9,Miércoles,Soleado,0,Moderado
+Zona 10,15,Viernes,Soleado,0,Moderado
+Zona 12,3,Martes,Soleado,0,Bajo
+Zona 1,13,Domingo,Soleado,0,Bajo
+Zona 12,4,Martes,Nublado,0,Bajo
+Zona 4,13,Miércoles,Soleado,0,Moderado
+Periférico,18,Lunes,Nublado,0,Alto
+Zona 4,15,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,19,Lunes,Soleado,0,Alto
+Zona 1,20,Lunes,Soleado,0,Bajo
+Zona 4,18,Lunes,Soleado,0,Moderado
+Zona 10,20,Sábado,Soleado,1,Bajo
+Calzada Roosevelt,23,Martes,Soleado,0,Moderado
+Zona 1,2,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,21,Domingo,Nublado,0,Bajo
+Zona 4,17,Lunes,Lluvia,0,Alto
+Zona 1,8,Lunes,Lluvia,1,Alto
+Zona 12,3,Miércoles,Soleado,0,Bajo
+Zona 4,22,Miércoles,Soleado,0,Bajo
+Zona 4,13,Lunes,Nublado,0,Moderado
+Zona 12,11,Lunes,Soleado,1,Moderado
+Calzada Roosevelt,4,Jueves,Nublado,1,Moderado
+Zona 10,12,Miércoles,Lluvia,0,Moderado
+Zona 4,17,Sábado,Soleado,0,Moderado
+Zona 1,10,Martes,Lluvia,1,Alto
+Zona 12,8,Miércoles,Soleado,0,Moderado
+Zona 12,7,Domingo,Nublado,1,Alto
+Zona 1,4,Jueves,Nublado,0,Moderado
+Calzada Roosevelt,5,Martes,Nublado,0,Bajo
+Zona 1,4,Viernes,Soleado,0,Bajo
+Zona 4,12,Martes,Soleado,0,Bajo
+Zona 4,7,Sábado,Lluvia,0,Moderado
+Zona 4,4,Sábado,Soleado,0,Bajo
+Zona 12,8,Miércoles,Nublado,0,Alto
+Zona 12,8,Lunes,Nublado,0,Alto
+Zona 12,17,Sábado,Soleado,0,Moderado
+Periférico,14,Martes,Soleado,0,Moderado
+Periférico,4,Viernes,Lluvia,0,Moderado
+Zona 10,21,Viernes,Soleado,0,Bajo
+Zona 1,4,Domingo,Nublado,0,Bajo
+Periférico,3,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,17,Martes,Soleado,0,Moderado
+Zona 1,22,Domingo,Soleado,0,Bajo
+Zona 1,7,Miércoles,Nublado,0,Alto
+Zona 10,12,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,9,Sábado,Lluvia,1,Alto
+Zona 10,15,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,15,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,20,Domingo,Soleado,0,Bajo
+Zona 4,9,Jueves,Lluvia,0,Moderado
+Zona 10,15,Sábado,Soleado,1,Moderado
+Zona 10,15,Sábado,Lluvia,0,Moderado
+Periférico,17,Lunes,Soleado,0,Alto
+Periférico,5,Jueves,Soleado,1,Moderado
+Zona 10,7,Sábado,Lluvia,1,Alto
+Zona 1,20,Jueves,Lluvia,0,Moderado
+Zona 12,9,Viernes,Nublado,0,Moderado
+Periférico,2,Martes,Nublado,0,Moderado
+Zona 1,10,Viernes,Nublado,0,Moderado
+Zona 12,19,Jueves,Lluvia,0,Alto
+Zona 4,15,Lunes,Soleado,0,Bajo
+Zona 12,21,Martes,Lluvia,1,Moderado
+Calzada Roosevelt,23,Domingo,Soleado,0,Bajo
+Periférico,6,Viernes,Soleado,1,Alto
+Periférico,20,Lunes,Soleado,0,Moderado
+Zona 1,2,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,10,Martes,Soleado,0,Moderado
+Zona 4,6,Viernes,Nublado,1,Alto
+Zona 1,10,Viernes,Soleado,0,Moderado
+Zona 10,14,Lunes,Nublado,0,Moderado
+Periférico,3,Jueves,Soleado,0,Bajo
+Periférico,13,Miércoles,Soleado,0,Moderado
+Periférico,16,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,13,Sábado,Soleado,0,Moderado
+Zona 1,21,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,12,Miércoles,Soleado,0,Moderado
+Periférico,3,Sábado,Soleado,1,Bajo
+Calzada Roosevelt,4,Lunes,Soleado,0,Bajo
+Zona 1,22,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,0,Lunes,Soleado,0,Bajo
+Zona 12,21,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,15,Sábado,Lluvia,0,Moderado
+Periférico,18,Lunes,Soleado,0,Alto
+Zona 4,10,Martes,Lluvia,1,Alto
+Periférico,1,Martes,Nublado,0,Moderado
+Zona 4,12,Lunes,Nublado,0,Moderado
+Zona 1,23,Sábado,Soleado,0,Bajo
+Zona 1,0,Jueves,Nublado,0,Bajo
+Zona 1,2,Viernes,Nublado,0,Moderado
+Zona 10,16,Lunes,Soleado,1,Alto
+Zona 4,11,Viernes,Soleado,0,Bajo
+Zona 4,13,Miércoles,Soleado,0,Bajo
+Zona 1,14,Viernes,Soleado,0,Moderado
+Zona 4,21,Martes,Lluvia,0,Moderado
+Zona 12,3,Lunes,Soleado,0,Bajo
+Zona 12,21,Domingo,Soleado,0,Bajo
+Periférico,13,Lunes,Soleado,0,Moderado
+Zona 4,18,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,20,Miércoles,Soleado,0,Moderado
+Zona 1,1,Lunes,Soleado,0,Moderado
+Zona 10,9,Viernes,Soleado,0,Moderado
+Periférico,23,Sábado,Soleado,0,Bajo
+Zona 4,15,Jueves,Soleado,0,Bajo
+Periférico,8,Jueves,Nublado,0,Alto
+Zona 4,0,Domingo,Nublado,0,Bajo
+Zona 4,19,Domingo,Soleado,0,Bajo
+Periférico,23,Miércoles,Soleado,0,Bajo
+Periférico,21,Martes,Nublado,0,Bajo
+Periférico,6,Viernes,Nublado,1,Alto
+Zona 12,11,Lunes,Soleado,0,Moderado
+Zona 1,2,Lunes,Nublado,0,Bajo
+Zona 1,22,Martes,Soleado,0,Bajo
+Zona 4,9,Martes,Soleado,0,Moderado
+Zona 10,0,Lunes,Nublado,0,Bajo
+Calzada Roosevelt,2,Lunes,Soleado,0,Bajo
+Zona 12,6,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,0,Martes,Lluvia,0,Moderado
+Zona 12,15,Jueves,Lluvia,0,Alto
+Zona 12,20,Martes,Soleado,0,Bajo
+Zona 12,11,Lunes,Soleado,0,Moderado
+Zona 1,8,Martes,Lluvia,0,Alto
+Zona 10,18,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,15,Domingo,Soleado,0,Moderado
+Zona 1,7,Martes,Soleado,0,Alto
+Calzada Roosevelt,19,Domingo,Soleado,0,Moderado
+Calzada Roosevelt,11,Lunes,Soleado,0,Moderado
+Zona 10,10,Martes,Nublado,0,Moderado
+Zona 1,7,Viernes,Nublado,0,Alto
+Calzada Roosevelt,18,Lunes,Lluvia,0,Alto
+Calzada Roosevelt,4,Sábado,Soleado,0,Bajo
+Zona 10,13,Sábado,Nublado,0,Moderado
+Zona 1,4,Martes,Lluvia,0,Moderado
+Zona 12,23,Martes,Soleado,0,Bajo
+Zona 10,22,Miércoles,Lluvia,0,Moderado
+Periférico,10,Miércoles,Nublado,0,Moderado
+Zona 4,10,Jueves,Soleado,0,Moderado
+Zona 12,23,Viernes,Nublado,0,Bajo
+Periférico,11,Miércoles,Soleado,0,Moderado
+Periférico,3,Domingo,Lluvia,0,Moderado
+Calzada Roosevelt,20,Martes,Soleado,0,Moderado
+Zona 12,7,Viernes,Lluvia,0,Alto
+Zona 4,4,Miércoles,Soleado,0,Bajo
+Periférico,23,Jueves,Nublado,0,Moderado
+Zona 10,3,Lunes,Lluvia,0,Moderado
+Periférico,8,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,1,Miércoles,Soleado,0,Bajo
+Zona 12,8,Sábado,Soleado,0,Moderado
+Zona 1,19,Miércoles,Soleado,0,Moderado
+Zona 12,12,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,4,Lunes,Soleado,0,Moderado
+Zona 4,14,Jueves,Soleado,0,Bajo
+Zona 4,7,Lunes,Soleado,0,Moderado
+Zona 10,1,Miércoles,Lluvia,1,Moderado
+Zona 12,5,Domingo,Lluvia,0,Bajo
+Periférico,23,Sábado,Nublado,0,Moderado
+Periférico,22,Jueves,Soleado,0,Bajo
+Zona 12,4,Martes,Nublado,0,Moderado
+Periférico,0,Domingo,Soleado,0,Bajo
+Zona 12,7,Sábado,Lluvia,0,Alto
+Zona 12,4,Viernes,Soleado,0,Bajo
+Zona 12,1,Sábado,Nublado,0,Bajo
+Calzada Roosevelt,22,Sábado,Soleado,0,Bajo
+Zona 1,16,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,12,Sábado,Soleado,0,Bajo
+Zona 12,12,Jueves,Soleado,0,Bajo
+Zona 1,14,Jueves,Nublado,0,Moderado
+Zona 4,3,Lunes,Soleado,0,Bajo
+Zona 1,17,Jueves,Soleado,0,Moderado
+Zona 10,15,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,0,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,22,Viernes,Soleado,1,Moderado
+Zona 12,3,Miércoles,Lluvia,0,Bajo
+Zona 1,2,Viernes,Nublado,0,Bajo
+Calzada Roosevelt,11,Lunes,Soleado,0,Moderado
+Periférico,7,Lunes,Soleado,0,Alto
+Periférico,6,Jueves,Soleado,0,Alto
+Zona 12,11,Viernes,Soleado,0,Bajo
+Zona 4,6,Lunes,Nublado,0,Moderado
+Zona 12,22,Lunes,Soleado,0,Bajo
+Zona 12,12,Martes,Soleado,0,Bajo
+Calzada Roosevelt,21,Martes,Soleado,0,Moderado
+Zona 12,10,Miércoles,Soleado,0,Moderado
+Zona 1,10,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,11,Lunes,Nublado,0,Moderado
+Zona 1,23,Lunes,Soleado,0,Bajo
+Zona 10,7,Jueves,Lluvia,0,Alto
+Calzada Roosevelt,14,Viernes,Soleado,0,Moderado
+Zona 10,10,Miércoles,Soleado,0,Moderado
+Zona 4,6,Martes,Lluvia,0,Moderado
+Periférico,1,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,21,Miércoles,Soleado,1,Moderado
+Zona 1,23,Domingo,Soleado,1,Bajo
+Zona 1,6,Miércoles,Nublado,0,Alto
+Periférico,19,Miércoles,Soleado,0,Alto
+Zona 1,1,Martes,Lluvia,0,Moderado
+Zona 4,6,Martes,Lluvia,0,Moderado
+Zona 12,20,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,13,Jueves,Soleado,0,Moderado
+Periférico,11,Martes,Soleado,0,Moderado
+Zona 12,2,Lunes,Nublado,0,Bajo
+Zona 10,22,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,23,Domingo,Soleado,1,Bajo
+Calzada Roosevelt,13,Viernes,Nublado,1,Alto
+Zona 1,7,Martes,Soleado,0,Alto
+Periférico,2,Sábado,Nublado,1,Moderado
+Periférico,12,Lunes,Soleado,0,Moderado
+Zona 1,12,Lunes,Soleado,1,Moderado
+Zona 4,13,Lunes,Soleado,0,Bajo
+Zona 4,14,Jueves,Soleado,0,Bajo
+Zona 4,0,Domingo,Soleado,0,Bajo
+Periférico,21,Miércoles,Soleado,0,Bajo
+Periférico,3,Viernes,Soleado,0,Bajo
+Zona 4,0,Viernes,Soleado,0,Bajo
+Zona 10,15,Lunes,Soleado,0,Moderado
+Periférico,7,Sábado,Nublado,0,Moderado
+Zona 12,18,Jueves,Nublado,0,Alto
+Zona 12,15,Domingo,Soleado,1,Bajo
+Zona 12,16,Lunes,Soleado,0,Moderado
+Periférico,16,Martes,Soleado,0,Alto
+Zona 10,20,Martes,Soleado,0,Bajo
+Zona 4,1,Miércoles,Soleado,0,Bajo
+Zona 1,0,Jueves,Nublado,0,Moderado
+Zona 1,1,Jueves,Lluvia,0,Moderado
+Zona 10,22,Viernes,Soleado,0,Bajo
+Periférico,5,Jueves,Nublado,0,Moderado
+Calzada Roosevelt,2,Domingo,Nublado,1,Moderado
+Zona 4,19,Jueves,Soleado,1,Alto
+Calzada Roosevelt,15,Miércoles,Lluvia,1,Alto
+Zona 1,1,Lunes,Nublado,1,Moderado
+Periférico,8,Jueves,Lluvia,0,Alto
+Zona 10,19,Lunes,Soleado,0,Moderado
+Zona 10,20,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,12,Viernes,Nublado,0,Moderado
+Calzada Roosevelt,17,Viernes,Soleado,0,Alto
+Calzada Roosevelt,17,Sábado,Nublado,1,Alto
+Zona 10,3,Viernes,Soleado,0,Bajo
+Zona 1,19,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,16,Domingo,Lluvia,1,Alto
+Zona 4,21,Viernes,Soleado,0,Bajo
+Periférico,0,Lunes,Soleado,0,Bajo
+Zona 1,11,Miércoles,Nublado,0,Moderado
+Zona 10,13,Domingo,Soleado,0,Bajo
+Zona 10,20,Jueves,Soleado,0,Bajo
+Zona 10,7,Sábado,Soleado,1,Moderado
+Zona 4,23,Jueves,Nublado,0,Bajo
+Periférico,5,Sábado,Lluvia,0,Moderado
+Zona 10,9,Miércoles,Soleado,0,Moderado
+Zona 1,18,Jueves,Soleado,1,Alto
+Zona 12,12,Miércoles,Soleado,0,Bajo
+Zona 10,6,Viernes,Soleado,0,Moderado
+Zona 10,16,Viernes,Nublado,0,Alto
+Periférico,20,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,8,Martes,Soleado,0,Alto
+Zona 12,20,Jueves,Nublado,0,Moderado
+Zona 12,10,Viernes,Soleado,0,Bajo
+Zona 10,11,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,22,Martes,Soleado,0,Moderado
+Calzada Roosevelt,23,Lunes,Soleado,0,Bajo
+Zona 12,10,Miércoles,Nublado,0,Moderado
+Zona 4,20,Viernes,Soleado,1,Bajo
+Periférico,1,Domingo,Nublado,0,Bajo
+Zona 1,11,Miércoles,Nublado,0,Alto
+Periférico,14,Martes,Lluvia,0,Alto
+Periférico,13,Martes,Soleado,0,Moderado
+Calzada Roosevelt,13,Domingo,Nublado,0,Bajo
+Periférico,7,Miércoles,Soleado,0,Alto
+Calzada Roosevelt,7,Miércoles,Soleado,0,Alto
+Periférico,12,Viernes,Nublado,0,Moderado
+Periférico,18,Jueves,Soleado,0,Alto
+Zona 10,19,Martes,Soleado,0,Moderado
+Zona 4,16,Sábado,Lluvia,1,Alto
+Zona 1,1,Jueves,Nublado,0,Moderado
+Periférico,18,Viernes,Nublado,0,Alto
+Calzada Roosevelt,12,Viernes,Soleado,1,Alto
+Periférico,2,Miércoles,Lluvia,0,Moderado
+Zona 1,22,Domingo,Lluvia,0,Moderado
+Zona 12,14,Viernes,Lluvia,0,Alto
+Calzada Roosevelt,3,Jueves,Nublado,0,Bajo
+Zona 1,13,Sábado,Soleado,0,Moderado
+Zona 10,10,Domingo,Soleado,0,Bajo
+Periférico,2,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,16,Miércoles,Soleado,0,Alto
+Zona 4,20,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,13,Miércoles,Soleado,0,Moderado
+Zona 1,18,Viernes,Soleado,0,Alto
+Periférico,3,Miércoles,Nublado,1,Moderado
+Zona 12,21,Sábado,Lluvia,0,Bajo
+Zona 12,19,Jueves,Nublado,0,Moderado
+Zona 10,2,Sábado,Soleado,0,Bajo
+Zona 4,23,Jueves,Nublado,0,Bajo
+Zona 1,5,Jueves,Soleado,0,Moderado
+Zona 1,21,Viernes,Soleado,0,Bajo
+Zona 10,16,Sábado,Nublado,0,Moderado
+Zona 1,16,Miércoles,Soleado,0,Moderado
+Zona 12,10,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,19,Domingo,Nublado,0,Moderado
+Zona 1,10,Domingo,Soleado,0,Moderado
+Zona 1,11,Miércoles,Soleado,0,Moderado
+Zona 1,19,Viernes,Soleado,0,Alto
+Zona 1,17,Martes,Soleado,0,Alto
+Zona 10,9,Miércoles,Soleado,0,Alto
+Zona 4,3,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,1,Jueves,Lluvia,0,Moderado
+Zona 10,21,Lunes,Soleado,0,Bajo
+Zona 12,8,Martes,Soleado,1,Alto
+Zona 12,18,Jueves,Nublado,0,Moderado
+Zona 1,16,Domingo,Soleado,0,Moderado
+Periférico,2,Viernes,Lluvia,0,Moderado
+Zona 1,12,Sábado,Soleado,0,Moderado
+Periférico,12,Domingo,Nublado,0,Moderado
+Calzada Roosevelt,18,Viernes,Nublado,1,Alto
+Zona 10,6,Lunes,Soleado,0,Alto
+Periférico,4,Miércoles,Lluvia,0,Moderado
+Zona 12,20,Jueves,Soleado,1,Bajo
+Zona 4,3,Miércoles,Soleado,0,Bajo
+Zona 4,14,Lunes,Nublado,0,Bajo
+Zona 1,2,Martes,Lluvia,0,Moderado
+Zona 10,6,Domingo,Lluvia,0,Alto
+Zona 4,7,Sábado,Soleado,0,Bajo
+Periférico,21,Martes,Soleado,0,Bajo
+Zona 1,0,Sábado,Nublado,0,Moderado
+Zona 12,6,Sábado,Soleado,0,Moderado
+Zona 4,14,Viernes,Soleado,0,Moderado
+Zona 1,14,Domingo,Nublado,0,Bajo
+Zona 4,21,Lunes,Lluvia,0,Bajo
+Zona 10,18,Miércoles,Soleado,0,Moderado
+Zona 10,18,Domingo,Lluvia,0,Moderado
+Periférico,5,Domingo,Soleado,0,Bajo
+Zona 4,22,Miércoles,Nublado,0,Bajo
+Zona 12,17,Miércoles,Nublado,0,Alto
+Zona 4,18,Jueves,Lluvia,1,Alto
+Zona 1,3,Sábado,Soleado,0,Bajo
+Zona 1,3,Domingo,Nublado,0,Bajo
+Zona 4,9,Sábado,Soleado,0,Moderado
+Zona 12,21,Martes,Lluvia,0,Moderado
+Zona 4,9,Domingo,Soleado,0,Moderado
+Calzada Roosevelt,7,Sábado,Soleado,0,Moderado
+Periférico,10,Jueves,Soleado,0,Moderado
+Zona 12,14,Domingo,Nublado,0,Moderado
+Periférico,7,Miércoles,Soleado,0,Alto
+Zona 12,22,Martes,Soleado,0,Bajo
+Calzada Roosevelt,12,Domingo,Soleado,0,Moderado
+Zona 1,7,Martes,Soleado,1,Alto
+Calzada Roosevelt,22,Sábado,Soleado,0,Bajo
+Periférico,23,Lunes,Soleado,0,Bajo
+Zona 10,2,Martes,Soleado,0,Bajo
+Calzada Roosevelt,6,Domingo,Soleado,0,Moderado
+Zona 4,3,Domingo,Soleado,1,Bajo
+Zona 10,23,Viernes,Soleado,0,Bajo
+Zona 12,0,Sábado,Lluvia,0,Moderado
+Calzada Roosevelt,3,Jueves,Soleado,0,Bajo
+Zona 4,14,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,22,Jueves,Nublado,0,Bajo
+Calzada Roosevelt,23,Martes,Nublado,1,Alto
+Calzada Roosevelt,16,Sábado,Lluvia,1,Alto
+Periférico,22,Viernes,Soleado,1,Moderado
+Periférico,17,Viernes,Lluvia,0,Alto
+Zona 10,9,Domingo,Lluvia,0,Alto
+Calzada Roosevelt,15,Sábado,Lluvia,0,Moderado
+Zona 4,5,Jueves,Soleado,0,Bajo
+Zona 10,15,Lunes,Soleado,0,Moderado
+Zona 12,16,Viernes,Nublado,0,Alto
+Zona 4,13,Martes,Soleado,1,Moderado
+Periférico,17,Sábado,Nublado,0,Moderado
+Zona 10,2,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,19,Jueves,Nublado,0,Alto
+Zona 12,15,Jueves,Lluvia,0,Moderado
+Zona 12,19,Miércoles,Soleado,1,Alto
+Periférico,5,Jueves,Soleado,1,Moderado
+Calzada Roosevelt,10,Miércoles,Soleado,0,Moderado
+Zona 4,20,Martes,Soleado,0,Bajo
+Zona 12,18,Sábado,Nublado,0,Moderado
+Zona 4,4,Lunes,Lluvia,0,Moderado
+Periférico,9,Miércoles,Soleado,0,Moderado
+Zona 4,4,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,15,Martes,Lluvia,0,Alto
+Zona 1,11,Miércoles,Nublado,0,Moderado
+Zona 1,19,Martes,Lluvia,0,Alto
+Calzada Roosevelt,15,Sábado,Nublado,0,Moderado
+Zona 10,17,Jueves,Soleado,0,Moderado
+Zona 10,12,Martes,Nublado,0,Moderado
+Zona 1,0,Sábado,Soleado,0,Bajo
+Zona 12,3,Miércoles,Nublado,1,Moderado
+Periférico,3,Martes,Nublado,0,Moderado
+Calzada Roosevelt,15,Viernes,Soleado,0,Moderado
+Zona 10,10,Martes,Soleado,0,Bajo
+Periférico,1,Viernes,Nublado,0,Moderado
+Calzada Roosevelt,22,Miércoles,Nublado,0,Moderado
+Periférico,4,Domingo,Soleado,0,Bajo
+Periférico,1,Jueves,Nublado,0,Bajo
+Zona 12,14,Sábado,Soleado,0,Bajo
+Zona 12,6,Miércoles,Soleado,1,Alto
+Periférico,7,Viernes,Soleado,0,Alto
+Zona 12,4,Lunes,Soleado,0,Bajo
+Zona 4,12,Miércoles,Soleado,0,Bajo
+Zona 1,11,Jueves,Soleado,0,Moderado
+Zona 12,15,Martes,Nublado,0,Moderado
+Calzada Roosevelt,22,Domingo,Lluvia,0,Bajo
+Periférico,15,Miércoles,Nublado,0,Moderado
+Zona 10,6,Sábado,Lluvia,1,Alto
+Zona 12,20,Viernes,Soleado,0,Bajo
+Periférico,0,Jueves,Soleado,0,Moderado
+Zona 1,12,Domingo,Soleado,0,Bajo
+Zona 12,14,Domingo,Lluvia,0,Moderado
+Zona 12,18,Jueves,Soleado,0,Moderado
+Zona 12,21,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,20,Lunes,Soleado,0,Moderado
+Zona 12,5,Miércoles,Nublado,0,Bajo
+Zona 1,14,Jueves,Nublado,1,Alto
+Periférico,14,Viernes,Lluvia,0,Alto
+Zona 10,6,Miércoles,Soleado,0,Alto
+Zona 10,9,Lunes,Nublado,0,Moderado
+Zona 4,6,Domingo,Nublado,0,Moderado
+Zona 12,17,Viernes,Lluvia,0,Alto
+Periférico,20,Lunes,Soleado,0,Bajo
+Zona 10,23,Viernes,Soleado,1,Moderado
+Zona 4,23,Sábado,Lluvia,0,Bajo
+Calzada Roosevelt,1,Domingo,Lluvia,0,Moderado
+Zona 1,12,Domingo,Soleado,0,Bajo
+Zona 12,6,Lunes,Lluvia,0,Alto
+Zona 1,15,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,14,Martes,Soleado,0,Moderado
+Calzada Roosevelt,3,Domingo,Soleado,0,Bajo
+Zona 4,14,Sábado,Lluvia,1,Moderado
+Zona 4,22,Domingo,Nublado,0,Bajo
+Zona 12,0,Lunes,Nublado,0,Moderado
+Zona 12,2,Jueves,Soleado,0,Bajo
+Zona 10,7,Jueves,Soleado,0,Moderado
+Zona 1,12,Sábado,Nublado,0,Moderado
+Periférico,3,Martes,Lluvia,0,Moderado
+Zona 4,20,Jueves,Soleado,0,Bajo
+Zona 1,7,Lunes,Nublado,0,Alto
+Zona 12,13,Domingo,Soleado,0,Bajo
+Periférico,6,Viernes,Soleado,0,Moderado
+Zona 1,2,Sábado,Soleado,0,Bajo
+Zona 4,1,Sábado,Soleado,0,Bajo
+Zona 10,13,Viernes,Soleado,0,Moderado
+Zona 10,21,Viernes,Lluvia,1,Moderado
+Zona 12,17,Miércoles,Lluvia,0,Alto
+Zona 4,18,Lunes,Nublado,0,Moderado
+Zona 10,23,Lunes,Soleado,0,Bajo
+Zona 10,9,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,22,Jueves,Nublado,0,Moderado
+Zona 12,23,Domingo,Lluvia,0,Bajo
+Zona 12,1,Lunes,Nublado,0,Moderado
+Periférico,9,Viernes,Nublado,0,Alto
+Calzada Roosevelt,12,Jueves,Soleado,0,Moderado
+Zona 4,18,Domingo,Nublado,0,Bajo
+Zona 1,16,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,22,Lunes,Lluvia,0,Moderado
+Zona 1,4,Viernes,Nublado,0,Bajo
+Zona 4,10,Domingo,Nublado,0,Bajo
+Zona 4,4,Jueves,Nublado,0,Bajo
+Zona 4,15,Lunes,Soleado,0,Bajo
+Zona 4,14,Sábado,Soleado,0,Bajo
+Zona 12,10,Miércoles,Nublado,0,Moderado
+Zona 1,17,Sábado,Soleado,0,Moderado
+Zona 1,1,Sábado,Soleado,1,Moderado
+Zona 4,6,Lunes,Nublado,0,Alto
+Zona 1,3,Viernes,Soleado,0,Moderado
+Zona 12,2,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,14,Miércoles,Lluvia,0,Alto
+Zona 12,19,Sábado,Lluvia,0,Alto
+Periférico,8,Sábado,Soleado,0,Moderado
+Zona 12,11,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,22,Domingo,Soleado,0,Bajo
+Zona 10,9,Miércoles,Soleado,0,Moderado
+Periférico,12,Jueves,Nublado,0,Alto
+Zona 12,14,Martes,Soleado,0,Moderado
+Calzada Roosevelt,15,Lunes,Soleado,0,Moderado
+Zona 10,22,Martes,Lluvia,0,Moderado
+Calzada Roosevelt,3,Lunes,Soleado,0,Bajo
+Zona 10,9,Martes,Soleado,0,Moderado
+Zona 10,5,Sábado,Soleado,0,Bajo
+Zona 12,5,Domingo,Soleado,0,Bajo
+Zona 10,13,Viernes,Soleado,0,Bajo
+Zona 1,13,Viernes,Nublado,0,Alto
+Zona 12,12,Viernes,Soleado,0,Bajo
+Zona 12,3,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,1,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,1,Martes,Soleado,0,Bajo
+Zona 12,7,Lunes,Soleado,0,Alto
+Zona 10,14,Miércoles,Soleado,0,Bajo
+Zona 12,6,Sábado,Soleado,1,Alto
+Zona 12,20,Lunes,Nublado,0,Bajo
+Zona 4,0,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,1,Domingo,Soleado,0,Bajo
+Zona 12,17,Jueves,Nublado,0,Alto
+Zona 10,6,Viernes,Soleado,0,Alto
+Zona 10,9,Viernes,Soleado,0,Moderado
+Periférico,22,Martes,Soleado,0,Bajo
+Periférico,7,Lunes,Soleado,0,Alto
+Zona 4,18,Sábado,Nublado,0,Moderado
+Periférico,7,Lunes,Soleado,0,Alto
+Zona 12,0,Sábado,Nublado,0,Bajo
+Zona 1,15,Sábado,Soleado,0,Moderado
+Zona 10,7,Miércoles,Lluvia,1,Alto
+Periférico,4,Lunes,Lluvia,0,Moderado
+Zona 12,12,Domingo,Soleado,0,Bajo
+Periférico,6,Jueves,Soleado,0,Moderado
+Periférico,15,Domingo,Nublado,0,Bajo
+Periférico,10,Jueves,Soleado,0,Moderado
+Zona 12,22,Viernes,Nublado,1,Moderado
+Zona 4,17,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,19,Martes,Soleado,0,Alto
+Zona 12,6,Miércoles,Nublado,0,Moderado
+Periférico,22,Viernes,Soleado,0,Bajo
+Zona 12,0,Viernes,Soleado,0,Bajo
+Zona 12,20,Domingo,Lluvia,0,Bajo
+Zona 4,4,Lunes,Soleado,1,Moderado
+Zona 1,1,Sábado,Nublado,1,Moderado
+Zona 1,11,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,1,Viernes,Nublado,0,Moderado
+Zona 4,22,Domingo,Soleado,0,Bajo
+Zona 4,6,Domingo,Lluvia,1,Alto
+Periférico,23,Domingo,Soleado,0,Bajo
+Zona 10,9,Miércoles,Soleado,0,Alto
+Periférico,13,Miércoles,Nublado,0,Moderado
+Zona 12,7,Miércoles,Nublado,0,Alto
+Zona 12,5,Martes,Nublado,0,Moderado
+Calzada Roosevelt,2,Miércoles,Lluvia,0,Moderado
+Zona 1,16,Miércoles,Soleado,0,Alto
+Zona 12,8,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,23,Viernes,Lluvia,0,Moderado
+Zona 10,22,Miércoles,Lluvia,0,Moderado
+Calzada Roosevelt,0,Domingo,Soleado,0,Bajo
+Zona 12,5,Jueves,Nublado,1,Moderado
+Periférico,3,Viernes,Soleado,0,Bajo
+Zona 12,10,Viernes,Soleado,0,Moderado
+Zona 10,6,Domingo,Lluvia,0,Moderado
+Calzada Roosevelt,3,Domingo,Soleado,0,Bajo
+Periférico,18,Viernes,Soleado,0,Alto
+Calzada Roosevelt,22,Miércoles,Soleado,0,Bajo
+Zona 1,10,Viernes,Nublado,1,Alto
+Zona 4,19,Miércoles,Lluvia,0,Moderado
+Calzada Roosevelt,18,Martes,Nublado,0,Alto
+Zona 12,10,Martes,Nublado,0,Moderado
+Periférico,10,Lunes,Soleado,0,Moderado
+Periférico,17,Viernes,Soleado,1,Alto
+Zona 4,17,Domingo,Soleado,0,Moderado
+Periférico,16,Martes,Nublado,0,Alto
+Zona 10,12,Domingo,Soleado,0,Bajo
+Periférico,11,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,20,Jueves,Nublado,0,Moderado
+Zona 4,6,Lunes,Nublado,1,Alto
+Calzada Roosevelt,11,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,18,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,1,Jueves,Soleado,0,Bajo
+Zona 1,10,Domingo,Lluvia,0,Moderado
+Zona 12,3,Lunes,Soleado,0,Bajo
+Zona 10,4,Domingo,Lluvia,0,Bajo
+Zona 4,5,Miércoles,Lluvia,0,Bajo
+Periférico,5,Martes,Nublado,0,Moderado
+Zona 10,2,Jueves,Soleado,0,Bajo
+Zona 12,12,Jueves,Soleado,0,Moderado
+Zona 10,10,Lunes,Soleado,0,Moderado
+Zona 1,16,Jueves,Soleado,0,Alto
+Calzada Roosevelt,12,Sábado,Soleado,0,Moderado
+Zona 12,20,Martes,Soleado,0,Bajo
+Calzada Roosevelt,11,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,16,Miércoles,Lluvia,1,Alto
+Zona 12,3,Jueves,Soleado,0,Bajo
+Zona 12,1,Viernes,Lluvia,0,Moderado
+Periférico,23,Viernes,Lluvia,0,Moderado
+Zona 10,22,Lunes,Lluvia,0,Moderado
+Zona 10,13,Jueves,Soleado,1,Moderado
+Zona 12,12,Viernes,Soleado,0,Bajo
+Zona 10,22,Lunes,Nublado,0,Bajo
+Zona 1,9,Martes,Soleado,0,Alto
+Calzada Roosevelt,23,Domingo,Lluvia,0,Moderado
+Periférico,1,Lunes,Soleado,0,Moderado
+Zona 4,13,Lunes,Nublado,0,Moderado
+Periférico,8,Martes,Soleado,0,Alto
+Periférico,23,Sábado,Nublado,0,Moderado
+Zona 1,1,Jueves,Nublado,0,Moderado
+Periférico,13,Jueves,Soleado,0,Moderado
+Periférico,13,Lunes,Nublado,0,Alto
+Zona 1,8,Miércoles,Lluvia,0,Alto
+Zona 10,16,Jueves,Nublado,0,Alto
+Zona 1,4,Jueves,Nublado,0,Moderado
+Zona 4,14,Jueves,Lluvia,0,Moderado
+Calzada Roosevelt,0,Jueves,Nublado,0,Moderado
+Periférico,21,Miércoles,Soleado,0,Bajo
+Periférico,7,Jueves,Nublado,0,Alto
+Periférico,0,Viernes,Soleado,0,Moderado
+Zona 4,13,Viernes,Soleado,0,Moderado
+Zona 12,11,Martes,Lluvia,0,Moderado
+Periférico,22,Miércoles,Soleado,0,Bajo
+Zona 1,12,Martes,Nublado,0,Moderado
+Zona 1,5,Jueves,Soleado,0,Moderado
+Zona 12,17,Domingo,Lluvia,0,Alto
+Periférico,23,Sábado,Nublado,0,Moderado
+Zona 10,6,Miércoles,Soleado,0,Moderado
+Zona 12,23,Sábado,Lluvia,0,Moderado
+Calzada Roosevelt,14,Miércoles,Nublado,1,Alto
+Calzada Roosevelt,18,Domingo,Soleado,0,Moderado
+Zona 1,21,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,19,Lunes,Nublado,0,Alto
+Zona 12,13,Martes,Lluvia,0,Moderado
+Zona 10,1,Viernes,Soleado,0,Bajo
+Zona 10,13,Miércoles,Soleado,0,Moderado
+Periférico,20,Miércoles,Soleado,0,Bajo
+Periférico,18,Viernes,Nublado,0,Alto
+Zona 4,12,Martes,Soleado,0,Bajo
+Periférico,14,Viernes,Soleado,0,Moderado
+Zona 10,6,Domingo,Lluvia,0,Alto
+Zona 10,15,Martes,Soleado,0,Bajo
+Zona 4,2,Lunes,Soleado,0,Bajo
+Calzada Roosevelt,4,Domingo,Soleado,0,Bajo
+Periférico,4,Domingo,Nublado,0,Bajo
+Zona 4,0,Miércoles,Lluvia,0,Moderado
+Periférico,11,Miércoles,Nublado,0,Moderado
+Zona 1,14,Miércoles,Lluvia,0,Alto
+Zona 10,20,Jueves,Soleado,0,Bajo
+Zona 12,22,Miércoles,Nublado,0,Bajo
+Zona 12,20,Jueves,Soleado,1,Moderado
+Periférico,6,Jueves,Soleado,0,Alto
+Periférico,18,Lunes,Lluvia,0,Alto
+Zona 1,22,Martes,Nublado,0,Moderado
+Zona 10,19,Sábado,Nublado,1,Alto
+Zona 4,9,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,6,Viernes,Soleado,0,Moderado
+Zona 1,21,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,5,Miércoles,Soleado,0,Bajo
+Zona 4,5,Lunes,Lluvia,0,Bajo
+Zona 10,13,Lunes,Soleado,0,Moderado
+Zona 12,6,Domingo,Soleado,0,Moderado
+Calzada Roosevelt,10,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,4,Martes,Nublado,0,Bajo
+Zona 10,8,Viernes,Soleado,0,Moderado
+Zona 10,23,Martes,Lluvia,0,Bajo
+Periférico,23,Domingo,Lluvia,0,Moderado
+Calzada Roosevelt,8,Jueves,Soleado,0,Moderado
+Zona 4,6,Lunes,Nublado,0,Moderado
+Zona 12,2,Miércoles,Soleado,0,Bajo
+Zona 1,10,Sábado,Nublado,0,Moderado
+Zona 4,5,Jueves,Soleado,0,Bajo
+Periférico,13,Lunes,Nublado,0,Alto
+Zona 10,1,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,2,Miércoles,Soleado,0,Bajo
+Zona 4,23,Martes,Lluvia,0,Moderado
+Zona 4,14,Lunes,Soleado,0,Bajo
+Zona 4,19,Viernes,Soleado,0,Moderado
+Zona 4,8,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,3,Sábado,Soleado,1,Bajo
+Zona 10,19,Jueves,Nublado,1,Alto
+Periférico,3,Sábado,Soleado,0,Bajo
+Zona 12,20,Martes,Soleado,0,Bajo
+Zona 12,5,Lunes,Soleado,0,Bajo
+Zona 12,15,Jueves,Soleado,0,Moderado
+Periférico,6,Jueves,Nublado,0,Alto
+Zona 10,21,Jueves,Soleado,0,Bajo
+Zona 12,15,Domingo,Soleado,0,Bajo
+Zona 12,4,Martes,Soleado,1,Moderado
+Zona 4,19,Viernes,Soleado,0,Moderado
+Zona 10,22,Sábado,Nublado,0,Bajo
+Zona 10,10,Sábado,Soleado,0,Moderado
+Calzada Roosevelt,17,Jueves,Soleado,1,Alto
+Zona 12,7,Miércoles,Soleado,0,Moderado
+Periférico,15,Martes,Soleado,1,Moderado
+Calzada Roosevelt,7,Sábado,Soleado,0,Moderado
+Zona 12,11,Viernes,Soleado,0,Bajo
+Zona 10,7,Martes,Nublado,0,Moderado
+Zona 1,13,Jueves,Soleado,1,Alto
+Zona 12,2,Domingo,Soleado,1,Bajo
+Zona 4,20,Lunes,Soleado,0,Bajo
+Periférico,7,Martes,Soleado,0,Moderado
+Zona 12,7,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,16,Jueves,Soleado,0,Alto
+Zona 12,1,Viernes,Nublado,0,Moderado
+Zona 4,10,Martes,Soleado,0,Moderado
+Zona 12,21,Jueves,Soleado,0,Bajo
+Zona 12,20,Sábado,Soleado,0,Bajo
+Periférico,10,Lunes,Lluvia,0,Moderado
+Zona 1,8,Sábado,Soleado,0,Moderado
+Zona 4,18,Lunes,Soleado,0,Moderado
+Zona 4,12,Sábado,Soleado,0,Bajo
+Periférico,12,Jueves,Nublado,0,Moderado
+Zona 4,18,Miércoles,Nublado,0,Moderado
+Zona 1,6,Domingo,Soleado,0,Moderado
+Zona 1,7,Sábado,Soleado,0,Alto
+Calzada Roosevelt,17,Jueves,Soleado,0,Alto
+Zona 10,0,Domingo,Soleado,0,Bajo
+Zona 10,23,Viernes,Soleado,0,Bajo
+Zona 4,10,Miércoles,Soleado,1,Moderado
+Periférico,0,Martes,Nublado,1,Moderado
+Calzada Roosevelt,20,Domingo,Soleado,0,Bajo
+Periférico,9,Lunes,Nublado,0,Alto
+Zona 12,23,Martes,Soleado,1,Bajo
+Zona 10,11,Lunes,Nublado,0,Moderado
+Zona 1,12,Sábado,Soleado,0,Bajo
+Zona 1,3,Martes,Nublado,0,Bajo
+Periférico,2,Martes,Soleado,0,Moderado
+Zona 10,9,Lunes,Soleado,0,Moderado
+Zona 1,6,Domingo,Lluvia,0,Alto
+Zona 1,4,Viernes,Nublado,1,Alto
+Periférico,15,Jueves,Lluvia,0,Moderado
+Zona 4,8,Martes,Soleado,0,Moderado
+Zona 10,21,Sábado,Nublado,0,Bajo
+Periférico,17,Miércoles,Nublado,0,Alto
+Zona 1,12,Jueves,Lluvia,0,Alto
+Zona 4,9,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,16,Jueves,Lluvia,1,Alto
+Calzada Roosevelt,4,Viernes,Soleado,0,Bajo
+Zona 10,12,Lunes,Soleado,0,Bajo
+Zona 12,19,Viernes,Soleado,0,Moderado
+Periférico,8,Martes,Nublado,0,Alto
+Periférico,18,Sábado,Nublado,0,Moderado
+Zona 1,19,Martes,Nublado,0,Alto
+Calzada Roosevelt,14,Martes,Soleado,0,Moderado
+Zona 1,15,Martes,Soleado,0,Moderado
+Calzada Roosevelt,6,Domingo,Nublado,0,Moderado
+Zona 12,15,Miércoles,Nublado,0,Moderado
+Zona 12,0,Martes,Soleado,0,Bajo
+Zona 1,7,Martes,Soleado,0,Alto
+Zona 10,4,Jueves,Nublado,0,Bajo
+Zona 1,17,Jueves,Soleado,0,Alto
+Zona 12,3,Jueves,Nublado,0,Bajo
+Periférico,12,Lunes,Nublado,0,Moderado
+Zona 10,1,Viernes,Lluvia,0,Bajo
+Calzada Roosevelt,15,Domingo,Soleado,0,Bajo
+Zona 10,12,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,7,Sábado,Soleado,0,Alto
+Zona 12,9,Sábado,Lluvia,0,Alto
+Calzada Roosevelt,2,Sábado,Lluvia,0,Moderado
+Calzada Roosevelt,10,Martes,Soleado,1,Alto
+Zona 12,3,Miércoles,Soleado,0,Bajo
+Zona 1,12,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,21,Viernes,Nublado,1,Moderado
+Periférico,22,Lunes,Soleado,0,Bajo
+Zona 1,16,Viernes,Lluvia,0,Alto
+Zona 1,0,Viernes,Soleado,0,Bajo
+Zona 1,14,Jueves,Soleado,0,Moderado
+Zona 12,9,Domingo,Soleado,0,Moderado
+Zona 1,10,Jueves,Soleado,0,Moderado
+Periférico,11,Jueves,Lluvia,0,Moderado
+Zona 1,6,Domingo,Nublado,1,Alto
+Periférico,17,Sábado,Soleado,0,Moderado
+Zona 10,10,Jueves,Nublado,0,Moderado
+Calzada Roosevelt,6,Jueves,Soleado,0,Alto
+Zona 1,3,Sábado,Lluvia,0,Moderado
+Zona 10,4,Martes,Soleado,0,Bajo
+Zona 4,5,Viernes,Soleado,0,Bajo
+Zona 4,15,Lunes,Nublado,0,Moderado
+Periférico,13,Jueves,Soleado,0,Moderado
+Zona 12,23,Viernes,Nublado,0,Moderado
+Zona 12,0,Sábado,Soleado,0,Bajo
+Zona 4,15,Viernes,Soleado,0,Bajo
+Zona 4,18,Miércoles,Soleado,0,Moderado
+Zona 10,9,Domingo,Soleado,0,Moderado
+Zona 1,1,Martes,Soleado,1,Moderado
+Zona 4,12,Jueves,Lluvia,0,Moderado
+Zona 1,3,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,17,Viernes,Lluvia,0,Alto
+Zona 1,7,Lunes,Lluvia,0,Alto
+Zona 4,13,Jueves,Soleado,0,Bajo
+Zona 10,5,Lunes,Soleado,0,Bajo
+Zona 12,20,Martes,Lluvia,0,Bajo
+Zona 10,12,Jueves,Soleado,0,Moderado
+Periférico,0,Jueves,Soleado,1,Moderado
+Zona 10,13,Sábado,Nublado,0,Moderado
+Zona 1,0,Sábado,Soleado,0,Bajo
+Zona 10,12,Sábado,Lluvia,0,Moderado
+Zona 1,13,Lunes,Nublado,0,Alto
+Zona 10,13,Miércoles,Lluvia,0,Moderado
+Zona 1,15,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,5,Jueves,Nublado,0,Moderado
+Zona 10,19,Martes,Soleado,0,Moderado
+Calzada Roosevelt,4,Sábado,Nublado,0,Bajo
+Periférico,15,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,2,Viernes,Nublado,0,Moderado
+Periférico,22,Sábado,Soleado,1,Moderado
+Calzada Roosevelt,13,Lunes,Nublado,0,Moderado
+Zona 1,23,Martes,Lluvia,0,Moderado
+Calzada Roosevelt,0,Sábado,Soleado,0,Bajo
+Zona 1,5,Sábado,Soleado,0,Bajo
+Periférico,11,Domingo,Lluvia,0,Moderado
+Zona 4,13,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,9,Sábado,Soleado,1,Alto
+Zona 12,8,Domingo,Soleado,0,Moderado
+Periférico,19,Sábado,Nublado,0,Alto
+Zona 4,0,Sábado,Nublado,0,Bajo
+Zona 4,16,Jueves,Soleado,0,Moderado
+Periférico,9,Domingo,Nublado,0,Moderado
+Calzada Roosevelt,10,Miércoles,Lluvia,0,Moderado
+Calzada Roosevelt,17,Lunes,Nublado,0,Alto
+Zona 12,5,Miércoles,Nublado,0,Bajo
+Calzada Roosevelt,5,Jueves,Nublado,0,Moderado
+Zona 12,5,Viernes,Nublado,0,Bajo
+Calzada Roosevelt,3,Viernes,Nublado,0,Moderado
+Zona 12,1,Lunes,Soleado,0,Bajo
+Zona 1,9,Miércoles,Lluvia,1,Alto
+Zona 4,23,Viernes,Lluvia,0,Bajo
+Periférico,21,Miércoles,Lluvia,0,Moderado
+Zona 4,7,Jueves,Soleado,1,Moderado
+Zona 1,12,Jueves,Soleado,0,Moderado
+Periférico,19,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,15,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,7,Lunes,Nublado,0,Alto
+Periférico,9,Viernes,Lluvia,0,Alto
+Zona 4,10,Miércoles,Soleado,0,Moderado
+Calzada Roosevelt,12,Martes,Soleado,0,Moderado
+Zona 10,16,Miércoles,Nublado,0,Alto
+Zona 12,1,Jueves,Soleado,0,Bajo
+Zona 4,18,Martes,Lluvia,0,Moderado
+Zona 4,4,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,14,Lunes,Nublado,0,Alto
+Calzada Roosevelt,21,Domingo,Soleado,0,Bajo
+Zona 4,6,Sábado,Nublado,0,Moderado
+Zona 4,21,Miércoles,Soleado,0,Bajo
+Periférico,2,Lunes,Soleado,0,Moderado
+Calzada Roosevelt,14,Miércoles,Soleado,0,Moderado
+Periférico,18,Martes,Soleado,0,Moderado
+Zona 1,1,Sábado,Nublado,0,Moderado
+Zona 10,14,Lunes,Nublado,1,Alto
+Zona 12,20,Jueves,Soleado,0,Bajo
+Zona 4,23,Lunes,Lluvia,0,Bajo
+Zona 12,22,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,1,Sábado,Soleado,0,Bajo
+Zona 4,16,Lunes,Soleado,0,Moderado
+Periférico,15,Sábado,Soleado,0,Bajo
+Zona 12,19,Lunes,Nublado,0,Moderado
+Zona 10,1,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,1,Viernes,Lluvia,0,Moderado
+Zona 1,10,Sábado,Nublado,1,Alto
+Zona 1,19,Miércoles,Nublado,0,Alto
+Calzada Roosevelt,10,Lunes,Lluvia,0,Moderado
+Zona 10,8,Miércoles,Nublado,0,Alto
+Zona 4,13,Viernes,Nublado,0,Moderado
+Zona 10,8,Domingo,Lluvia,1,Alto
+Zona 4,13,Domingo,Nublado,0,Bajo
+Zona 1,7,Lunes,Soleado,0,Moderado
+Zona 1,15,Miércoles,Soleado,0,Moderado
+Zona 4,17,Martes,Nublado,0,Moderado
+Zona 12,6,Martes,Nublado,0,Moderado
+Zona 10,16,Martes,Lluvia,1,Alto
+Zona 1,15,Martes,Lluvia,0,Alto
+Calzada Roosevelt,7,Lunes,Soleado,0,Alto
+Zona 1,1,Lunes,Soleado,1,Moderado
+Zona 12,10,Martes,Nublado,0,Moderado
+Zona 10,11,Viernes,Nublado,1,Alto
+Zona 12,1,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,0,Viernes,Soleado,0,Moderado
+Zona 10,10,Viernes,Soleado,0,Bajo
+Periférico,18,Viernes,Nublado,0,Alto
+Zona 1,14,Miércoles,Soleado,0,Moderado
+Zona 10,13,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,17,Sábado,Soleado,0,Alto
+Calzada Roosevelt,10,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,3,Lunes,Nublado,0,Moderado
+Zona 10,1,Martes,Nublado,0,Bajo
+Zona 4,8,Sábado,Soleado,0,Moderado
+Periférico,20,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,8,Domingo,Lluvia,0,Alto
+Calzada Roosevelt,5,Viernes,Nublado,0,Bajo
+Zona 4,5,Domingo,Soleado,0,Bajo
+Periférico,6,Jueves,Nublado,0,Alto
+Periférico,22,Jueves,Nublado,0,Moderado
+Calzada Roosevelt,20,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,6,Domingo,Lluvia,0,Alto
+Zona 4,19,Domingo,Soleado,0,Bajo
+Periférico,19,Sábado,Soleado,0,Moderado
+Zona 1,8,Miércoles,Soleado,0,Alto
+Zona 4,18,Viernes,Soleado,0,Moderado
+Periférico,3,Martes,Soleado,0,Moderado
+Zona 12,21,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,1,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,9,Sábado,Nublado,0,Moderado
+Calzada Roosevelt,3,Miércoles,Nublado,0,Moderado
+Zona 12,6,Sábado,Lluvia,0,Alto
+Zona 12,20,Viernes,Nublado,1,Moderado
+Calzada Roosevelt,13,Viernes,Lluvia,0,Moderado
+Periférico,5,Lunes,Soleado,0,Bajo
+Zona 12,8,Lunes,Nublado,0,Alto
+Calzada Roosevelt,16,Viernes,Nublado,0,Alto
+Zona 12,14,Viernes,Soleado,0,Moderado
+Periférico,3,Viernes,Nublado,0,Moderado
+Zona 10,6,Miércoles,Nublado,0,Alto
+Zona 1,12,Viernes,Soleado,0,Moderado
+Zona 10,1,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,1,Miércoles,Soleado,0,Moderado
+Zona 12,20,Sábado,Soleado,0,Bajo
+Zona 1,17,Lunes,Nublado,0,Alto
+Periférico,16,Viernes,Soleado,1,Alto
+Zona 10,11,Jueves,Soleado,0,Bajo
+Zona 10,23,Viernes,Nublado,0,Moderado
+Zona 12,9,Lunes,Soleado,1,Alto
+Periférico,14,Lunes,Lluvia,1,Alto
+Calzada Roosevelt,23,Lunes,Lluvia,0,Moderado
+Periférico,2,Domingo,Soleado,0,Bajo
+Zona 12,7,Miércoles,Lluvia,0,Alto
+Zona 10,23,Viernes,Nublado,0,Bajo
+Zona 4,0,Domingo,Soleado,0,Bajo
+Periférico,12,Domingo,Soleado,0,Moderado
+Zona 12,8,Lunes,Lluvia,0,Alto
+Zona 12,7,Viernes,Soleado,1,Alto
+Calzada Roosevelt,23,Martes,Nublado,0,Moderado
+Zona 4,14,Sábado,Soleado,0,Bajo
+Zona 12,15,Jueves,Soleado,1,Moderado
+Calzada Roosevelt,0,Martes,Soleado,0,Moderado
+Zona 1,10,Jueves,Soleado,0,Moderado
+Zona 12,23,Viernes,Lluvia,0,Moderado
+Zona 1,22,Lunes,Soleado,0,Bajo
+Zona 4,15,Domingo,Lluvia,0,Bajo
+Calzada Roosevelt,14,Lunes,Nublado,0,Moderado
+Zona 10,21,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,6,Sábado,Soleado,0,Moderado
+Zona 4,2,Lunes,Lluvia,0,Moderado
+Calzada Roosevelt,23,Lunes,Soleado,1,Moderado
+Zona 4,7,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,14,Sábado,Soleado,0,Bajo
+Zona 4,21,Lunes,Nublado,0,Bajo
+Periférico,23,Lunes,Soleado,0,Moderado
+Zona 4,10,Domingo,Soleado,0,Bajo
+Periférico,1,Martes,Soleado,0,Moderado
+Calzada Roosevelt,20,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,14,Jueves,Soleado,0,Moderado
+Zona 12,2,Domingo,Soleado,0,Bajo
+Zona 1,19,Jueves,Nublado,0,Alto
+Zona 1,2,Viernes,Soleado,1,Moderado
+Zona 10,5,Viernes,Soleado,0,Bajo
+Zona 4,2,Martes,Lluvia,0,Bajo
+Zona 4,14,Domingo,Soleado,1,Bajo
+Periférico,20,Martes,Soleado,0,Bajo
+Zona 10,1,Sábado,Nublado,0,Bajo
+Zona 12,13,Domingo,Soleado,0,Bajo
+Zona 10,0,Domingo,Nublado,0,Bajo
+Calzada Roosevelt,21,Miércoles,Soleado,0,Bajo
+Periférico,15,Lunes,Soleado,0,Moderado
+Zona 12,19,Lunes,Lluvia,0,Alto
+Periférico,3,Domingo,Soleado,0,Bajo
+Periférico,0,Lunes,Soleado,0,Bajo
+Zona 12,12,Domingo,Nublado,0,Bajo
+Periférico,19,Jueves,Soleado,0,Alto
+Zona 4,3,Miércoles,Nublado,0,Bajo
+Zona 4,7,Domingo,Soleado,0,Bajo
+Zona 12,3,Viernes,Soleado,0,Bajo
+Zona 10,11,Martes,Soleado,0,Bajo
+Periférico,14,Domingo,Soleado,0,Bajo
+Zona 1,19,Miércoles,Nublado,0,Alto
+Zona 1,6,Viernes,Soleado,0,Moderado
+Zona 12,21,Sábado,Nublado,1,Bajo
+Periférico,0,Miércoles,Soleado,0,Moderado
+Zona 12,5,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,21,Viernes,Lluvia,0,Moderado
+Zona 12,1,Sábado,Nublado,0,Bajo
+Zona 1,21,Lunes,Nublado,0,Moderado
+Zona 1,16,Sábado,Nublado,0,Moderado
+Zona 10,9,Lunes,Soleado,0,Alto
+Zona 12,7,Martes,Lluvia,0,Alto
+Zona 12,11,Sábado,Soleado,0,Bajo
+Zona 12,21,Viernes,Soleado,0,Bajo
+Zona 4,0,Sábado,Soleado,0,Bajo
+Zona 12,5,Miércoles,Nublado,0,Bajo
+Periférico,3,Domingo,Nublado,0,Bajo
+Zona 1,3,Miércoles,Soleado,0,Moderado
+Zona 12,20,Sábado,Nublado,0,Bajo
+Zona 1,18,Miércoles,Soleado,0,Alto
+Zona 1,15,Lunes,Soleado,0,Moderado
+Zona 1,14,Martes,Soleado,0,Moderado
+Zona 4,4,Jueves,Soleado,0,Bajo
+Zona 12,15,Jueves,Soleado,0,Bajo
+Zona 12,9,Viernes,Soleado,0,Alto
+Zona 1,16,Jueves,Soleado,0,Alto
+Periférico,1,Martes,Lluvia,0,Moderado
+Zona 12,17,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,11,Jueves,Nublado,0,Moderado
+Calzada Roosevelt,12,Jueves,Nublado,0,Moderado
+Calzada Roosevelt,15,Miércoles,Nublado,0,Moderado
+Periférico,11,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,20,Miércoles,Soleado,0,Bajo
+Calzada Roosevelt,6,Sábado,Lluvia,0,Alto
+Zona 12,23,Viernes,Soleado,0,Bajo
+Zona 12,5,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,3,Lunes,Nublado,1,Moderado
+Periférico,10,Jueves,Soleado,0,Moderado
+Zona 10,16,Jueves,Nublado,0,Alto
+Calzada Roosevelt,20,Miércoles,Soleado,0,Moderado
+Zona 1,23,Jueves,Nublado,0,Moderado
+Zona 12,22,Domingo,Soleado,0,Bajo
+Zona 4,6,Miércoles,Nublado,0,Moderado
+Zona 12,15,Miércoles,Nublado,1,Alto
+Calzada Roosevelt,12,Miércoles,Soleado,0,Moderado
+Zona 1,17,Lunes,Nublado,0,Alto
+Calzada Roosevelt,12,Domingo,Soleado,0,Moderado
+Zona 10,9,Martes,Lluvia,0,Alto
+Zona 12,10,Lunes,Lluvia,0,Alto
+Periférico,14,Viernes,Soleado,0,Moderado
+Periférico,4,Domingo,Soleado,0,Bajo
+Periférico,15,Jueves,Soleado,0,Moderado
+Periférico,7,Lunes,Soleado,0,Alto
+Periférico,16,Sábado,Nublado,0,Alto
+Periférico,13,Viernes,Lluvia,0,Alto
+Zona 4,6,Domingo,Nublado,1,Moderado
+Zona 12,16,Lunes,Soleado,0,Alto
+Calzada Roosevelt,18,Martes,Nublado,0,Alto
+Zona 1,20,Miércoles,Lluvia,0,Moderado
+Periférico,6,Domingo,Nublado,0,Moderado
+Zona 12,10,Lunes,Soleado,0,Moderado
+Zona 1,2,Domingo,Lluvia,0,Moderado
+Zona 12,2,Sábado,Soleado,0,Bajo
+Zona 12,14,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,19,Miércoles,Nublado,0,Alto
+Zona 10,3,Jueves,Nublado,0,Moderado
+Zona 1,2,Viernes,Soleado,0,Bajo
+Zona 4,17,Martes,Soleado,0,Moderado
+Zona 1,6,Lunes,Soleado,0,Alto
+Zona 10,13,Sábado,Soleado,0,Bajo
+Zona 1,8,Jueves,Soleado,0,Moderado
+Zona 10,16,Sábado,Lluvia,1,Alto
+Zona 1,12,Martes,Nublado,1,Alto
+Calzada Roosevelt,11,Jueves,Nublado,0,Alto
+Zona 4,0,Lunes,Soleado,0,Bajo
+Periférico,6,Jueves,Nublado,0,Alto
+Zona 12,13,Lunes,Soleado,0,Bajo
+Zona 12,20,Martes,Lluvia,0,Moderado
+Calzada Roosevelt,19,Miércoles,Nublado,1,Alto
+Periférico,6,Martes,Soleado,0,Alto
+Calzada Roosevelt,13,Domingo,Nublado,0,Moderado
+Zona 12,18,Martes,Soleado,0,Moderado
+Zona 10,0,Miércoles,Nublado,0,Bajo
+Calzada Roosevelt,15,Domingo,Lluvia,0,Moderado
+Zona 1,5,Domingo,Soleado,0,Bajo
+Zona 10,19,Jueves,Soleado,0,Alto
+Zona 10,22,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,12,Martes,Soleado,1,Alto
+Zona 10,17,Lunes,Soleado,0,Moderado
+Periférico,16,Martes,Nublado,0,Alto
+Calzada Roosevelt,6,Lunes,Nublado,0,Alto
+Zona 12,14,Jueves,Soleado,0,Moderado
+Periférico,13,Lunes,Soleado,0,Moderado
+Zona 10,1,Martes,Soleado,0,Bajo
+Zona 10,7,Viernes,Soleado,0,Alto
+Zona 10,6,Domingo,Soleado,0,Moderado
+Zona 4,3,Jueves,Nublado,0,Bajo
+Zona 1,0,Jueves,Lluvia,0,Moderado
+Zona 10,12,Domingo,Soleado,1,Moderado
+Zona 1,20,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,9,Viernes,Lluvia,0,Alto
+Periférico,18,Lunes,Soleado,0,Alto
+Zona 12,1,Martes,Soleado,1,Bajo
+Zona 12,14,Sábado,Soleado,0,Bajo
+Zona 1,23,Domingo,Soleado,0,Bajo
+Zona 4,8,Jueves,Soleado,0,Moderado
+Zona 4,9,Lunes,Nublado,0,Moderado
+Zona 1,14,Lunes,Nublado,0,Moderado
+Zona 4,8,Sábado,Soleado,0,Bajo
+Periférico,4,Jueves,Nublado,0,Moderado
+Periférico,3,Lunes,Lluvia,0,Moderado
+Zona 4,10,Martes,Nublado,0,Bajo
+Zona 1,14,Sábado,Nublado,0,Moderado
+Zona 12,12,Martes,Soleado,0,Moderado
+Periférico,6,Sábado,Nublado,0,Moderado
+Zona 1,19,Lunes,Soleado,0,Alto
+Zona 4,16,Martes,Nublado,0,Moderado
+Calzada Roosevelt,19,Jueves,Nublado,0,Alto
+Zona 10,0,Viernes,Nublado,0,Bajo
+Calzada Roosevelt,22,Jueves,Soleado,0,Bajo
+Periférico,4,Domingo,Lluvia,1,Moderado
+Zona 10,16,Domingo,Soleado,0,Bajo
+Zona 12,23,Martes,Lluvia,0,Moderado
+Calzada Roosevelt,11,Sábado,Nublado,0,Moderado
+Zona 1,3,Jueves,Lluvia,0,Moderado
+Zona 10,5,Miércoles,Soleado,0,Bajo
+Zona 10,13,Jueves,Nublado,0,Moderado
+Periférico,19,Jueves,Soleado,1,Alto
+Zona 4,15,Miércoles,Soleado,0,Bajo
+Zona 1,4,Sábado,Nublado,0,Bajo
+Zona 12,19,Sábado,Soleado,0,Moderado
+Zona 1,15,Lunes,Nublado,0,Moderado
+Calzada Roosevelt,0,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,21,Viernes,Soleado,0,Bajo
+Zona 1,11,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,10,Jueves,Nublado,0,Moderado
+Zona 10,14,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,23,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,13,Viernes,Soleado,0,Moderado
+Periférico,10,Martes,Soleado,0,Moderado
+Zona 1,12,Martes,Lluvia,1,Alto
+Zona 4,7,Domingo,Soleado,0,Moderado
+Zona 4,13,Martes,Nublado,0,Moderado
+Zona 1,22,Lunes,Nublado,0,Moderado
+Zona 1,6,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,17,Domingo,Soleado,0,Moderado
+Zona 12,18,Viernes,Soleado,0,Alto
+Zona 1,10,Sábado,Nublado,1,Alto
+Zona 4,17,Domingo,Nublado,0,Moderado
+Zona 1,14,Viernes,Soleado,0,Moderado
+Zona 10,18,Lunes,Lluvia,0,Alto
+Calzada Roosevelt,5,Miércoles,Soleado,0,Moderado
+Zona 10,4,Viernes,Soleado,0,Bajo
+Calzada Roosevelt,19,Jueves,Lluvia,0,Alto
+Calzada Roosevelt,17,Martes,Lluvia,0,Alto
+Periférico,18,Lunes,Soleado,0,Alto
+Zona 10,1,Jueves,Nublado,0,Bajo
+Calzada Roosevelt,8,Viernes,Nublado,0,Alto
+Zona 10,9,Sábado,Soleado,0,Moderado
+Zona 12,23,Domingo,Lluvia,0,Bajo
+Zona 12,16,Jueves,Nublado,0,Moderado
+Zona 1,0,Lunes,Lluvia,0,Moderado
+Zona 1,4,Viernes,Lluvia,0,Moderado
+Zona 12,9,Sábado,Lluvia,0,Alto
+Zona 10,10,Domingo,Nublado,1,Moderado
+Zona 10,19,Sábado,Soleado,1,Moderado
+Zona 10,13,Martes,Nublado,0,Moderado
+Calzada Roosevelt,8,Domingo,Nublado,0,Moderado
+Periférico,2,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,5,Domingo,Nublado,1,Moderado
+Zona 12,13,Sábado,Soleado,1,Moderado
+Periférico,20,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,11,Lunes,Lluvia,1,Alto
+Zona 12,17,Domingo,Soleado,0,Bajo
+Calzada Roosevelt,18,Lunes,Nublado,0,Alto
+Zona 10,23,Martes,Soleado,1,Moderado
+Zona 10,15,Sábado,Nublado,0,Moderado
+Zona 4,18,Lunes,Nublado,0,Moderado
+Zona 10,12,Sábado,Soleado,0,Bajo
+Calzada Roosevelt,19,Sábado,Nublado,0,Alto
+Zona 4,17,Viernes,Soleado,0,Moderado
+Zona 10,21,Miércoles,Nublado,0,Moderado
+Periférico,8,Domingo,Nublado,0,Moderado
+Zona 12,11,Viernes,Soleado,0,Bajo
+Periférico,5,Miércoles,Nublado,0,Bajo
+Periférico,19,Jueves,Soleado,0,Alto
+Zona 12,13,Viernes,Nublado,0,Moderado
+Calzada Roosevelt,5,Jueves,Nublado,0,Bajo
+Zona 10,23,Jueves,Soleado,0,Bajo
+Zona 12,2,Martes,Lluvia,0,Moderado
+Zona 10,15,Viernes,Nublado,0,Moderado
+Zona 1,13,Martes,Nublado,0,Moderado
+Calzada Roosevelt,14,Sábado,Soleado,0,Moderado
+Zona 1,9,Miércoles,Lluvia,0,Alto
+Calzada Roosevelt,0,Jueves,Nublado,0,Bajo
+Zona 1,12,Lunes,Soleado,0,Moderado
+Zona 4,11,Miércoles,Nublado,0,Moderado
+Zona 1,2,Lunes,Lluvia,0,Moderado
+Zona 12,3,Miércoles,Soleado,0,Bajo
+Periférico,2,Viernes,Soleado,0,Bajo
+Zona 10,9,Miércoles,Nublado,0,Alto
+Zona 4,15,Domingo,Soleado,0,Bajo
+Zona 10,6,Miércoles,Soleado,0,Alto
+Zona 1,4,Sábado,Soleado,0,Bajo
+Periférico,0,Martes,Lluvia,0,Moderado
+Zona 10,18,Martes,Soleado,0,Moderado
+Calzada Roosevelt,15,Viernes,Soleado,0,Moderado
+Zona 4,20,Jueves,Nublado,0,Bajo
+Periférico,2,Viernes,Soleado,1,Moderado
+Zona 1,13,Domingo,Nublado,0,Moderado
+Zona 10,11,Viernes,Soleado,0,Bajo
+Zona 10,20,Viernes,Soleado,0,Bajo
+Zona 4,23,Miércoles,Nublado,0,Bajo
+Calzada Roosevelt,0,Miércoles,Nublado,0,Bajo
+Periférico,22,Martes,Lluvia,0,Moderado
+Periférico,0,Lunes,Nublado,1,Alto
+Zona 10,15,Sábado,Soleado,0,Bajo
+Periférico,15,Domingo,Nublado,0,Moderado
+Zona 1,14,Martes,Soleado,0,Moderado
+Calzada Roosevelt,21,Miércoles,Soleado,0,Bajo
+Periférico,17,Sábado,Soleado,0,Alto
+Periférico,2,Domingo,Soleado,0,Bajo
+Zona 12,12,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,22,Martes,Lluvia,1,Alto
+Zona 4,16,Jueves,Soleado,0,Moderado
+Calzada Roosevelt,8,Jueves,Soleado,0,Alto
+Zona 12,4,Domingo,Nublado,1,Moderado
+Zona 4,7,Lunes,Lluvia,0,Alto
+Zona 10,12,Martes,Soleado,0,Bajo
+Periférico,10,Sábado,Soleado,0,Bajo
+Zona 12,19,Sábado,Lluvia,0,Alto
+Zona 4,21,Viernes,Soleado,0,Bajo
+Zona 10,8,Viernes,Lluvia,0,Alto
+Zona 12,5,Martes,Soleado,0,Bajo
+Zona 1,0,Sábado,Nublado,0,Bajo
+Zona 10,16,Viernes,Soleado,0,Moderado
+Zona 10,19,Martes,Soleado,0,Moderado
+Zona 10,6,Viernes,Lluvia,0,Alto
+Zona 12,14,Viernes,Soleado,0,Moderado
+Calzada Roosevelt,12,Miércoles,Nublado,0,Moderado
+Calzada Roosevelt,16,Miércoles,Lluvia,0,Alto
+Calzada Roosevelt,23,Domingo,Soleado,0,Bajo
+Zona 1,0,Domingo,Soleado,0,Bajo
+Periférico,14,Viernes,Soleado,0,Moderado
+Zona 1,20,Jueves,Nublado,0,Moderado
+Zona 1,17,Martes,Nublado,0,Alto
+Zona 10,7,Sábado,Soleado,0,Moderado
+Periférico,4,Jueves,Soleado,0,Bajo
+Calzada Roosevelt,0,Miércoles,Soleado,0,Moderado
+Zona 10,14,Martes,Soleado,0,Bajo
+Zona 12,3,Jueves,Nublado,0,Bajo
+Zona 10,20,Lunes,Nublado,0,Moderado
+Zona 4,9,Domingo,Soleado,0,Moderado
+Periférico,15,Lunes,Lluvia,0,Alto
+Calzada Roosevelt,16,Sábado,Nublado,0,Alto
+Calzada Roosevelt,17,Martes,Nublado,0,Alto
+Calzada Roosevelt,9,Domingo,Nublado,1,Alto
