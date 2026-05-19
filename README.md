@@ -82,7 +82,7 @@ GuateFlow/
 
 ---
 
-## 📊 Variables del Modelo
+##  Variables del Modelo
 
 | Variable | Tipo | Descripción |
 |---|---|---|
@@ -234,7 +234,7 @@ Content-Type: application/json
 
 | Modelo | Accuracy | F1-Score (macro) |
 |---|---|---|
-| **Gradient Boosting** ✅ | **77.8%** | **77.9%** |
+| **Gradient Boosting**  | **77.8%** | **77.9%** |
 | Decision Tree | 73.5% | 73.3% |
 | Random Forest | 72.1% | 71.2% |
 | Logistic Regression | 52.7% | 50.6% |
